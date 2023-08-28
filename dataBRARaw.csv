@@ -1,0 +1,2424 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Série A,2007,2007-01-08,Internacional,0,2,Vasco,VV,0,3,1
+Série A,2007,2007-01-08,Atlético-MG,1,2,Santos,VV,0,3,2
+Série A,2007,2007-01-08,Athletico-PR,2,2,Corinthians,E,1,1,3
+Série A,2007,2007-01-08,Botafogo,4,2,América-RN,VC,3,0,4
+Série A,2007,2007-01-08,Palmeiras,1,2,Sport,VV,0,3,5
+Série A,2007,2007-01-08,Náutico,0,0,Fluminense,E,1,1,6
+Série A,2007,2007-01-08,Goiás,2,0,Paraná,VC,3,0,7
+Série A,2007,2007-01-09,São Paulo,6,0,Paraná,VC,3,0,8
+Série A,2007,2007-01-09,América-RN,0,3,Juventude,VV,0,3,9
+Série A,2007,2007-01-09,Flamengo,1,1,Sport,E,1,1,10
+Série A,2007,2007-01-11,Internacional,0,0,Sport,E,1,1,11
+Série A,2007,2007-01-11,Palmeiras,0,1,Juventude,VV,0,3,12
+Série A,2007,2007-01-11,Botafogo,4,1,Cruzeiro,VC,3,0,13
+Série A,2007,2007-02-06,Atlético-MG,1,1,Athletico-PR,E,1,1,14
+Série A,2007,2007-02-06,Botafogo,3,0,Grêmio,VC,3,0,15
+Série A,2007,2007-02-06,Figueirense,2,1,Goiás,VC,3,0,16
+Série A,2007,2007-02-08,São Paulo,3,1,Juventude,VC,3,0,17
+Série A,2007,2007-02-08,Figueirense,1,0,Grêmio,VC,3,0,18
+Série A,2007,2007-02-09,Athletico-PR,1,0,Atlético-MG,VC,3,0,19
+Série A,2007,2007-02-09,Goiás,2,1,Figueirense,VC,3,0,20
+Série A,2007,2007-02-09,Fluminense,1,1,Vasco,E,1,1,21
+Série A,2007,2007-02-09,Náutico,1,1,Internacional,E,1,1,22
+Série A,2007,2007-02-09,Corinthians,2,0,Santos,VC,3,0,23
+Série A,2007,2007-02-09,Grêmio,3,0,Botafogo,VC,3,0,24
+Série A,2007,2007-02-09,Cruzeiro,5,0,Palmeiras,VC,3,0,25
+Série A,2007,2007-02-12,Grêmio,1,1,Corinthians,E,1,1,26
+Série A,2007,2007-02-12,Cruzeiro,2,0,América-RN,VC,3,0,27
+Série A,2007,2007-02-12,Santos,2,4,Fluminense,VV,0,3,28
+Série A,2007,2007-02-12,Juventude,2,1,Sport,VC,3,0,29
+Série A,2007,2007-02-12,Athletico-PR,2,1,São Paulo,VC,3,0,30
+Série A,2007,2007-02-12,Palmeiras,1,3,Atlético-MG,VV,0,3,31
+Série A,2007,2007-02-12,Vasco,3,0,Paraná,VC,3,0,32
+Série A,2007,2007-02-12,Goiás,2,1,Internacional,VC,3,0,33
+Série A,2007,2007-02-12,Botafogo,1,1,Figueirense,E,1,1,34
+Série A,2007,2007-02-12,Náutico,1,0,Flamengo,VC,3,0,35
+Série A,2007,2007-03-06,Santos,1,1,Corinthians,E,1,1,36
+Série A,2007,2007-03-06,Palmeiras,1,3,Cruzeiro,VV,0,3,37
+Série A,2007,2007-03-06,Sport,2,2,Flamengo,E,1,1,38
+Série A,2007,2007-03-06,Juventude,3,0,América-RN,VC,3,0,39
+Série A,2007,2007-03-06,Paraná,0,1,São Paulo,VV,0,3,40
+Série A,2007,2007-03-06,Vasco,1,1,Fluminense,E,1,1,41
+Série A,2007,2007-03-07,Figueirense,2,1,Cruzeiro,VC,3,0,42
+Série A,2007,2007-03-07,Palmeiras,2,0,América-RN,VC,3,0,43
+Série A,2007,2007-03-07,Grêmio,3,1,Juventude,VC,3,0,44
+Série A,2007,2007-03-07,Fluminense,0,0,Paraná,E,1,1,45
+Série A,2007,2007-03-07,Athletico-PR,1,1,Náutico,E,1,1,46
+Série A,2007,2007-03-07,Goiás,1,1,Botafogo,E,1,1,47
+Série A,2007,2007-03-07,São Paulo,1,0,Internacional,VC,3,0,48
+Série A,2007,2007-03-10,Vasco,0,1,Juventude,VV,0,3,49
+Série A,2007,2007-03-10,Grêmio,2,2,Atlético-MG,E,1,1,50
+Série A,2007,2007-03-10,Cruzeiro,0,1,Santos,VV,0,3,51
+Série A,2007,2007-03-10,Sport,4,0,Goiás,VC,3,0,52
+Série A,2007,2007-03-10,Fluminense,1,1,Corinthians,E,1,1,53
+Série A,2007,2007-03-10,Athletico-PR,2,0,Botafogo,VC,3,0,54
+Série A,2007,2007-03-10,Palmeiras,2,1,Náutico,VC,3,0,55
+Série A,2007,2007-03-11,Grêmio,1,2,Figueirense,VV,0,3,56
+Série A,2007,2007-03-11,Paraná,1,0,Goiás,VC,3,0,57
+Série A,2007,2007-03-11,Fluminense,2,1,Náutico,VC,3,0,58
+Série A,2007,2007-04-06,Internacional,2,0,Náutico,VC,3,0,59
+Série A,2007,2007-04-07,Vasco,4,0,Santos,VC,3,0,60
+Série A,2007,2007-04-07,Atlético-MG,1,1,Flamengo,E,1,1,61
+Série A,2007,2007-04-07,Sport,2,1,Corinthians,VC,3,0,62
+Série A,2007,2007-04-08,Corinthians,1,0,Goiás,VC,3,0,63
+Série A,2007,2007-04-08,América-RN,1,5,Náutico,VV,0,3,64
+Série A,2007,2007-04-08,Sport,3,2,Athletico-PR,VC,3,0,65
+Série A,2007,2007-04-10,Figueirense,0,0,Internacional,E,1,1,66
+Série A,2007,2007-04-10,Flamengo,1,0,São Paulo,VC,3,0,67
+Série A,2007,2007-04-10,América-RN,3,2,Paraná,VC,3,0,68
+Série A,2007,2007-04-11,Corinthians,2,2,Athletico-PR,E,1,1,69
+Série A,2007,2007-04-11,América-RN,1,1,Botafogo,E,1,1,70
+Série A,2007,2007-04-11,Sport,3,1,Palmeiras,VC,3,0,71
+Série A,2007,2007-04-11,Cruzeiro,3,1,Flamengo,VC,3,0,72
+Série A,2007,2007-04-11,Santos,2,2,Atlético-MG,E,1,1,73
+Série A,2007,2007-04-11,Vasco,1,2,Internacional,VV,0,3,74
+Série A,2007,2007-05-08,Vasco,2,2,Figueirense,E,1,1,75
+Série A,2007,2007-05-08,Fluminense,0,1,Palmeiras,VV,0,3,76
+Série A,2007,2007-05-08,Paraná,0,0,Botafogo,E,1,1,77
+Série A,2007,2007-05-08,Cruzeiro,3,2,Internacional,VC,3,0,78
+Série A,2007,2007-05-08,Santos,3,0,Flamengo,VC,3,0,79
+Série A,2007,2007-05-08,Juventude,1,2,Atlético-MG,VV,0,3,80
+Série A,2007,2007-05-08,Grêmio,0,2,São Paulo,VV,0,3,81
+Série A,2007,2007-05-09,Atlético-MG,0,0,São Paulo,E,1,1,82
+Série A,2007,2007-05-09,Santos,2,1,Internacional,VC,3,0,83
+Série A,2007,2007-05-09,Juventude,1,0,Cruzeiro,VC,3,0,84
+Série A,2007,2007-05-09,Grêmio,3,1,Vasco,VC,3,0,85
+Série A,2007,2007-05-09,Flamengo,4,1,Figueirense,VC,3,0,86
+Série A,2007,2007-05-09,Corinthians,1,0,América-RN,VC,3,0,87
+Série A,2007,2007-05-09,Goiás,2,3,Athletico-PR,VV,0,3,88
+Série A,2007,2007-06-07,Paraná,0,1,América-RN,VV,0,3,89
+Série A,2007,2007-06-09,Sport,0,2,Fluminense,VV,0,3,90
+Série A,2007,2007-06-09,Paraná,2,4,Náutico,VV,0,3,91
+Série A,2007,2007-06-09,Botafogo,1,1,Palmeiras,E,1,1,92
+Série A,2007,2007-06-10,Náutico,4,1,Juventude,VC,3,0,93
+Série A,2007,2007-06-10,Botafogo,1,2,Santos,VV,0,3,94
+Série A,2007,2007-06-10,Palmeiras,2,0,Grêmio,VC,3,0,95
+Série A,2007,2007-07-07,Atlético-MG,0,1,Grêmio,VV,0,3,96
+Série A,2007,2007-07-07,Botafogo,2,0,Athletico-PR,VC,3,0,97
+Série A,2007,2007-07-07,Corinthians,1,1,Fluminense,E,1,1,98
+Série A,2007,2007-07-07,Santos,4,1,Cruzeiro,VC,3,0,99
+Série A,2007,2007-07-07,São Paulo,0,0,Flamengo,E,1,1,100
+Série A,2007,2007-07-07,Goiás,3,2,Sport,VC,3,0,101
+Série A,2007,2007-07-07,Internacional,2,1,Figueirense,VC,3,0,102
+Série A,2007,2007-07-07,Náutico,0,1,Palmeiras,VV,0,3,103
+Série A,2007,2007-07-07,Juventude,2,0,Vasco,VC,3,0,104
+Série A,2007,2007-07-10,Goiás,0,0,Cruzeiro,E,1,1,105
+Série A,2007,2007-07-10,Athletico-PR,1,0,Vasco,VC,3,0,106
+Série A,2007,2007-07-10,São Paulo,0,1,Corinthians,VV,0,3,107
+Série A,2007,2007-07-10,Figueirense,4,0,Paraná,VC,3,0,108
+Série A,2007,2007-07-10,Internacional,2,0,América-RN,VC,3,0,109
+Série A,2007,2007-07-10,Flamengo,0,2,Fluminense,VV,0,3,110
+Série A,2007,2007-07-10,Atlético-MG,3,1,Sport,VC,3,0,111
+Série A,2007,2007-07-11,Juventude,2,0,São Paulo,VC,3,0,112
+Série A,2007,2007-08-08,Goiás,3,2,Atlético-MG,VC,3,0,113
+Série A,2007,2007-08-08,Botafogo,0,2,São Paulo,VV,0,3,114
+Série A,2007,2007-08-08,Cruzeiro,2,0,Sport,VC,3,0,115
+Série A,2007,2007-08-08,Juventude,0,0,Fluminense,E,1,1,116
+Série A,2007,2007-08-08,Náutico,4,2,Figueirense,VC,3,0,117
+Série A,2007,2007-08-08,Athletico-PR,2,0,Flamengo,VC,3,0,118
+Série A,2007,2007-08-09,Cruzeiro,2,0,Grêmio,VC,3,0,119
+Série A,2007,2007-08-09,Internacional,3,0,Flamengo,VC,3,0,120
+Série A,2007,2007-08-09,Figueirense,2,1,Atlético-MG,VC,3,0,121
+Série A,2007,2007-08-09,Vasco,0,2,São Paulo,VV,0,3,122
+Série A,2007,2007-08-09,Santos,1,0,Juventude,VC,3,0,123
+Série A,2007,2007-09-06,Náutico,4,4,Paraná,E,1,1,124
+Série A,2007,2007-09-06,Palmeiras,1,1,Botafogo,E,1,1,125
+Série A,2007,2007-09-06,Vasco,4,0,Grêmio,VC,3,0,126
+Série A,2007,2007-09-08,Santos,2,0,Paraná,VC,3,0,127
+Série A,2007,2007-09-08,Palmeiras,1,1,Internacional,E,1,1,128
+Série A,2007,2007-09-08,Grêmio,3,0,América-RN,VC,3,0,129
+Série A,2007,2007-09-08,Vasco,2,0,Corinthians,VC,3,0,130
+Série A,2007,2007-09-09,Fluminense,2,0,Athletico-PR,VC,3,0,131
+Série A,2007,2007-09-09,Paraná,1,0,Corinthians,VC,3,0,132
+Série A,2007,2007-09-09,América-RN,1,1,Sport,E,1,1,133
+Série A,2007,2007-09-09,Palmeiras,2,0,Goiás,VC,3,0,134
+Série A,2007,2007-09-09,Náutico,4,1,Botafogo,VC,3,0,135
+Série A,2007,2007-10-06,São Paulo,0,1,Atlético-MG,VV,0,3,136
+Série A,2007,2007-10-06,Cruzeiro,2,3,Juventude,VV,0,3,137
+Série A,2007,2007-10-06,Athletico-PR,0,3,Goiás,VV,0,3,138
+Série A,2007,2007-10-06,Figueirense,4,0,Flamengo,VC,3,0,139
+Série A,2007,2007-10-06,Fluminense,3,0,Sport,VC,3,0,140
+Série A,2007,2007-10-06,América-RN,1,2,Corinthians,VV,0,3,141
+Série A,2007,2007-10-06,Internacional,1,0,Santos,VC,3,0,142
+Série A,2007,2007-10-11,Náutico,4,0,América-RN,VC,3,0,143
+Série A,2007,2007-10-11,Botafogo,3,2,Paraná,VC,3,0,144
+Série A,2007,2007-10-11,Internacional,1,0,Cruzeiro,VC,3,0,145
+Série A,2007,2007-11-08,Flamengo,2,1,Náutico,VC,3,0,146
+Série A,2007,2007-11-08,Sport,3,0,Juventude,VC,3,0,147
+Série A,2007,2007-11-08,São Paulo,2,0,Athletico-PR,VC,3,0,148
+Série A,2007,2007-11-11,Athletico-PR,0,0,Sport,E,1,1,149
+Série A,2007,2007-11-11,Goiás,1,1,Corinthians,E,1,1,150
+Série A,2007,2007-11-11,Atlético-MG,4,1,Juventude,VC,3,0,151
+Série A,2007,2007-11-11,São Paulo,1,0,Grêmio,VC,3,0,152
+Série A,2007,2007-11-11,Figueirense,3,3,Vasco,E,1,1,153
+Série A,2007,2007-11-11,Flamengo,1,0,Santos,VC,3,0,154
+Série A,2007,2007-12-05,Figueirense,3,6,Athletico-PR,VV,0,3,155
+Série A,2007,2007-12-05,Fluminense,2,2,Cruzeiro,E,1,1,156
+Série A,2007,2007-12-05,São Paulo,2,0,Goiás,VC,3,0,157
+Série A,2007,2007-12-07,Vasco,1,0,Athletico-PR,VC,3,0,158
+Série A,2007,2007-12-07,Juventude,1,1,Náutico,E,1,1,159
+Série A,2007,2007-12-07,Paraná,1,2,Figueirense,VV,0,3,160
+Série A,2007,2007-12-08,Corinthians,2,1,Grêmio,VC,3,0,161
+Série A,2007,2007-12-08,Fluminense,3,0,Santos,VC,3,0,162
+Série A,2007,2007-12-08,Paraná,0,0,Vasco,E,1,1,163
+Série A,2007,2007-12-08,América-RN,1,2,Cruzeiro,VV,0,3,164
+Série A,2007,2007-12-08,Internacional,1,0,Goiás,VC,3,0,165
+Série A,2007,2007-12-08,Figueirense,1,1,Botafogo,E,1,1,166
+Série A,2007,2007-12-08,Atlético-MG,1,2,Palmeiras,VV,0,3,167
+Série A,2007,2007-12-09,Flamengo,3,1,Cruzeiro,VC,3,0,168
+Série A,2007,2007-12-10,Juventude,0,0,Athletico-PR,E,1,1,169
+Série A,2007,2007-12-10,Cruzeiro,2,2,Náutico,E,1,1,170
+Série A,2007,2007-12-10,Sport,0,0,Figueirense,E,1,1,171
+Série A,2008,2008-01-06,Fluminense,0,1,Flamengo,VV,0,3,1
+Série A,2008,2008-01-06,Palmeiras,1,0,Athletico-PR,VC,3,0,2
+Série A,2008,2008-01-06,Ipatinga,2,0,Vitória,VC,3,0,3
+Série A,2008,2008-01-06,Coritiba,1,1,Cruzeiro,E,1,1,4
+Série A,2008,2008-01-06,Santos,0,0,São Paulo,E,1,1,5
+Série A,2008,2008-01-06,Náutico,3,0,Botafogo,VC,3,0,6
+Série A,2008,2008-01-06,Atlético-MG,2,0,Portuguesa,VC,3,0,7
+Série A,2008,2008-01-10,Fluminense,1,1,Goiás,E,1,1,8
+Série A,2008,2008-01-11,Ipatinga,2,0,Coritiba,VC,3,0,9
+Série A,2008,2008-01-11,Flamengo,2,2,Portuguesa,E,1,1,10
+Série A,2008,2008-01-11,Náutico,1,0,Vitória,VC,3,0,11
+Série A,2008,2008-02-08,Fluminense,1,2,Internacional,VV,0,3,12
+Série A,2008,2008-02-08,Náutico,1,2,Figueirense,VV,0,3,13
+Série A,2008,2008-02-08,Goiás,4,0,Portuguesa,VC,3,0,14
+Série A,2008,2008-02-10,Cruzeiro,1,0,Sport,VC,3,0,15
+Série A,2008,2008-02-10,Vitória,3,1,Portuguesa,VC,3,0,16
+Série A,2008,2008-02-11,São Paulo,3,0,Internacional,VC,3,0,17
+Série A,2008,2008-02-11,Goiás,3,0,Cruzeiro,VC,3,0,18
+Série A,2008,2008-02-11,Santos,1,2,Palmeiras,VV,0,3,19
+Série A,2008,2008-02-11,Grêmio,1,1,Figueirense,E,1,1,20
+Série A,2008,2008-02-11,Athletico-PR,1,0,Sport,VC,3,0,21
+Série A,2008,2008-02-11,Fluminense,0,1,Vasco,VV,0,3,22
+Série A,2008,2008-02-11,Atlético-MG,2,1,Botafogo,VC,3,0,23
+Série A,2008,2008-03-08,Flamengo,1,2,Cruzeiro,VV,0,3,24
+Série A,2008,2008-03-08,Ipatinga,1,2,Palmeiras,VV,0,3,25
+Série A,2008,2008-03-08,São Paulo,4,0,Vasco,VC,3,0,26
+Série A,2008,2008-03-08,Grêmio,2,0,Vitória,VC,3,0,27
+Série A,2008,2008-03-08,Athletico-PR,0,3,Botafogo,VV,0,3,28
+Série A,2008,2008-03-08,Santos,1,3,Coritiba,VV,0,3,29
+Série A,2008,2008-03-08,Atlético-MG,2,1,Sport,VC,3,0,30
+Série A,2008,2008-03-09,Figueirense,2,3,Flamengo,VV,0,3,31
+Série A,2008,2008-03-09,Atlético-MG,1,1,São Paulo,E,1,1,32
+Série A,2008,2008-03-09,Goiás,4,0,Athletico-PR,VC,3,0,33
+Série A,2008,2008-03-09,Santos,2,0,Vitória,VC,3,0,34
+Série A,2008,2008-04-09,Palmeiras,0,3,Sport,VV,0,3,35
+Série A,2008,2008-04-09,Vasco,1,3,Cruzeiro,VV,0,3,36
+Série A,2008,2008-04-10,Coritiba,4,2,Internacional,VC,3,0,37
+Série A,2008,2008-04-10,Palmeiras,3,1,Atlético-MG,VC,3,0,38
+Série A,2008,2008-04-10,Ipatinga,1,3,São Paulo,VV,0,3,39
+Série A,2008,2008-04-10,Vasco,2,4,Figueirense,VV,0,3,40
+Série A,2008,2008-04-10,Grêmio,2,1,Botafogo,VC,3,0,41
+Série A,2008,2008-04-10,Santos,4,0,Athletico-PR,VC,3,0,42
+Série A,2008,2008-04-10,Náutico,0,2,Flamengo,VV,0,3,43
+Série A,2008,2008-05-07,Sport,1,0,Cruzeiro,VC,3,0,44
+Série A,2008,2008-05-07,Athletico-PR,1,0,Santos,VC,3,0,45
+Série A,2008,2008-05-07,Flamengo,3,0,Náutico,VC,3,0,46
+Série A,2008,2008-05-11,Figueirense,0,1,Fluminense,VV,0,3,47
+Série A,2008,2008-06-07,Botafogo,2,0,Grêmio,VC,3,0,48
+Série A,2008,2008-06-07,Internacional,3,0,Coritiba,VC,3,0,49
+Série A,2008,2008-06-07,Atlético-MG,1,1,Palmeiras,E,1,1,50
+Série A,2008,2008-06-07,Portuguesa,1,2,Vitória,VV,0,3,51
+Série A,2008,2008-06-07,Figueirense,2,1,Vasco,VC,3,0,52
+Série A,2008,2008-06-07,São Paulo,1,1,Ipatinga,E,1,1,53
+Série A,2008,2008-06-07,Goiás,1,0,Fluminense,VC,3,0,54
+Série A,2008,2008-06-08,Fluminense,3,1,São Paulo,VC,3,0,55
+Série A,2008,2008-06-08,Santos,2,3,Atlético-MG,VV,0,3,56
+Série A,2008,2008-06-08,Sport,2,0,Portuguesa,VC,3,0,57
+Série A,2008,2008-06-08,Athletico-PR,2,0,Náutico,VC,3,0,58
+Série A,2008,2008-06-08,Vasco,0,2,Coritiba,VV,0,3,59
+Série A,2008,2008-06-08,Grêmio,1,0,Ipatinga,VC,3,0,60
+Série A,2008,2008-06-08,Goiás,2,1,Flamengo,VC,3,0,61
+Série A,2008,2008-06-09,Náutico,2,0,Ipatinga,VC,3,0,62
+Série A,2008,2008-06-09,Internacional,1,0,Portuguesa,VC,3,0,63
+Série A,2008,2008-06-09,Coritiba,0,1,Botafogo,VV,0,3,64
+Série A,2008,2008-06-09,Fluminense,0,0,Grêmio,E,1,1,65
+Série A,2008,2008-07-06,Ipatinga,0,0,Náutico,E,1,1,66
+Série A,2008,2008-07-06,Flamengo,5,0,Figueirense,VC,3,0,67
+Série A,2008,2008-07-06,São Paulo,5,1,Atlético-MG,VC,3,0,68
+Série A,2008,2008-07-08,Figueirense,1,2,Botafogo,VV,0,3,69
+Série A,2008,2008-07-08,Palmeiras,3,0,Vitória,VC,3,0,70
+Série A,2008,2008-07-08,Cruzeiro,2,0,Internacional,VC,3,0,71
+Série A,2008,2008-07-12,Vasco,0,2,Vitória,VV,0,3,72
+Série A,2008,2008-07-12,Goiás,0,1,São Paulo,VV,0,3,73
+Série A,2008,2008-07-12,Santos,0,0,Náutico,E,1,1,74
+Série A,2008,2008-07-12,Athletico-PR,5,3,Flamengo,VC,3,0,75
+Série A,2008,2008-07-12,Sport,4,3,Coritiba,VC,3,0,76
+Série A,2008,2008-07-12,Figueirense,3,1,Internacional,VC,3,0,77
+Série A,2008,2008-07-12,Palmeiras,0,1,Botafogo,VV,0,3,78
+Série A,2008,2008-07-12,Grêmio,2,0,Atlético-MG,VC,3,0,79
+Série A,2008,2008-07-12,Cruzeiro,4,1,Portuguesa,VC,3,0,80
+Série A,2008,2008-07-12,Fluminense,1,1,Ipatinga,E,1,1,81
+Série A,2008,2008-08-06,Vitória,1,0,Santos,VC,3,0,82
+Série A,2008,2008-08-06,Grêmio,2,1,Fluminense,VC,3,0,83
+Série A,2008,2008-08-06,Portuguesa,3,1,Internacional,VC,3,0,84
+Série A,2008,2008-08-06,Botafogo,2,1,Coritiba,VC,3,0,85
+Série A,2008,2008-08-06,Sport,2,0,Palmeiras,VC,3,0,86
+Série A,2008,2008-08-06,Cruzeiro,1,0,Vasco,VC,3,0,87
+Série A,2008,2008-08-06,Athletico-PR,5,0,Goiás,VC,3,0,88
+Série A,2008,2008-08-10,Grêmio,2,0,Santos,VC,3,0,89
+Série A,2008,2008-08-10,Figueirense,0,0,Palmeiras,E,1,1,90
+Série A,2008,2008-08-10,Sport,2,2,Vasco,E,1,1,91
+Série A,2008,2008-08-11,Portuguesa,2,3,São Paulo,VV,0,3,92
+Série A,2008,2008-08-11,Vasco,1,0,Santos,VC,3,0,93
+Série A,2008,2008-08-11,Figueirense,0,2,Athletico-PR,VV,0,3,94
+Série A,2008,2008-09-07,Atlético-MG,1,1,Flamengo,E,1,1,95
+Série A,2008,2008-09-07,Náutico,2,1,São Paulo,VC,3,0,96
+Série A,2008,2008-09-07,Vitória,5,2,Botafogo,VC,3,0,97
+Série A,2008,2008-09-07,Santos,1,1,Grêmio,E,1,1,98
+Série A,2008,2008-09-07,Coritiba,4,0,Portuguesa,VC,3,0,99
+Série A,2008,2008-09-07,Internacional,1,0,Goiás,VC,3,0,100
+Série A,2008,2008-09-07,Fluminense,3,0,Athletico-PR,VC,3,0,101
+Série A,2008,2008-09-08,Flamengo,1,0,Athletico-PR,VC,3,0,102
+Série A,2008,2008-09-08,Atlético-MG,0,4,Grêmio,VV,0,3,103
+Série A,2008,2008-09-08,São Paulo,2,1,Goiás,VC,3,0,104
+Série A,2008,2008-09-10,São Paulo,1,0,Náutico,VC,3,0,105
+Série A,2008,2008-09-10,Botafogo,3,1,Vitória,VC,3,0,106
+Série A,2008,2008-09-10,Cruzeiro,1,0,Ipatinga,VC,3,0,107
+Série A,2008,2008-09-11,Botafogo,0,1,Flamengo,VV,0,3,108
+Série A,2008,2008-09-11,Internacional,4,0,Ipatinga,VC,3,0,109
+Série A,2008,2008-09-11,Palmeiras,0,1,Grêmio,VV,0,3,110
+Série A,2008,2008-09-11,Cruzeiro,1,0,Fluminense,VC,3,0,111
+Série A,2008,2008-09-11,Coritiba,0,0,Náutico,E,1,1,112
+Série A,2008,2008-09-11,Sport,2,1,Goiás,VC,3,0,113
+Série A,2008,2008-09-11,Vitória,0,1,Atlético-MG,VV,0,3,114
+Série A,2008,2008-10-05,São Paulo,0,1,Grêmio,VV,0,3,115
+Série A,2008,2008-10-05,Náutico,2,1,Goiás,VC,3,0,116
+Série A,2008,2008-10-05,Vitória,0,2,Cruzeiro,VV,0,3,117
+Série A,2008,2008-10-07,Vasco,4,0,Sport,VC,3,0,118
+Série A,2008,2008-10-07,Palmeiras,1,1,Figueirense,E,1,1,119
+Série A,2008,2008-10-07,Ipatinga,2,2,Cruzeiro,E,1,1,120
+Série A,2008,2008-10-08,Internacional,1,1,Figueirense,E,1,1,121
+Série A,2008,2008-10-08,Coritiba,3,0,Sport,VC,3,0,122
+Série A,2008,2008-10-08,Botafogo,1,0,Palmeiras,VC,3,0,123
+Série A,2008,2008-10-08,Vitória,5,0,Vasco,VC,3,0,124
+Série A,2008,2008-10-08,Portuguesa,2,1,Cruzeiro,VC,3,0,125
+Série A,2008,2008-10-08,Ipatinga,2,1,Fluminense,VC,3,0,126
+Série A,2008,2008-10-08,Náutico,1,0,Santos,VC,3,0,127
+Série A,2008,2008-11-05,Botafogo,2,0,Sport,VC,3,0,128
+Série A,2008,2008-11-05,Atlético-MG,0,0,Fluminense,E,1,1,129
+Série A,2008,2008-11-05,Ipatinga,0,1,Athletico-PR,VV,0,3,130
+Série A,2008,2008-11-05,Portuguesa,5,5,Figueirense,E,1,1,131
+Série A,2008,2008-11-05,Flamengo,3,1,Santos,VC,3,0,132
+Série A,2008,2008-11-05,Coritiba,2,0,Palmeiras,VC,3,0,133
+Série A,2008,2008-11-05,Internacional,1,0,Vasco,VC,3,0,134
+Série A,2008,2008-11-10,Portuguesa,0,0,Coritiba,E,1,1,135
+Série A,2008,2008-11-10,Athletico-PR,1,3,Fluminense,VV,0,3,136
+Série A,2008,2008-11-10,Flamengo,0,3,Atlético-MG,VV,0,3,137
+Série A,2008,2008-11-10,Goiás,1,1,Internacional,E,1,1,138
+Série A,2008,2008-12-06,Fluminense,1,1,Santos,E,1,1,139
+Série A,2008,2008-12-06,Palmeiras,5,2,Cruzeiro,VC,3,0,140
+Série A,2008,2008-12-06,Atlético-MG,4,2,Ipatinga,VC,3,0,141
+Série A,2008,2008-12-07,Goiás,2,2,Coritiba,E,1,1,142
+Série A,2008,2008-12-07,Fluminense,2,1,Vitória,VC,3,0,143
+Série A,2008,2008-12-11,Atlético-MG,4,1,Vasco,VC,3,0,144
+Série A,2009,2009-01-08,Botafogo,2,1,G. Barueri/Prudente,VC,3,0,1
+Série A,2009,2009-01-08,Sport,0,1,Palmeiras,VV,0,3,2
+Série A,2009,2009-01-11,Goiás,2,3,Atlético-MG,VV,0,3,3
+Série A,2009,2009-01-11,Náutico,3,2,Sport,VC,3,0,4
+Série A,2009,2009-01-11,Cruzeiro,2,3,Fluminense,VV,0,3,5
+Série A,2009,2009-01-11,Coritiba,1,0,Vitória,VC,3,0,6
+Série A,2009,2009-01-11,Internacional,0,1,Botafogo,VV,0,3,7
+Série A,2009,2009-01-11,Palmeiras,2,2,Corinthians,E,1,1,8
+Série A,2009,2009-01-11,Santo André,2,0,Grêmio,VC,3,0,9
+Série A,2009,2009-02-08,Santo André,1,2,Goiás,VV,0,3,10
+Série A,2009,2009-02-08,Corinthians,0,0,Avaí,E,1,1,11
+Série A,2009,2009-02-08,Atlético-MG,3,2,Coritiba,VC,3,0,12
+Série A,2009,2009-02-08,Athletico-PR,1,0,Fluminense,VC,3,0,13
+Série A,2009,2009-02-08,Vitória,0,1,São Paulo,VV,0,3,14
+Série A,2009,2009-02-08,Flamengo,1,1,Náutico,E,1,1,15
+Série A,2009,2009-02-08,Grêmio,4,1,Cruzeiro,VC,3,0,16
+Série A,2009,2009-02-09,Internacional,3,0,Atlético-MG,VC,3,0,17
+Série A,2009,2009-02-09,Corinthians,2,1,Santos,VC,3,0,18
+Série A,2009,2009-03-10,Corinthians,1,3,Athletico-PR,VV,0,3,19
+Série A,2009,2009-03-10,Santo André,1,0,Vitória,VC,3,0,20
+Série A,2009,2009-03-10,Atlético-MG,2,1,G. Barueri/Prudente,VC,3,0,21
+Série A,2009,2009-04-06,Santo André,3,3,Santos,E,1,1,22
+Série A,2009,2009-04-06,Grêmio,3,0,Náutico,VC,3,0,23
+Série A,2009,2009-04-07,Santos,1,0,Sport,VC,3,0,24
+Série A,2009,2009-04-07,Santo André,1,1,G. Barueri/Prudente,E,1,1,25
+Série A,2009,2009-04-07,Flamengo,2,1,Vitória,VC,3,0,26
+Série A,2009,2009-04-10,Santos,1,3,Palmeiras,VV,0,3,27
+Série A,2009,2009-04-10,Grêmio,3,3,Sport,E,1,1,28
+Série A,2009,2009-04-10,Flamengo,2,0,Fluminense,VC,3,0,29
+Série A,2009,2009-04-10,Goiás,1,3,Botafogo,VV,0,3,30
+Série A,2009,2009-04-10,Avaí,2,2,Cruzeiro,E,1,1,31
+Série A,2009,2009-04-10,Coritiba,2,0,Internacional,VC,3,0,32
+Série A,2009,2009-04-11,Grêmio,1,1,São Paulo,E,1,1,33
+Série A,2009,2009-05-07,Coritiba,2,0,São Paulo,VC,3,0,34
+Série A,2009,2009-05-07,Atlético-MG,1,1,Botafogo,E,1,1,35
+Série A,2009,2009-05-07,Goiás,1,0,Cruzeiro,VC,3,0,36
+Série A,2009,2009-05-07,Grêmio,4,1,Athletico-PR,VC,3,0,37
+Série A,2009,2009-05-07,Avaí,0,3,Palmeiras,VV,0,3,38
+Série A,2009,2009-05-07,Náutico,0,2,Internacional,VV,0,3,39
+Série A,2009,2009-05-08,São Paulo,3,1,Botafogo,VC,3,0,40
+Série A,2009,2009-05-08,Coritiba,0,1,Santos,VV,0,3,41
+Série A,2009,2009-05-08,Goiás,3,2,Flamengo,VC,3,0,42
+Série A,2009,2009-05-08,Cruzeiro,0,2,Athletico-PR,VV,0,3,43
+Série A,2009,2009-05-08,Avaí,1,0,Santo André,VC,3,0,44
+Série A,2009,2009-05-08,Náutico,1,0,Corinthians,VC,3,0,45
+Série A,2009,2009-05-09,Sport,2,1,Botafogo,VC,3,0,46
+Série A,2009,2009-05-09,Grêmio,1,1,Vitória,E,1,1,47
+Série A,2009,2009-05-09,Palmeiras,2,1,G. Barueri/Prudente,VC,3,0,48
+Série A,2009,2009-05-12,Atlético-MG,0,3,Corinthians,VV,0,3,49
+Série A,2009,2009-05-12,Náutico,0,1,Avaí,VV,0,3,50
+Série A,2009,2009-06-06,Corinthians,2,0,Coritiba,VC,3,0,51
+Série A,2009,2009-06-08,G. Barueri/Prudente,4,0,Vitória,VC,3,0,52
+Série A,2009,2009-06-08,Palmeiras,1,1,Grêmio,E,1,1,53
+Série A,2009,2009-06-08,Fluminense,5,1,Sport,VC,3,0,54
+Série A,2009,2009-06-09,Athletico-PR,0,0,Flamengo,E,1,1,55
+Série A,2009,2009-06-09,Fluminense,1,1,Náutico,E,1,1,56
+Série A,2009,2009-06-09,Goiás,2,2,Coritiba,E,1,1,57
+Série A,2009,2009-06-09,Cruzeiro,1,2,São Paulo,VV,0,3,58
+Série A,2009,2009-06-09,Avaí,0,2,Internacional,VV,0,3,59
+Série A,2009,2009-06-09,Santo André,1,2,Atlético-MG,VV,0,3,60
+Série A,2009,2009-06-12,Botafogo,2,1,Palmeiras,VC,3,0,61
+Série A,2009,2009-06-12,G. Barueri/Prudente,0,0,Athletico-PR,E,1,1,62
+Série A,2009,2009-06-12,Vitória,2,2,Goiás,E,1,1,63
+Série A,2009,2009-06-12,Santos,1,2,Cruzeiro,VV,0,3,64
+Série A,2009,2009-06-12,São Paulo,4,0,Sport,VC,3,0,65
+Série A,2009,2009-06-12,Coritiba,1,1,Fluminense,E,1,1,66
+Série A,2009,2009-06-12,Flamengo,2,1,Grêmio,VC,3,0,67
+Série A,2009,2009-06-12,Internacional,4,1,Santo André,VC,3,0,68
+Série A,2009,2009-07-06,Palmeiras,2,1,Vitória,VC,3,0,69
+Série A,2009,2009-07-06,Sport,4,2,Flamengo,VC,3,0,70
+Série A,2009,2009-07-06,Avaí,0,0,São Paulo,E,1,1,71
+Série A,2009,2009-07-06,Athletico-PR,0,4,Atlético-MG,VV,0,3,72
+Série A,2009,2009-07-06,Cruzeiro,1,1,Internacional,E,1,1,73
+Série A,2009,2009-07-06,Fluminense,1,0,Botafogo,VC,3,0,74
+Série A,2009,2009-07-06,Goiás,2,2,G. Barueri/Prudente,E,1,1,75
+Série A,2009,2009-07-10,São Paulo,2,2,Coritiba,E,1,1,76
+Série A,2009,2009-07-10,Athletico-PR,0,0,Grêmio,E,1,1,77
+Série A,2009,2009-07-10,Internacional,3,1,Náutico,VC,3,0,78
+Série A,2009,2009-07-10,Vitória,3,3,Flamengo,E,1,1,79
+Série A,2009,2009-07-10,Fluminense,1,1,Corinthians,E,1,1,80
+Série A,2009,2009-07-10,Sport,0,1,Santos,VV,0,3,81
+Série A,2009,2009-07-10,G. Barueri/Prudente,0,0,Santo André,E,1,1,82
+Série A,2009,2009-07-11,Sport,2,3,Cruzeiro,VV,0,3,83
+Série A,2009,2009-07-11,Santos,3,1,Náutico,VC,3,0,84
+Série A,2009,2009-07-11,Vitória,0,1,Avaí,VV,0,3,85
+Série A,2009,2009-08-07,Corinthians,4,2,Fluminense,VC,3,0,86
+Série A,2009,2009-08-08,Santos,2,2,Avaí,E,1,1,87
+Série A,2009,2009-08-08,Náutico,2,1,Santo André,VC,3,0,88
+Série A,2009,2009-08-08,Botafogo,0,1,Athletico-PR,VV,0,3,89
+Série A,2009,2009-08-10,Palmeiras,2,2,Avaí,E,1,1,90
+Série A,2009,2009-08-10,Cruzeiro,3,0,Goiás,VC,3,0,91
+Série A,2009,2009-08-10,Botafogo,3,1,Atlético-MG,VC,3,0,92
+Série A,2009,2009-08-11,Corinthians,2,0,Santo André,VC,3,0,93
+Série A,2009,2009-08-11,Botafogo,2,0,Coritiba,VC,3,0,94
+Série A,2009,2009-08-11,Atlético-MG,1,3,Flamengo,VV,0,3,95
+Série A,2009,2009-08-11,Fluminense,1,0,Palmeiras,VC,3,0,96
+Série A,2009,2009-08-11,Athletico-PR,2,0,Goiás,VC,3,0,97
+Série A,2009,2009-08-11,G. Barueri/Prudente,1,1,Internacional,E,1,1,98
+Série A,2009,2009-09-05,Avaí,2,2,Atlético-MG,E,1,1,99
+Série A,2009,2009-09-05,Palmeiras,2,1,Coritiba,VC,3,0,100
+Série A,2009,2009-09-05,Sport,1,1,G. Barueri/Prudente,E,1,1,101
+Série A,2009,2009-09-08,G. Barueri/Prudente,1,0,Grêmio,VC,3,0,102
+Série A,2009,2009-09-08,Flamengo,1,0,Corinthians,VC,3,0,103
+Série A,2009,2009-09-08,Coritiba,1,3,Cruzeiro,VV,0,3,104
+Série A,2009,2009-09-08,São Paulo,3,1,Goiás,VC,3,0,105
+Série A,2009,2009-09-08,Vitória,2,2,Fluminense,E,1,1,106
+Série A,2009,2009-10-05,Athletico-PR,0,2,Vitória,VV,0,3,107
+Série A,2009,2009-10-05,Grêmio,1,1,Santos,E,1,1,108
+Série A,2009,2009-10-05,Goiás,3,3,Náutico,E,1,1,109
+Série A,2009,2009-10-05,Santo André,1,1,Botafogo,E,1,1,110
+Série A,2009,2009-10-05,Cruzeiro,2,0,Flamengo,VC,3,0,111
+Série A,2009,2009-10-05,Corinthians,0,1,Internacional,VV,0,3,112
+Série A,2009,2009-10-05,Fluminense,1,0,São Paulo,VC,3,0,113
+Série A,2009,2009-10-08,Internacional,3,0,Sport,VC,3,0,114
+Série A,2009,2009-10-10,Flamengo,2,1,São Paulo,VC,3,0,115
+Série A,2009,2009-10-10,Internacional,1,1,Athletico-PR,E,1,1,116
+Série A,2009,2009-10-10,Coritiba,1,2,G. Barueri/Prudente,VV,0,3,117
+Série A,2009,2009-10-10,Santo André,1,2,Fluminense,VV,0,3,118
+Série A,2009,2009-10-10,Corinthians,2,1,Grêmio,VC,3,0,119
+Série A,2009,2009-11-07,Avaí,1,2,Botafogo,VV,0,3,120
+Série A,2009,2009-11-07,G. Barueri/Prudente,3,1,Coritiba,VC,3,0,121
+Série A,2009,2009-11-07,Palmeiras,4,1,Náutico,VC,3,0,122
+Série A,2009,2009-11-11,Palmeiras,2,2,Sport,E,1,1,123
+Série A,2009,2009-12-07,Fluminense,0,1,Santo André,VV,0,3,124
+Série A,2009,2009-12-07,São Paulo,2,2,Flamengo,E,1,1,125
+Série A,2009,2009-12-07,Cruzeiro,0,3,Atlético-MG,VV,0,3,126
+Série A,2009,2009-12-07,Grêmio,3,0,Corinthians,VC,3,0,127
+Série A,2009,2009-12-07,Vitória,6,2,Santos,VC,3,0,128
+Série A,2009,2009-12-07,Athletico-PR,3,2,Internacional,VC,3,0,129
+Série A,2009,2009-12-07,Sport,1,0,Goiás,VC,3,0,130
+Série A,2009,2009-12-08,Atlético-MG,1,1,Palmeiras,E,1,1,131
+Série A,2009,2009-12-09,São Paulo,2,0,Avaí,VC,3,0,132
+Série A,2009,2009-12-09,Flamengo,3,0,Sport,VC,3,0,133
+Série A,2009,2009-12-10,Goiás,1,1,Sport,E,1,1,134
+Série A,2009,2009-12-10,Náutico,3,0,Palmeiras,VC,3,0,135
+Série A,2009,2009-12-10,Santos,0,0,Vitória,E,1,1,136
+Série A,2009,2009-12-10,Botafogo,2,2,Avaí,E,1,1,137
+Série A,2009,2009-12-10,Atlético-MG,0,1,Cruzeiro,VV,0,3,138
+Série A,2010,2010-01-08,Vitória,1,3,Botafogo,VV,0,3,1
+Série A,2010,2010-01-08,Avaí,4,1,Goiás,VC,3,0,2
+Série A,2010,2010-01-08,Internacional,0,0,Grêmio,E,1,1,3
+Série A,2010,2010-01-08,Atlético-MG,0,1,Cruzeiro,VV,0,3,4
+Série A,2010,2010-01-08,G. Barueri/Prudente,1,2,Santos,VV,0,3,5
+Série A,2010,2010-01-08,Flamengo,0,0,Vasco,E,1,1,6
+Série A,2010,2010-01-08,Palmeiras,1,1,Corinthians,E,1,1,7
+Série A,2010,2010-01-09,Fluminense,1,1,Palmeiras,E,1,1,8
+Série A,2010,2010-01-09,Athletico-PR,2,1,Ceará,VC,3,0,9
+Série A,2010,2010-01-09,Cruzeiro,1,0,Flamengo,VC,3,0,10
+Série A,2010,2010-01-09,Goiás,1,3,Atlético-MG,VV,0,3,11
+Série A,2010,2010-01-09,G. Barueri/Prudente,0,1,Botafogo,VV,0,3,12
+Série A,2010,2010-01-09,Vitória,0,0,Internacional,E,1,1,13
+Série A,2010,2010-01-09,Grêmio,1,0,Guarani,VC,3,0,14
+Série A,2010,2010-01-10,Vasco,3,2,Goiás,VC,3,0,15
+Série A,2010,2010-02-06,G. Barueri/Prudente,1,0,Atlético-GO,VC,3,0,16
+Série A,2010,2010-02-06,Ceará,2,0,Avaí,VC,3,0,17
+Série A,2010,2010-02-06,Athletico-PR,3,2,Botafogo,VC,3,0,18
+Série A,2010,2010-02-06,Goiás,2,1,São Paulo,VC,3,0,19
+Série A,2010,2010-02-06,Cruzeiro,0,0,Santos,E,1,1,20
+Série A,2010,2010-02-06,Fluminense,2,1,Vitória,VC,3,0,21
+Série A,2010,2010-02-06,Palmeiras,0,1,Flamengo,VV,0,3,22
+Série A,2010,2010-02-09,São Paulo,2,1,Atlético-GO,VC,3,0,23
+Série A,2010,2010-02-09,Santos,2,1,Avaí,VC,3,0,24
+Série A,2010,2010-02-10,Internacional,3,0,Guarani,VC,3,0,25
+Série A,2010,2010-02-10,Corinthians,2,2,Ceará,E,1,1,26
+Série A,2010,2010-02-10,Santos,1,1,Palmeiras,E,1,1,27
+Série A,2010,2010-02-10,Botafogo,1,1,Flamengo,E,1,1,28
+Série A,2010,2010-02-10,G. Barueri/Prudente,1,1,Fluminense,E,1,1,29
+Série A,2010,2010-02-10,Cruzeiro,0,0,Athletico-PR,E,1,1,30
+Série A,2010,2010-02-10,Atlético-GO,2,3,Atlético-MG,VV,0,3,31
+Série A,2010,2010-02-10,Vitória,0,3,Grêmio,VV,0,3,32
+Série A,2010,2010-02-10,Avaí,0,0,São Paulo,E,1,1,33
+Série A,2010,2010-02-12,G. Barueri/Prudente,0,3,Internacional,VV,0,3,34
+Série A,2010,2010-03-06,Corinthians,2,0,Internacional,VC,3,0,35
+Série A,2010,2010-03-06,Vasco,0,1,Guarani,VV,0,3,36
+Série A,2010,2010-03-06,Grêmio,2,1,Atlético-MG,VC,3,0,37
+Série A,2010,2010-03-11,Santos,1,1,Vitória,E,1,1,38
+Série A,2010,2010-03-11,Botafogo,3,2,Atlético-GO,VC,3,0,39
+Série A,2010,2010-03-11,Corinthians,4,0,Avaí,VC,3,0,40
+Série A,2010,2010-03-11,Internacional,0,0,Fluminense,E,1,1,41
+Série A,2010,2010-03-11,Ceará,2,2,Flamengo,E,1,1,42
+Série A,2010,2010-03-11,Cruzeiro,0,2,São Paulo,VV,0,3,43
+Série A,2010,2010-03-11,Guarani,0,0,Atlético-MG,E,1,1,44
+Série A,2010,2010-03-11,Goiás,0,2,Grêmio,VV,0,3,45
+Série A,2010,2010-04-09,Corinthians,5,1,Goiás,VC,3,0,46
+Série A,2010,2010-04-09,Ceará,0,2,Vasco,VV,0,3,47
+Série A,2010,2010-04-09,Botafogo,2,2,Grêmio,E,1,1,48
+Série A,2010,2010-04-11,Athletico-PR,1,0,Palmeiras,VC,3,0,49
+Série A,2010,2010-04-11,Vasco,2,1,G. Barueri/Prudente,VC,3,0,50
+Série A,2010,2010-05-06,Flamengo,1,2,Goiás,VV,0,3,51
+Série A,2010,2010-05-06,Avaí,0,3,Fluminense,VV,0,3,52
+Série A,2010,2010-05-06,Vitória,1,0,Athletico-PR,VC,3,0,53
+Série A,2010,2010-05-09,Internacional,2,0,G. Barueri/Prudente,VC,3,0,54
+Série A,2010,2010-05-09,Atlético-GO,4,1,Vitória,VC,3,0,55
+Série A,2010,2010-05-09,Flamengo,0,0,Santos,E,1,1,56
+Série A,2010,2010-05-09,Atlético-MG,2,3,São Paulo,VV,0,3,57
+Série A,2010,2010-05-09,Guarani,2,1,Fluminense,VC,3,0,58
+Série A,2010,2010-05-09,Avaí,0,1,Athletico-PR,VV,0,3,59
+Série A,2010,2010-05-09,Palmeiras,2,3,Cruzeiro,VV,0,3,60
+Série A,2010,2010-05-12,Grêmio,3,0,Botafogo,VC,3,0,61
+Série A,2010,2010-05-12,Fluminense,1,0,Guarani,VC,3,0,62
+Série A,2010,2010-05-12,Vasco,2,0,Ceará,VC,3,0,63
+Série A,2010,2010-05-12,Athletico-PR,1,0,Avaí,VC,3,0,64
+Série A,2010,2010-05-12,Goiás,1,1,Corinthians,E,1,1,65
+Série A,2010,2010-05-12,Cruzeiro,2,1,Palmeiras,VC,3,0,66
+Série A,2010,2010-05-12,Vitória,0,0,Atlético-GO,E,1,1,67
+Série A,2010,2010-05-12,Santos,0,0,Flamengo,E,1,1,68
+Série A,2010,2010-05-12,São Paulo,4,0,Atlético-MG,VC,3,0,69
+Série A,2010,2010-06-06,Santos,4,0,Vasco,VC,3,0,70
+Série A,2010,2010-06-06,Botafogo,2,2,Corinthians,E,1,1,71
+Série A,2010,2010-06-06,Atlético-MG,0,1,Ceará,VV,0,3,72
+Série A,2010,2010-06-06,Internacional,1,1,Palmeiras,E,1,1,73
+Série A,2010,2010-06-06,Guarani,1,0,G. Barueri/Prudente,VC,3,0,74
+Série A,2010,2010-06-06,Atlético-GO,2,1,Cruzeiro,VC,3,0,75
+Série A,2010,2010-06-06,São Paulo,3,1,Grêmio,VC,3,0,76
+Série A,2010,2010-06-10,Guarani,1,1,Botafogo,E,1,1,77
+Série A,2010,2010-06-10,Atlético-MG,2,1,Corinthians,VC,3,0,78
+Série A,2010,2010-06-10,Grêmio,4,0,G. Barueri/Prudente,VC,3,0,79
+Série A,2010,2010-06-10,Ceará,1,0,Internacional,VC,3,0,80
+Série A,2010,2010-06-10,Athletico-PR,0,0,Vasco,E,1,1,81
+Série A,2010,2010-06-10,São Paulo,2,0,Vitória,VC,3,0,82
+Série A,2010,2010-06-10,Fluminense,0,3,Santos,VV,0,3,83
+Série A,2010,2010-06-11,Atlético-MG,2,2,Santos,E,1,1,84
+Série A,2010,2010-06-11,Grêmio,5,1,Ceará,VC,3,0,85
+Série A,2010,2010-06-11,Atlético-GO,2,2,Internacional,E,1,1,86
+Série A,2010,2010-07-08,Botafogo,3,0,Atlético-MG,VC,3,0,87
+Série A,2010,2010-07-08,Guarani,4,1,Avaí,VC,3,0,88
+Série A,2010,2010-07-10,Flamengo,2,0,Atlético-GO,VC,3,0,89
+Série A,2010,2010-07-10,Goiás,0,1,Cruzeiro,VV,0,3,90
+Série A,2010,2010-07-10,Palmeiras,4,1,Avaí,VC,3,0,91
+Série A,2010,2010-07-11,São Paulo,0,2,Corinthians,VV,0,3,92
+Série A,2010,2010-07-11,Palmeiras,1,0,Guarani,VC,3,0,93
+Série A,2010,2010-07-11,Avaí,0,0,Botafogo,E,1,1,94
+Série A,2010,2010-07-11,Vitória,0,1,Cruzeiro,VV,0,3,95
+Série A,2010,2010-07-11,G. Barueri/Prudente,4,1,Goiás,VC,3,0,96
+Série A,2010,2010-07-11,Fluminense,1,0,Vasco,VC,3,0,97
+Série A,2010,2010-07-11,Flamengo,0,1,Athletico-PR,VV,0,3,98
+Série A,2010,2010-08-05,Atlético-GO,0,0,Grêmio,E,1,1,99
+Série A,2010,2010-08-05,Botafogo,3,3,Santos,E,1,1,100
+Série A,2010,2010-08-05,Palmeiras,1,0,Vitória,VC,3,0,101
+Série A,2010,2010-08-08,Athletico-PR,1,1,São Paulo,E,1,1,102
+Série A,2010,2010-08-08,Cruzeiro,0,0,G. Barueri/Prudente,E,1,1,103
+Série A,2010,2010-08-08,Ceará,0,0,Atlético-GO,E,1,1,104
+Série A,2010,2010-08-08,Grêmio,1,2,Fluminense,VV,0,3,105
+Série A,2010,2010-08-08,Vasco,1,0,Vitória,VC,3,0,106
+Série A,2010,2010-08-08,Corinthians,1,0,Flamengo,VC,3,0,107
+Série A,2010,2010-08-08,Goiás,1,1,Palmeiras,E,1,1,108
+Série A,2010,2010-08-09,Goiás,3,1,Guarani,VC,3,0,109
+Série A,2010,2010-08-09,Vitória,1,1,Palmeiras,E,1,1,110
+Série A,2010,2010-08-09,Athletico-PR,1,1,Corinthians,E,1,1,111
+Série A,2010,2010-08-09,Fluminense,3,1,Ceará,VC,3,0,112
+Série A,2010,2010-08-09,Grêmio,2,0,Atlético-GO,VC,3,0,113
+Série A,2010,2010-08-09,São Paulo,2,0,Flamengo,VC,3,0,114
+Série A,2010,2010-08-09,Cruzeiro,1,0,Internacional,VC,3,0,115
+Série A,2010,2010-09-05,Guarani,1,0,Goiás,VC,3,0,116
+Série A,2010,2010-09-05,Ceará,1,0,Fluminense,VC,3,0,117
+Série A,2010,2010-09-05,Corinthians,2,1,Athletico-PR,VC,3,0,118
+Série A,2010,2010-09-05,Internacional,1,2,Cruzeiro,VV,0,3,119
+Série A,2010,2010-09-05,Atlético-MG,2,1,Vasco,VC,3,0,120
+Série A,2010,2010-09-05,Flamengo,1,1,São Paulo,E,1,1,121
+Série A,2010,2010-09-05,Avaí,6,1,G. Barueri/Prudente,VC,3,0,122
+Série A,2010,2010-09-09,G. Barueri/Prudente,1,1,Avaí,E,1,1,123
+Série A,2010,2010-09-09,Vasco,1,1,Atlético-MG,E,1,1,124
+Série A,2010,2010-09-09,Santos,0,1,Botafogo,VV,0,3,125
+Série A,2010,2010-09-10,Santos,2,0,Athletico-PR,VC,3,0,126
+Série A,2010,2010-09-10,G. Barueri/Prudente,2,3,São Paulo,VV,0,3,127
+Série A,2010,2010-09-10,Vasco,3,3,Grêmio,E,1,1,128
+Série A,2010,2010-10-10,Ceará,2,0,Guarani,VC,3,0,129
+Série A,2010,2010-10-10,Internacional,1,0,Atlético-MG,VC,3,0,130
+Série A,2010,2010-10-10,Corinthians,3,4,Atlético-GO,VV,0,3,131
+Série A,2010,2010-10-10,Botafogo,0,0,Palmeiras,E,1,1,132
+Série A,2010,2010-10-10,Cruzeiro,1,0,Fluminense,VC,3,0,133
+Série A,2010,2010-10-10,Goiás,1,0,Vitória,VC,3,0,134
+Série A,2010,2010-10-10,Avaí,2,2,Flamengo,E,1,1,135
+Série A,2010,2010-10-11,Ceará,2,2,Botafogo,E,1,1,136
+Série A,2010,2010-11-09,Corinthians,0,1,Grêmio,VV,0,3,137
+Série A,2010,2010-11-09,Flamengo,2,2,Vitória,E,1,1,138
+Série A,2010,2010-11-09,Atlético-GO,2,1,Fluminense,VC,3,0,139
+Série A,2010,2010-12-09,Botafogo,2,0,São Paulo,VC,3,0,140
+Série A,2010,2010-12-09,Ceará,2,1,Santos,VC,3,0,141
+Série A,2010,2010-12-09,Internacional,0,0,Goiás,E,1,1,142
+Série A,2010,2010-12-09,Atlético-MG,1,0,G. Barueri/Prudente,VC,3,0,143
+Série A,2010,2010-12-09,Guarani,1,0,Athletico-PR,VC,3,0,144
+Série A,2010,2010-12-09,Palmeiras,0,0,Vasco,E,1,1,145
+Série A,2010,2010-12-09,Avaí,1,2,Cruzeiro,VV,0,3,146
+Série A,2011,2011-01-09,Bahia,0,0,América-MG,E,1,1,1
+Série A,2011,2011-01-10,Bahia,3,2,Avaí,VC,3,0,2
+Série A,2011,2011-01-10,Palmeiras,1,1,América-MG,E,1,1,3
+Série A,2011,2011-01-10,Fluminense,3,2,Santos,VC,3,0,4
+Série A,2011,2011-02-07,Santos,1,0,América-MG,VC,3,0,5
+Série A,2011,2011-02-10,Athletico-PR,2,0,Internacional,VC,3,0,6
+Série A,2011,2011-02-10,São Paulo,1,2,Flamengo,VV,0,3,7
+Série A,2011,2011-02-10,Vasco,2,2,Corinthians,E,1,1,8
+Série A,2011,2011-02-10,Atlético-MG,1,1,Ceará,E,1,1,9
+Série A,2011,2011-02-10,Figueirense,0,0,Coritiba,E,1,1,10
+Série A,2011,2011-02-10,Atlético-GO,2,0,Botafogo,VC,3,0,11
+Série A,2011,2011-02-10,Grêmio,2,0,Cruzeiro,VC,3,0,12
+Série A,2011,2011-03-08,Ceará,0,3,Avaí,VV,0,3,13
+Série A,2011,2011-03-08,Grêmio,2,2,Atlético-MG,E,1,1,14
+Série A,2011,2011-03-08,Corinthians,2,1,América-MG,VC,3,0,15
+Série A,2011,2011-03-08,Vasco,2,0,Santos,VC,3,0,16
+Série A,2011,2011-03-08,Cruzeiro,0,1,Flamengo,VV,0,3,17
+Série A,2011,2011-03-08,Coritiba,1,1,Palmeiras,E,1,1,18
+Série A,2011,2011-03-08,Figueirense,2,0,Botafogo,VC,3,0,19
+Série A,2011,2011-03-09,Fluminense,3,2,Atlético-GO,VC,3,0,20
+Série A,2011,2011-03-09,Atlético-MG,2,0,Avaí,VC,3,0,21
+Série A,2011,2011-03-09,Figueirense,1,2,São Paulo,VV,0,3,22
+Série A,2011,2011-03-12,Internacional,1,0,Grêmio,VC,3,0,23
+Série A,2011,2011-03-12,São Paulo,4,1,Santos,VC,3,0,24
+Série A,2011,2011-03-12,Avaí,1,1,Figueirense,E,1,1,25
+Série A,2011,2011-03-12,Corinthians,0,0,Palmeiras,E,1,1,26
+Série A,2011,2011-03-12,Cruzeiro,6,1,Atlético-MG,VC,3,0,27
+Série A,2011,2011-03-12,Atlético-GO,5,1,América-MG,VC,3,0,28
+Série A,2011,2011-03-12,Athletico-PR,1,0,Coritiba,VC,3,0,29
+Série A,2011,2011-03-12,Bahia,2,1,Ceará,VC,3,0,30
+Série A,2011,2011-03-12,Vasco,1,1,Flamengo,E,1,1,31
+Série A,2011,2011-03-12,Botafogo,1,1,Fluminense,E,1,1,32
+Série A,2011,2011-04-06,Fluminense,2,1,Cruzeiro,VC,3,0,33
+Série A,2011,2011-04-06,Palmeiras,1,0,Athletico-PR,VC,3,0,34
+Série A,2011,2011-04-06,Ceará,2,2,Botafogo,E,1,1,35
+Série A,2011,2011-04-06,Figueirense,2,0,Atlético-GO,VC,3,0,36
+Série A,2011,2011-04-08,Atlético-GO,0,3,Athletico-PR,VV,0,3,37
+Série A,2011,2011-04-08,Fluminense,2,0,Internacional,VC,3,0,38
+Série A,2011,2011-04-08,São Paulo,3,0,Bahia,VC,3,0,39
+Série A,2011,2011-04-09,Palmeiras,1,1,Cruzeiro,E,1,1,40
+Série A,2011,2011-04-09,Flamengo,1,3,Bahia,VV,0,3,41
+Série A,2011,2011-04-09,Coritiba,1,0,Corinthians,VC,3,0,42
+Série A,2011,2011-04-09,América-MG,4,1,Vasco,VC,3,0,43
+Série A,2011,2011-04-09,Grêmio,4,0,Athletico-PR,VC,3,0,44
+Série A,2011,2011-04-09,Ceará,1,1,Internacional,E,1,1,45
+Série A,2011,2011-05-06,Flamengo,1,1,Corinthians,E,1,1,46
+Série A,2011,2011-05-06,Grêmio,2,0,Bahia,VC,3,0,47
+Série A,2011,2011-05-06,Coritiba,5,1,Vasco,VC,3,0,48
+Série A,2011,2011-05-06,América-MG,2,4,Internacional,VV,0,3,49
+Série A,2011,2011-05-06,Santos,3,1,Avaí,VC,3,0,50
+Série A,2011,2011-05-10,Grêmio,1,0,Santos,VC,3,0,51
+Série A,2011,2011-05-10,Cruzeiro,3,3,São Paulo,E,1,1,52
+Série A,2011,2011-05-11,Bahia,4,3,São Paulo,VC,3,0,53
+Série A,2011,2011-05-11,Botafogo,0,1,Figueirense,VV,0,3,54
+Série A,2011,2011-05-11,Atlético-MG,2,0,Grêmio,VC,3,0,55
+Série A,2011,2011-06-07,Avaí,2,2,Bahia,E,1,1,56
+Série A,2011,2011-06-07,Cruzeiro,2,0,Grêmio,VC,3,0,57
+Série A,2011,2011-06-07,Corinthians,2,1,Vasco,VC,3,0,58
+Série A,2011,2011-06-07,Internacional,1,0,Athletico-PR,VC,3,0,59
+Série A,2011,2011-06-07,Flamengo,1,0,São Paulo,VC,3,0,60
+Série A,2011,2011-06-07,Ceará,3,0,Atlético-MG,VC,3,0,61
+Série A,2011,2011-06-08,Atlético-MG,1,2,Figueirense,VV,0,3,62
+Série A,2011,2011-06-08,Palmeiras,0,0,Grêmio,E,1,1,63
+Série A,2011,2011-06-08,Flamengo,1,0,Coritiba,VC,3,0,64
+Série A,2011,2011-06-11,Palmeiras,0,2,Coritiba,VV,0,3,65
+Série A,2011,2011-06-11,Santos,2,0,Vasco,VC,3,0,66
+Série A,2011,2011-06-11,Flamengo,5,1,Cruzeiro,VC,3,0,67
+Série A,2011,2011-06-11,América-MG,2,1,Corinthians,VC,3,0,68
+Série A,2011,2011-06-11,Internacional,1,2,Fluminense,VV,0,3,69
+Série A,2011,2011-06-11,Avaí,1,2,Ceará,VV,0,3,70
+Série A,2011,2011-06-11,Athletico-PR,2,1,Atlético-GO,VC,3,0,71
+Série A,2011,2011-07-07,Botafogo,1,1,Atlético-GO,E,1,1,72
+Série A,2011,2011-07-07,Coritiba,3,0,Figueirense,VC,3,0,73
+Série A,2011,2011-07-07,América-MG,1,1,Palmeiras,E,1,1,74
+Série A,2011,2011-07-08,Bahia,2,1,Atlético-GO,VC,3,0,75
+Série A,2011,2011-07-08,Avaí,1,2,São Paulo,VV,0,3,76
+Série A,2011,2011-07-08,Botafogo,4,0,Vasco,VC,3,0,77
+Série A,2011,2011-07-08,América-MG,3,0,Fluminense,VC,3,0,78
+Série A,2011,2011-07-08,Athletico-PR,1,1,Corinthians,E,1,1,79
+Série A,2011,2011-07-08,Santos,1,0,Ceará,VC,3,0,80
+Série A,2011,2011-07-08,Internacional,3,2,Cruzeiro,VC,3,0,81
+Série A,2011,2011-07-09,Avaí,1,2,Santos,VV,0,3,82
+Série A,2011,2011-07-09,São Paulo,2,1,Atlético-MG,VC,3,0,83
+Série A,2011,2011-07-09,Atlético-GO,1,1,Figueirense,E,1,1,84
+Série A,2011,2011-07-09,Athletico-PR,2,2,Palmeiras,E,1,1,85
+Série A,2011,2011-07-09,Cruzeiro,1,2,Fluminense,VV,0,3,86
+Série A,2011,2011-07-09,Internacional,4,2,América-MG,VC,3,0,87
+Série A,2011,2011-07-09,Botafogo,4,0,Ceará,VC,3,0,88
+Série A,2011,2011-08-06,Atlético-MG,0,1,São Paulo,VV,0,3,89
+Série A,2011,2011-08-09,Vasco,2,0,Coritiba,VC,3,0,90
+Série A,2011,2011-08-09,Corinthians,2,1,Flamengo,VC,3,0,91
+Série A,2011,2011-08-09,Bahia,1,2,Grêmio,VV,0,3,92
+Série A,2011,2011-08-10,Coritiba,2,0,Grêmio,VC,3,0,93
+Série A,2011,2011-08-10,América-MG,0,0,Atlético-MG,E,1,1,94
+Série A,2011,2011-08-10,Botafogo,2,2,Bahia,E,1,1,95
+Série A,2011,2011-09-07,São Paulo,2,1,Cruzeiro,VC,3,0,96
+Série A,2011,2011-09-07,Athletico-PR,0,0,Avaí,E,1,1,97
+Série A,2011,2011-09-07,Vasco,2,0,Internacional,VC,3,0,98
+Série A,2011,2011-09-10,Internacional,3,0,Vasco,VC,3,0,99
+Série A,2011,2011-09-10,Flamengo,3,2,Fluminense,VC,3,0,100
+Série A,2011,2011-09-10,Santos,1,0,Palmeiras,VC,3,0,101
+Série A,2011,2011-09-10,Corinthians,3,0,Atlético-GO,VC,3,0,102
+Série A,2011,2011-09-10,Avaí,3,0,Athletico-PR,VC,3,0,103
+Série A,2011,2011-09-10,Ceará,1,1,Figueirense,E,1,1,104
+Série A,2011,2011-10-07,Fluminense,0,1,Flamengo,VV,0,3,105
+Série A,2011,2011-10-07,Palmeiras,3,0,Santos,VC,3,0,106
+Série A,2011,2011-10-07,Bahia,1,1,Botafogo,E,1,1,107
+Série A,2011,2011-10-07,Atlético-GO,0,1,Corinthians,VV,0,3,108
+Série A,2011,2011-10-07,Figueirense,1,1,Ceará,E,1,1,109
+Série A,2011,2011-10-07,Atlético-MG,2,0,América-MG,VC,3,0,110
+Série A,2011,2011-10-07,Grêmio,2,0,Coritiba,VC,3,0,111
+Série A,2011,2011-10-08,Santos,0,0,Corinthians,E,1,1,112
+Série A,2011,2011-10-09,América-MG,2,2,Avaí,E,1,1,113
+Série A,2011,2011-10-09,Santos,1,0,Cruzeiro,VC,3,0,114
+Série A,2011,2011-11-06,Cruzeiro,1,1,Santos,E,1,1,115
+Série A,2011,2011-11-06,São Paulo,3,1,Grêmio,VC,3,0,116
+Série A,2011,2011-11-06,Vasco,1,1,Figueirense,E,1,1,117
+Série A,2011,2011-11-06,Avaí,2,2,América-MG,E,1,1,118
+Série A,2011,2011-11-09,Palmeiras,0,3,Internacional,VV,0,3,119
+Série A,2011,2011-11-09,Figueirense,1,1,Vasco,E,1,1,120
+Série A,2011,2011-11-09,Ceará,1,1,Atlético-GO,E,1,1,121
+Série A,2011,2011-11-09,Atlético-MG,2,0,Bahia,VC,3,0,122
+Série A,2011,2011-11-09,Grêmio,1,0,São Paulo,VC,3,0,123
+Série A,2011,2011-11-09,Fluminense,1,0,Corinthians,VC,3,0,124
+Série A,2011,2011-11-09,Flamengo,1,2,Athletico-PR,VV,0,3,125
+Série A,2011,2011-11-09,Coritiba,5,0,Botafogo,VC,3,0,126
+Série A,2011,2011-12-06,Atlético-GO,4,1,Ceará,VC,3,0,127
+Série A,2011,2011-12-06,Bahia,1,1,Atlético-MG,E,1,1,128
+Série A,2011,2011-12-06,Internacional,2,2,Palmeiras,E,1,1,129
+Série A,2011,2011-12-06,Corinthians,2,0,Fluminense,VC,3,0,130
+Série A,2011,2011-12-06,Athletico-PR,1,1,Flamengo,E,1,1,131
+Série A,2011,2011-12-06,Botafogo,3,1,Coritiba,VC,3,0,132
+Série A,2011,2011-12-10,São Paulo,0,0,Internacional,E,1,1,133
+Série A,2011,2011-12-10,Flamengo,1,1,Palmeiras,E,1,1,134
+Série A,2011,2011-12-10,Corinthians,0,2,Botafogo,VV,0,3,135
+Série A,2011,2011-12-10,Avaí,2,2,Atlético-GO,E,1,1,136
+Série A,2011,2011-12-10,América-MG,4,1,Ceará,VC,3,0,137
+Série A,2011,2011-12-10,Bahia,0,0,Cruzeiro,E,1,1,138
+Série A,2011,2011-12-10,Grêmio,1,3,Figueirense,VV,0,3,139
+Série A,2011,2011-12-11,Figueirense,2,1,Atlético-MG,VC,3,0,140
+Série A,2011,2011-12-11,Fluminense,1,2,América-MG,VV,0,3,141
+Série A,2011,2011-12-11,São Paulo,2,0,Avaí,VC,3,0,142
+Série A,2012,2012-01-07,Coritiba,2,3,Sport,VV,0,3,1
+Série A,2012,2012-01-07,Flamengo,3,2,Atlético-GO,VC,3,0,2
+Série A,2012,2012-01-07,Palmeiras,3,1,Figueirense,VC,3,0,3
+Série A,2012,2012-01-07,Grêmio,0,1,Atlético-MG,VV,0,3,4
+Série A,2012,2012-01-07,Bahia,1,1,Internacional,E,1,1,5
+Série A,2012,2012-01-07,Portuguesa,0,0,Santos,E,1,1,6
+Série A,2012,2012-01-09,Figueirense,2,2,Fluminense,E,1,1,7
+Série A,2012,2012-01-09,Vasco,2,0,Portuguesa,VC,3,0,8
+Série A,2012,2012-01-09,Palmeiras,0,0,Grêmio,E,1,1,9
+Série A,2012,2012-01-12,Santos,3,1,Palmeiras,VC,3,0,10
+Série A,2012,2012-01-12,Flamengo,2,2,Botafogo,E,1,1,11
+Série A,2012,2012-02-09,Botafogo,2,0,Coritiba,VC,3,0,12
+Série A,2012,2012-02-09,Corinthians,1,0,Atlético-MG,VC,3,0,13
+Série A,2012,2012-02-09,Internacional,4,1,Flamengo,VC,3,0,14
+Série A,2012,2012-02-09,Cruzeiro,3,0,Náutico,VC,3,0,15
+Série A,2012,2012-02-09,Ponte Preta,3,1,Atlético-GO,VC,3,0,16
+Série A,2012,2012-02-09,Sport,2,1,Santos,VC,3,0,17
+Série A,2012,2012-02-09,Bahia,1,0,São Paulo,VC,3,0,18
+Série A,2012,2012-02-12,Atlético-GO,0,1,Bahia,VV,0,3,19
+Série A,2012,2012-02-12,Grêmio,0,0,Internacional,E,1,1,20
+Série A,2012,2012-02-12,Coritiba,3,0,Figueirense,VC,3,0,21
+Série A,2012,2012-02-12,Portuguesa,0,0,Ponte Preta,E,1,1,22
+Série A,2012,2012-02-12,Náutico,1,0,Sport,VC,3,0,23
+Série A,2012,2012-02-12,Atlético-MG,3,2,Cruzeiro,VC,3,0,24
+Série A,2012,2012-02-12,São Paulo,3,1,Corinthians,VC,3,0,25
+Série A,2012,2012-02-12,Fluminense,1,2,Vasco,VV,0,3,26
+Série A,2012,2012-03-11,Cruzeiro,0,4,Santos,VV,0,3,27
+Série A,2012,2012-03-11,Grêmio,1,0,Ponte Preta,VC,3,0,28
+Série A,2012,2012-03-11,Flamengo,1,0,Figueirense,VC,3,0,29
+Série A,2012,2012-04-08,Portuguesa,2,0,Figueirense,VC,3,0,30
+Série A,2012,2012-04-08,Atlético-GO,1,2,Botafogo,VV,0,3,31
+Série A,2012,2012-04-08,Palmeiras,0,1,Internacional,VV,0,3,32
+Série A,2012,2012-04-10,Portuguesa,5,1,Sport,VC,3,0,33
+Série A,2012,2012-04-10,Coritiba,1,0,Ponte Preta,VC,3,0,34
+Série A,2012,2012-04-10,Flamengo,0,0,Bahia,E,1,1,35
+Série A,2012,2012-04-11,Vasco,0,3,Sport,VV,0,3,36
+Série A,2012,2012-04-11,Palmeiras,2,2,Botafogo,E,1,1,37
+Série A,2012,2012-04-11,São Paulo,1,1,Fluminense,E,1,1,38
+Série A,2012,2012-04-11,Portuguesa,0,1,Bahia,VV,0,3,39
+Série A,2012,2012-04-11,Coritiba,1,0,Atlético-MG,VC,3,0,40
+Série A,2012,2012-04-11,Atlético-GO,0,2,Corinthians,VV,0,3,41
+Série A,2012,2012-04-11,Náutico,3,0,Internacional,VC,3,0,42
+Série A,2012,2012-05-08,Náutico,3,0,Santos,VC,3,0,43
+Série A,2012,2012-05-08,Cruzeiro,1,2,Ponte Preta,VV,0,3,44
+Série A,2012,2012-05-08,Coritiba,0,2,Fluminense,VV,0,3,45
+Série A,2012,2012-05-08,Grêmio,3,1,Bahia,VC,3,0,46
+Série A,2012,2012-05-08,Vasco,0,0,Corinthians,E,1,1,47
+Série A,2012,2012-05-08,São Paulo,1,0,Sport,VC,3,0,48
+Série A,2012,2012-05-09,São Paulo,1,1,Internacional,E,1,1,49
+Série A,2012,2012-05-09,Grêmio,2,1,Atlético-GO,VC,3,0,50
+Série A,2012,2012-05-09,Cruzeiro,1,3,Botafogo,VV,0,3,51
+Série A,2012,2012-05-09,Flamengo,0,1,Ponte Preta,VV,0,3,52
+Série A,2012,2012-05-09,Figueirense,1,0,Corinthians,VC,3,0,53
+Série A,2012,2012-05-09,Náutico,1,1,Vasco,E,1,1,54
+Série A,2012,2012-05-09,Bahia,0,0,Atlético-MG,E,1,1,55
+Série A,2012,2012-05-09,Portuguesa,3,0,Coritiba,VC,3,0,56
+Série A,2012,2012-06-06,Ponte Preta,2,2,Flamengo,E,1,1,57
+Série A,2012,2012-06-06,Atlético-GO,0,1,Grêmio,VV,0,3,58
+Série A,2012,2012-06-06,Santos,1,1,Fluminense,E,1,1,59
+Série A,2012,2012-06-06,Sport,2,1,Palmeiras,VC,3,0,60
+Série A,2012,2012-06-06,Vasco,4,2,Náutico,VC,3,0,61
+Série A,2012,2012-06-06,Atlético-MG,1,1,Bahia,E,1,1,62
+Série A,2012,2012-06-06,Coritiba,2,0,Portuguesa,VC,3,0,63
+Série A,2012,2012-06-06,Internacional,1,0,São Paulo,VC,3,0,64
+Série A,2012,2012-06-09,Fluminense,3,1,Santos,VC,3,0,65
+Série A,2012,2012-06-09,Palmeiras,3,1,Sport,VC,3,0,66
+Série A,2012,2012-06-10,Fluminense,1,0,Botafogo,VC,3,0,67
+Série A,2012,2012-06-10,Atlético-GO,0,1,Vasco,VV,0,3,68
+Série A,2012,2012-06-10,Náutico,2,1,Corinthians,VC,3,0,69
+Série A,2012,2012-06-10,Atlético-MG,6,0,Figueirense,VC,3,0,70
+Série A,2012,2012-06-10,Grêmio,2,1,Cruzeiro,VC,3,0,71
+Série A,2012,2012-06-10,Santos,1,1,Internacional,E,1,1,72
+Série A,2012,2012-06-10,São Paulo,3,0,Palmeiras,VC,3,0,73
+Série A,2012,2012-07-06,Botafogo,2,3,Cruzeiro,VV,0,3,74
+Série A,2012,2012-07-06,Corinthians,1,1,Figueirense,E,1,1,75
+Série A,2012,2012-07-07,Internacional,2,1,Cruzeiro,VC,3,0,76
+Série A,2012,2012-07-07,Atlético-GO,0,1,Náutico,VV,0,3,77
+Série A,2012,2012-07-07,Botafogo,3,0,Bahia,VC,3,0,78
+Série A,2012,2012-08-07,Fluminense,1,0,Flamengo,VC,3,0,79
+Série A,2012,2012-08-07,Figueirense,1,1,Vasco,E,1,1,80
+Série A,2012,2012-08-07,Santos,4,2,Grêmio,VC,3,0,81
+Série A,2012,2012-08-07,São Paulo,3,1,Coritiba,VC,3,0,82
+Série A,2012,2012-08-07,Atlético-MG,2,0,Portuguesa,VC,3,0,83
+Série A,2012,2012-08-07,Sport,1,1,Corinthians,E,1,1,84
+Série A,2012,2012-08-07,Ponte Preta,1,0,Palmeiras,VC,3,0,85
+Série A,2012,2012-08-08,Sport,0,2,Vasco,VV,0,3,86
+Série A,2012,2012-08-08,Corinthians,1,1,Atlético-GO,E,1,1,87
+Série A,2012,2012-08-08,Botafogo,1,2,Palmeiras,VV,0,3,88
+Série A,2012,2012-08-08,Figueirense,0,2,Flamengo,VV,0,3,89
+Série A,2012,2012-08-08,Santos,4,2,Cruzeiro,VC,3,0,90
+Série A,2012,2012-08-08,Bahia,0,0,Portuguesa,E,1,1,91
+Série A,2012,2012-08-08,Internacional,0,0,Náutico,E,1,1,92
+Série A,2012,2012-08-09,Corinthians,3,1,Grêmio,VC,3,0,93
+Série A,2012,2012-08-09,Coritiba,3,0,Flamengo,VC,3,0,94
+Série A,2012,2012-08-09,Ponte Preta,2,2,Figueirense,E,1,1,95
+Série A,2012,2012-09-06,Palmeiras,0,1,Atlético-MG,VV,0,3,96
+Série A,2012,2012-09-06,Flamengo,3,1,Coritiba,VC,3,0,97
+Série A,2012,2012-09-08,Fluminense,2,1,São Paulo,VC,3,0,98
+Série A,2012,2012-09-08,Atlético-MG,1,0,Coritiba,VC,3,0,99
+Série A,2012,2012-09-08,Ponte Preta,0,0,Grêmio,E,1,1,100
+Série A,2012,2012-09-09,Atlético-MG,3,0,Palmeiras,VC,3,0,101
+Série A,2012,2012-09-09,Sport,2,1,Cruzeiro,VC,3,0,102
+Série A,2012,2012-09-09,Santos,0,0,São Paulo,E,1,1,103
+Série A,2012,2012-09-09,Vasco,0,4,Bahia,VV,0,3,104
+Série A,2012,2012-09-09,Botafogo,3,1,Náutico,VC,3,0,105
+Série A,2012,2012-09-09,Internacional,0,1,Fluminense,VV,0,3,106
+Série A,2012,2012-09-09,Atlético-GO,1,1,Portuguesa,E,1,1,107
+Série A,2012,2012-10-06,Náutico,3,2,Botafogo,VC,3,0,108
+Série A,2012,2012-10-06,São Paulo,1,0,Santos,VC,3,0,109
+Série A,2012,2012-10-06,Portuguesa,2,0,Atlético-GO,VC,3,0,110
+Série A,2012,2012-10-06,Figueirense,0,0,Ponte Preta,E,1,1,111
+Série A,2012,2012-10-06,Cruzeiro,1,0,Sport,VC,3,0,112
+Série A,2012,2012-10-06,Bahia,1,2,Vasco,VV,0,3,113
+Série A,2012,2012-10-06,Grêmio,2,0,Corinthians,VC,3,0,114
+Série A,2012,2012-10-06,Fluminense,0,0,Internacional,E,1,1,115
+Série A,2012,2012-10-10,Botafogo,0,2,Santos,VV,0,3,116
+Série A,2012,2012-10-10,Vasco,0,2,São Paulo,VV,0,3,117
+Série A,2012,2012-10-10,Corinthians,3,2,Flamengo,VC,3,0,118
+Série A,2012,2012-10-10,Internacional,3,0,Atlético-MG,VC,3,0,119
+Série A,2012,2012-10-10,Cruzeiro,2,0,Portuguesa,VC,3,0,120
+Série A,2012,2012-10-10,Ponte Preta,2,1,Náutico,VC,3,0,121
+Série A,2012,2012-10-10,Figueirense,3,1,Atlético-GO,VC,3,0,122
+Série A,2012,2012-10-10,Bahia,0,2,Fluminense,VV,0,3,123
+Série A,2012,2012-10-11,Corinthians,5,1,Coritiba,VC,3,0,124
+Série A,2012,2012-10-11,Atlético-GO,2,1,Santos,VC,3,0,125
+Série A,2012,2012-10-11,Botafogo,3,0,Portuguesa,VC,3,0,126
+Série A,2012,2012-11-07,Corinthians,1,3,Botafogo,VV,0,3,127
+Série A,2012,2012-11-08,Sport,0,1,Figueirense,VV,0,3,128
+Série A,2012,2012-11-08,Bahia,0,1,Cruzeiro,VV,0,3,129
+Série A,2012,2012-11-08,Flamengo,2,0,Náutico,VC,3,0,130
+Série A,2012,2012-11-08,Santos,2,2,Atlético-GO,E,1,1,131
+Série A,2012,2012-11-10,Palmeiras,0,1,Coritiba,VV,0,3,132
+Série A,2012,2012-11-10,Sport,1,3,Grêmio,VV,0,3,133
+Série A,2012,2012-11-11,Vasco,1,1,Atlético-MG,E,1,1,134
+Série A,2012,2012-11-11,Palmeiras,2,3,Fluminense,VV,0,3,135
+Série A,2012,2012-11-11,Figueirense,1,1,Sport,E,1,1,136
+Série A,2012,2012-11-11,Grêmio,2,1,São Paulo,VC,3,0,137
+Série A,2012,2012-11-11,Náutico,0,1,Flamengo,VV,0,3,138
+Série A,2012,2012-11-11,Ponte Preta,1,0,Internacional,VC,3,0,139
+Série A,2012,2012-11-11,Cruzeiro,3,1,Bahia,VC,3,0,140
+Série A,2012,2012-12-08,Portuguesa,1,1,Botafogo,E,1,1,141
+Série A,2012,2012-12-08,Fluminense,1,0,Palmeiras,VC,3,0,142
+Série A,2012,2012-12-08,Coritiba,1,2,Corinthians,VV,0,3,143
+Série A,2012,2012-12-08,Internacional,2,1,Ponte Preta,VC,3,0,144
+Série A,2012,2012-12-08,São Paulo,1,2,Grêmio,VV,0,3,145
+Série A,2012,2012-12-08,Atlético-MG,1,0,Vasco,VC,3,0,146
+Série A,2012,2012-12-09,Atlético-GO,1,2,Coritiba,VV,0,3,147
+Série A,2012,2012-12-09,Sport,1,1,Bahia,E,1,1,148
+Série A,2012,2012-12-09,Figueirense,2,0,Cruzeiro,VC,3,0,149
+Série A,2012,2012-12-09,Portuguesa,0,2,Fluminense,VV,0,3,150
+Série A,2012,2012-12-09,Atlético-MG,1,0,São Paulo,VC,3,0,151
+Série A,2012,2012-12-09,Corinthians,1,1,Ponte Preta,E,1,1,152
+Série A,2012,2012-12-09,Santos,2,0,Flamengo,VC,3,0,153
+Série A,2012,2012-12-09,Vasco,3,1,Palmeiras,VC,3,0,154
+Série A,2013,2013-01-06,Santos,1,1,Grêmio,E,1,1,1
+Série A,2013,2013-01-06,Goiás,1,1,Coritiba,E,1,1,2
+Série A,2013,2013-01-06,Vitória,2,0,Vasco,VC,3,0,3
+Série A,2013,2013-01-06,Athletico-PR,2,2,Flamengo,E,1,1,4
+Série A,2013,2013-01-06,Botafogo,2,1,Cruzeiro,VC,3,0,5
+Série A,2013,2013-01-06,Corinthians,1,0,Ponte Preta,VC,3,0,6
+Série A,2013,2013-01-08,Goiás,1,1,Vasco,E,1,1,7
+Série A,2013,2013-01-08,Botafogo,2,0,Vitória,VC,3,0,8
+Série A,2013,2013-01-09,Cruzeiro,5,3,Vasco,VC,3,0,9
+Série A,2013,2013-01-09,Coritiba,0,0,Internacional,E,1,1,10
+Série A,2013,2013-01-09,Botafogo,0,0,São Paulo,E,1,1,11
+Série A,2013,2013-01-09,Vitória,0,1,Criciúma,VV,0,3,12
+Série A,2013,2013-01-09,Corinthians,4,0,Flamengo,VC,3,0,13
+Série A,2013,2013-01-10,Ponte Preta,1,2,Náutico,VV,0,3,14
+Série A,2013,2013-01-12,Vasco,2,0,Náutico,VC,3,0,15
+Série A,2013,2013-01-12,Coritiba,2,1,Botafogo,VC,3,0,16
+Série A,2013,2013-01-12,Criciúma,1,0,São Paulo,VC,3,0,17
+Série A,2013,2013-01-12,Ponte Preta,0,2,Portuguesa,VV,0,3,18
+Série A,2013,2013-01-12,Santos,2,1,Athletico-PR,VC,3,0,19
+Série A,2013,2013-01-12,Vitória,4,2,Flamengo,VC,3,0,20
+Série A,2013,2013-01-12,Cruzeiro,1,2,Bahia,VV,0,3,21
+Série A,2013,2013-01-12,Grêmio,1,0,Goiás,VC,3,0,22
+Série A,2013,2013-02-06,Internacional,1,2,Bahia,VV,0,3,23
+Série A,2013,2013-02-06,Fluminense,3,0,Criciúma,VC,3,0,24
+Série A,2013,2013-02-06,Atlético-MG,0,0,São Paulo,E,1,1,25
+Série A,2013,2013-02-06,Náutico,2,2,Portuguesa,E,1,1,26
+Série A,2013,2013-02-10,Fluminense,1,1,Botafogo,E,1,1,27
+Série A,2013,2013-02-10,Coritiba,0,2,Flamengo,VV,0,3,28
+Série A,2013,2013-02-10,Cruzeiro,4,0,Portuguesa,VC,3,0,29
+Série A,2013,2013-02-10,Santos,3,0,São Paulo,VC,3,0,30
+Série A,2013,2013-02-10,Grêmio,1,0,Athletico-PR,VC,3,0,31
+Série A,2013,2013-02-10,Vitória,2,1,Goiás,VC,3,0,32
+Série A,2013,2013-02-10,Corinthians,2,0,Bahia,VC,3,0,33
+Série A,2013,2013-02-11,São Paulo,2,1,Portuguesa,VC,3,0,34
+Série A,2013,2013-02-11,Vasco,2,1,Coritiba,VC,3,0,35
+Série A,2013,2013-02-11,Atlético-MG,5,0,Náutico,VC,3,0,36
+Série A,2013,2013-03-08,Cruzeiro,1,0,Coritiba,VC,3,0,37
+Série A,2013,2013-03-09,Goiás,2,0,Grêmio,VC,3,0,38
+Série A,2013,2013-03-09,Náutico,0,1,São Paulo,VV,0,3,39
+Série A,2013,2013-03-10,Atlético-MG,4,0,Ponte Preta,VC,3,0,40
+Série A,2013,2013-03-10,Vasco,3,1,Internacional,VC,3,0,41
+Série A,2013,2013-03-11,Vitória,1,1,Corinthians,E,1,1,42
+Série A,2013,2013-03-11,Grêmio,0,0,Bahia,E,1,1,43
+Série A,2013,2013-03-11,Flamengo,1,0,Fluminense,VC,3,0,44
+Série A,2013,2013-03-11,Athletico-PR,1,0,Internacional,VC,3,0,45
+Série A,2013,2013-03-11,Goiás,1,0,Botafogo,VC,3,0,46
+Série A,2013,2013-03-11,Criciúma,1,1,Ponte Preta,E,1,1,47
+Série A,2013,2013-03-11,Santos,0,1,Cruzeiro,VV,0,3,48
+Série A,2013,2013-04-08,Athletico-PR,2,0,Goiás,VC,3,0,49
+Série A,2013,2013-04-08,Criciúma,0,2,Corinthians,VV,0,3,50
+Série A,2013,2013-04-08,Flamengo,3,0,Atlético-MG,VC,3,0,51
+Série A,2013,2013-04-08,Grêmio,1,1,Internacional,E,1,1,52
+Série A,2013,2013-04-08,Vitória,2,1,Portuguesa,VC,3,0,53
+Série A,2013,2013-04-08,Vasco,2,3,Botafogo,VV,0,3,54
+Série A,2013,2013-04-08,Ponte Preta,1,1,Fluminense,E,1,1,55
+Série A,2013,2013-04-09,Portuguesa,2,1,Ponte Preta,VC,3,0,56
+Série A,2013,2013-04-09,Athletico-PR,2,1,Santos,VC,3,0,57
+Série A,2013,2013-04-09,Atlético-MG,2,2,Fluminense,E,1,1,58
+Série A,2013,2013-04-09,Internacional,1,0,Corinthians,VC,3,0,59
+Série A,2013,2013-04-09,Bahia,1,3,Cruzeiro,VV,0,3,60
+Série A,2013,2013-04-09,Flamengo,2,1,Vitória,VC,3,0,61
+Série A,2013,2013-05-06,Cruzeiro,1,0,Corinthians,VC,3,0,62
+Série A,2013,2013-05-06,Ponte Preta,3,4,Athletico-PR,VV,0,3,63
+Série A,2013,2013-05-06,Grêmio,1,0,Vitória,VC,3,0,64
+Série A,2013,2013-05-06,São Paulo,0,1,Goiás,VV,0,3,65
+Série A,2013,2013-05-06,Flamengo,0,1,Náutico,VV,0,3,66
+Série A,2013,2013-05-06,Vasco,2,0,Atlético-MG,VC,3,0,67
+Série A,2013,2013-05-06,Bahia,2,1,Botafogo,VC,3,0,68
+Série A,2013,2013-05-06,Portuguesa,1,1,Internacional,E,1,1,69
+Série A,2013,2013-05-06,Criciúma,3,1,Santos,VC,3,0,70
+Série A,2013,2013-05-09,Náutico,0,3,Vasco,VV,0,3,71
+Série A,2013,2013-05-09,São Paulo,1,2,Criciúma,VV,0,3,72
+Série A,2013,2013-05-09,Botafogo,3,1,Coritiba,VC,3,0,73
+Série A,2013,2013-05-10,Botafogo,0,1,Grêmio,VV,0,3,74
+Série A,2013,2013-05-10,São Paulo,3,2,Vitória,VC,3,0,75
+Série A,2013,2013-06-06,Coritiba,2,1,Fluminense,VC,3,0,76
+Série A,2013,2013-06-07,Flamengo,2,2,Coritiba,E,1,1,77
+Série A,2013,2013-06-07,Portuguesa,1,1,Cruzeiro,E,1,1,78
+Série A,2013,2013-06-07,Náutico,1,3,Ponte Preta,VV,0,3,79
+Série A,2013,2013-06-07,Athletico-PR,1,1,Grêmio,E,1,1,80
+Série A,2013,2013-06-10,Internacional,1,0,Fluminense,VC,3,0,81
+Série A,2013,2013-06-10,Portuguesa,3,0,Santos,VC,3,0,82
+Série A,2013,2013-06-10,Bahia,1,1,Ponte Preta,E,1,1,83
+Série A,2013,2013-06-10,Atlético-MG,0,0,Corinthians,E,1,1,84
+Série A,2013,2013-06-10,Athletico-PR,2,1,Coritiba,VC,3,0,85
+Série A,2013,2013-06-10,Flamengo,1,1,Vasco,E,1,1,86
+Série A,2013,2013-06-10,Náutico,1,4,Cruzeiro,VV,0,3,87
+Série A,2013,2013-06-10,Goiás,1,1,Criciúma,E,1,1,88
+Série A,2013,2013-07-07,Atlético-MG,3,2,Criciúma,VC,3,0,89
+Série A,2013,2013-07-07,São Paulo,0,2,Santos,VV,0,3,90
+Série A,2013,2013-07-07,Bahia,0,2,Corinthians,VV,0,3,91
+Série A,2013,2013-07-07,Internacional,5,3,Vasco,VC,3,0,92
+Série A,2013,2013-07-07,Goiás,1,0,Vitória,VC,3,0,93
+Série A,2013,2013-07-07,Botafogo,1,0,Fluminense,VC,3,0,94
+Série A,2013,2013-07-08,Athletico-PR,1,0,Bahia,VC,3,0,95
+Série A,2013,2013-07-08,Flamengo,1,1,Portuguesa,E,1,1,96
+Série A,2013,2013-07-08,Santos,1,1,Corinthians,E,1,1,97
+Série A,2013,2013-07-08,Vitória,1,1,Fluminense,E,1,1,98
+Série A,2013,2013-07-08,Goiás,2,1,Náutico,VC,3,0,99
+Série A,2013,2013-07-08,Criciúma,1,2,Cruzeiro,VV,0,3,100
+Série A,2013,2013-07-08,Atlético-MG,2,2,Botafogo,E,1,1,101
+Série A,2013,2013-07-09,Fluminense,1,0,Bahia,VC,3,0,102
+Série A,2013,2013-07-09,Santos,1,0,Goiás,VC,3,0,103
+Série A,2013,2013-07-09,Ponte Preta,1,3,Internacional,VV,0,3,104
+Série A,2013,2013-07-09,Grêmio,3,2,Portuguesa,VC,3,0,105
+Série A,2013,2013-07-09,Vitória,1,1,Atlético-MG,E,1,1,106
+Série A,2013,2013-07-12,Flamengo,1,1,Cruzeiro,E,1,1,107
+Série A,2013,2013-07-12,Náutico,1,0,Corinthians,VC,3,0,108
+Série A,2013,2013-08-06,Ponte Preta,0,2,Botafogo,VV,0,3,109
+Série A,2013,2013-08-06,Corinthians,0,0,Portuguesa,E,1,1,110
+Série A,2013,2013-08-06,Cruzeiro,2,2,Internacional,E,1,1,111
+Série A,2013,2013-08-06,Vasco,1,1,Bahia,E,1,1,112
+Série A,2013,2013-08-06,Criciúma,0,3,Flamengo,VV,0,3,113
+Série A,2013,2013-08-08,Vasco,1,1,Ponte Preta,E,1,1,114
+Série A,2013,2013-08-08,Grêmio,0,1,Coritiba,VV,0,3,115
+Série A,2013,2013-08-09,Cruzeiro,1,0,Flamengo,VC,3,0,116
+Série A,2013,2013-08-09,Corinthians,0,0,Náutico,E,1,1,117
+Série A,2013,2013-08-09,Vasco,0,0,Athletico-PR,E,1,1,118
+Série A,2013,2013-08-09,Criciúma,1,2,Botafogo,VV,0,3,119
+Série A,2013,2013-08-09,Coritiba,2,0,São Paulo,VC,3,0,120
+Série A,2013,2013-08-12,São Paulo,0,1,Coritiba,VV,0,3,121
+Série A,2013,2013-08-12,Athletico-PR,5,1,Vasco,VC,3,0,122
+Série A,2013,2013-08-12,Botafogo,3,0,Criciúma,VC,3,0,123
+Série A,2013,2013-08-12,Portuguesa,0,0,Grêmio,E,1,1,124
+Série A,2013,2013-08-12,Bahia,1,2,Fluminense,VV,0,3,125
+Série A,2013,2013-08-12,Internacional,0,0,Ponte Preta,E,1,1,126
+Série A,2013,2013-08-12,Atlético-MG,2,2,Vitória,E,1,1,127
+Série A,2013,2013-08-12,Goiás,0,3,Santos,VV,0,3,128
+Série A,2013,2013-09-06,Coritiba,1,0,Náutico,VC,3,0,129
+Série A,2013,2013-09-06,Vitória,3,2,Athletico-PR,VC,3,0,130
+Série A,2013,2013-09-06,Fluminense,2,1,Goiás,VC,3,0,131
+Série A,2013,2013-09-06,Atlético-MG,2,0,Grêmio,VC,3,0,132
+Série A,2013,2013-09-10,Ponte Preta,2,0,Atlético-MG,VC,3,0,133
+Série A,2013,2013-09-10,Vasco,1,0,Fluminense,VC,3,0,134
+Série A,2013,2013-09-10,Corinthians,0,0,Athletico-PR,E,1,1,135
+Série A,2013,2013-09-10,Bahia,2,0,Vitória,VC,3,0,136
+Série A,2013,2013-09-10,Náutico,1,3,Botafogo,VV,0,3,137
+Série A,2013,2013-09-10,Grêmio,1,2,Criciúma,VV,0,3,138
+Série A,2013,2013-09-10,Cruzeiro,0,2,São Paulo,VV,0,3,139
+Série A,2013,2013-09-10,Coritiba,1,0,Santos,VC,3,0,140
+Série A,2013,2013-09-11,Flamengo,1,1,Goiás,E,1,1,141
+Série A,2013,2013-09-11,Portuguesa,0,0,Coritiba,E,1,1,142
+Série A,2013,2013-09-11,Bahia,0,0,Atlético-MG,E,1,1,143
+Série A,2013,2013-10-07,São Paulo,1,2,Bahia,VV,0,3,144
+Série A,2013,2013-10-08,Botafogo,1,1,Goiás,E,1,1,145
+Série A,2013,2013-10-08,Náutico,0,0,Atlético-MG,E,1,1,146
+Série A,2013,2013-10-09,Internacional,1,2,Santos,VV,0,3,147
+Série A,2013,2013-10-10,Flamengo,2,1,Internacional,VC,3,0,148
+Série A,2013,2013-10-10,Portuguesa,1,2,Goiás,VV,0,3,149
+Série A,2013,2013-10-11,Ponte Preta,0,3,Vitória,VV,0,3,150
+Série A,2013,2013-10-11,Vasco,2,2,Santos,E,1,1,151
+Série A,2013,2013-10-11,Náutico,0,1,Criciúma,VV,0,3,152
+Série A,2013,2013-10-11,Cruzeiro,3,0,Grêmio,VC,3,0,153
+Série A,2013,2013-10-11,Athletico-PR,3,0,São Paulo,VC,3,0,154
+Série A,2013,2013-10-11,Corinthians,1,0,Fluminense,VC,3,0,155
+Série A,2013,2013-10-11,Internacional,2,1,Botafogo,VC,3,0,156
+Série A,2013,2013-11-08,Coritiba,0,1,Vasco,VV,0,3,157
+Série A,2013,2013-11-08,Cruzeiro,0,0,Santos,E,1,1,158
+Série A,2013,2013-11-08,Portuguesa,2,1,São Paulo,VC,3,0,159
+Série A,2013,2013-11-08,Fluminense,2,3,Flamengo,VV,0,3,160
+Série A,2013,2013-11-08,Corinthians,2,0,Vitória,VC,3,0,161
+Série A,2013,2013-11-08,Bahia,0,3,Grêmio,VV,0,3,162
+Série A,2013,2013-11-08,Internacional,2,2,Athletico-PR,E,1,1,163
+Série A,2013,2013-11-08,Ponte Preta,3,1,Criciúma,VC,3,0,164
+Série A,2013,2013-11-09,Goiás,1,2,Cruzeiro,VV,0,3,165
+Série A,2013,2013-11-09,Portuguesa,2,0,Vasco,VC,3,0,166
+Série A,2013,2013-11-09,Bahia,2,2,Criciúma,E,1,1,167
+Série A,2013,2013-11-09,Athletico-PR,1,1,Fluminense,E,1,1,168
+Série A,2013,2013-11-09,Botafogo,1,0,Corinthians,VC,3,0,169
+Série A,2013,2013-11-09,Náutico,0,2,Grêmio,VV,0,3,170
+Série A,2013,2013-12-06,Santos,1,0,Atlético-MG,VC,3,0,171
+Série A,2013,2013-12-06,Grêmio,1,1,São Paulo,E,1,1,172
+Série A,2013,2013-12-06,Portuguesa,2,1,Fluminense,VC,3,0,173
+Série A,2013,2013-12-09,Atlético-MG,3,0,Coritiba,VC,3,0,174
+Série A,2013,2013-12-09,Flamengo,2,1,Santos,VC,3,0,175
+Série A,2013,2013-12-09,Internacional,2,2,Vitória,E,1,1,176
+Série A,2013,2013-12-09,São Paulo,1,0,Ponte Preta,VC,3,0,177
+Série A,2013,2013-12-10,Vitória,2,1,Coritiba,VC,3,0,178
+Série A,2013,2013-12-10,Fluminense,1,1,Grêmio,E,1,1,179
+Série A,2013,2013-12-10,Santos,2,1,Ponte Preta,VC,3,0,180
+Série A,2014,2014-01-06,Figueirense,1,3,Athletico-PR,VV,0,3,1
+Série A,2014,2014-01-06,Grêmio,0,0,Palmeiras,E,1,1,2
+Série A,2014,2014-01-06,Cruzeiro,3,0,Flamengo,VC,3,0,3
+Série A,2014,2014-01-06,Santos,2,0,Criciúma,VC,3,0,4
+Série A,2014,2014-01-06,Corinthians,1,1,Botafogo,E,1,1,5
+Série A,2014,2014-01-06,Chapecoense,2,1,Bahia,VC,3,0,6
+Série A,2014,2014-01-06,Fluminense,1,1,Internacional,E,1,1,7
+Série A,2014,2014-01-11,Goiás,0,2,Fluminense,VV,0,3,8
+Série A,2014,2014-01-11,Grêmio,1,0,Vitória,VC,3,0,9
+Série A,2014,2014-01-11,Corinthians,2,2,Coritiba,E,1,1,10
+Série A,2014,2014-02-08,Botafogo,1,1,Cruzeiro,E,1,1,11
+Série A,2014,2014-02-08,Vitória,2,1,Grêmio,VC,3,0,12
+Série A,2014,2014-02-08,São Paulo,1,1,Criciúma,E,1,1,13
+Série A,2014,2014-02-10,Palmeiras,4,2,Chapecoense,VC,3,0,14
+Série A,2014,2014-02-11,Santos,1,2,Internacional,VV,0,3,15
+Série A,2014,2014-02-11,Bahia,0,1,Palmeiras,VV,0,3,16
+Série A,2014,2014-02-11,Criciúma,1,2,São Paulo,VV,0,3,17
+Série A,2014,2014-02-11,Cruzeiro,2,1,Botafogo,VC,3,0,18
+Série A,2014,2014-02-11,Athletico-PR,1,0,Atlético-MG,VC,3,0,19
+Série A,2014,2014-02-11,Sport,1,0,Figueirense,VC,3,0,20
+Série A,2014,2014-02-11,Flamengo,3,0,Chapecoense,VC,3,0,21
+Série A,2014,2014-03-05,São Paulo,2,2,Coritiba,E,1,1,22
+Série A,2014,2014-03-05,Athletico-PR,2,3,Cruzeiro,VV,0,3,23
+Série A,2014,2014-03-05,Santos,0,0,Grêmio,E,1,1,24
+Série A,2014,2014-03-05,Fluminense,1,2,Vitória,VV,0,3,25
+Série A,2014,2014-03-08,Chapecoense,1,0,Flamengo,VC,3,0,26
+Série A,2014,2014-03-08,Figueirense,3,0,Sport,VC,3,0,27
+Série A,2014,2014-03-08,Internacional,1,0,Santos,VC,3,0,28
+Série A,2014,2014-03-08,Fluminense,2,0,Goiás,VC,3,0,29
+Série A,2014,2014-03-08,Coritiba,0,0,Corinthians,E,1,1,30
+Série A,2014,2014-03-08,Atlético-MG,3,1,Athletico-PR,VC,3,0,31
+Série A,2014,2014-03-08,Palmeiras,1,1,Bahia,E,1,1,32
+Série A,2014,2014-04-05,Flamengo,4,2,Palmeiras,VC,3,0,33
+Série A,2014,2014-04-05,Atlético-MG,0,1,Goiás,VV,0,3,34
+Série A,2014,2014-04-05,Bahia,1,0,Botafogo,VC,3,0,35
+Série A,2014,2014-04-05,Chapecoense,0,1,Corinthians,VV,0,3,36
+Série A,2014,2014-04-05,Criciúma,1,0,Figueirense,VC,3,0,37
+Série A,2014,2014-04-05,Internacional,2,1,Sport,VC,3,0,38
+Série A,2014,2014-04-06,Sport,1,0,Bahia,VC,3,0,39
+Série A,2014,2014-04-10,Criciúma,3,1,Atlético-MG,VC,3,0,40
+Série A,2014,2014-04-10,Coritiba,1,0,Athletico-PR,VC,3,0,41
+Série A,2014,2014-04-10,Goiás,1,0,Figueirense,VC,3,0,42
+Série A,2014,2014-04-10,Cruzeiro,2,1,Internacional,VC,3,0,43
+Série A,2014,2014-04-10,Flamengo,0,1,Santos,VV,0,3,44
+Série A,2014,2014-04-10,Grêmio,0,1,São Paulo,VV,0,3,45
+Série A,2014,2014-04-10,Corinthians,3,0,Sport,VC,3,0,46
+Série A,2014,2014-04-10,Vitória,2,1,Botafogo,VC,3,0,47
+Série A,2014,2014-06-08,Chapecoense,1,1,Atlético-MG,E,1,1,48
+Série A,2014,2014-06-09,Santos,3,1,Vitória,VC,3,0,49
+Série A,2014,2014-06-09,Flamengo,0,1,Grêmio,VV,0,3,50
+Série A,2014,2014-06-09,Chapecoense,0,0,Goiás,E,1,1,51
+Série A,2014,2014-06-10,Fluminense,1,1,Bahia,E,1,1,52
+Série A,2014,2014-06-12,Figueirense,1,2,Internacional,VV,0,3,53
+Série A,2014,2014-06-12,Corinthians,2,1,Criciúma,VC,3,0,54
+Série A,2014,2014-07-09,Bahia,0,0,Coritiba,E,1,1,55
+Série A,2014,2014-07-09,Atlético-MG,1,0,Botafogo,VC,3,0,56
+Série A,2014,2014-07-09,Criciúma,0,0,Corinthians,E,1,1,57
+Série A,2014,2014-07-09,Fluminense,3,3,Cruzeiro,E,1,1,58
+Série A,2014,2014-07-09,Internacional,2,3,Figueirense,VV,0,3,59
+Série A,2014,2014-07-09,Athletico-PR,1,1,Palmeiras,E,1,1,60
+Série A,2014,2014-07-09,São Paulo,2,0,Sport,VC,3,0,61
+Série A,2014,2014-07-12,Vitória,0,1,Santos,VV,0,3,62
+Série A,2014,2014-07-12,Botafogo,0,0,Atlético-MG,E,1,1,63
+Série A,2014,2014-07-12,Cruzeiro,2,1,Fluminense,VC,3,0,64
+Série A,2014,2014-07-12,Grêmio,1,1,Flamengo,E,1,1,65
+Série A,2014,2014-07-12,Goiás,4,2,Chapecoense,VC,3,0,66
+Série A,2014,2014-07-12,Sport,1,0,São Paulo,VC,3,0,67
+Série A,2014,2014-07-12,Palmeiras,1,1,Athletico-PR,E,1,1,68
+Série A,2014,2014-07-12,Coritiba,3,2,Bahia,VC,3,0,69
+Série A,2014,2014-08-10,São Paulo,1,0,Athletico-PR,VC,3,0,70
+Série A,2014,2014-08-10,Grêmio,2,0,Sport,VC,3,0,71
+Série A,2014,2014-08-10,Botafogo,0,1,Palmeiras,VV,0,3,72
+Série A,2014,2014-08-10,Vitória,2,2,Goiás,E,1,1,73
+Série A,2014,2014-08-10,Figueirense,1,2,Flamengo,VV,0,3,74
+Série A,2014,2014-08-10,Coritiba,1,0,Criciúma,VC,3,0,75
+Série A,2014,2014-08-10,Cruzeiro,0,1,Corinthians,VV,0,3,76
+Série A,2014,2014-08-11,Palmeiras,0,2,Atlético-MG,VV,0,3,77
+Série A,2014,2014-08-11,Coritiba,1,0,Fluminense,VC,3,0,78
+Série A,2014,2014-08-11,Botafogo,0,2,Athletico-PR,VV,0,3,79
+Série A,2014,2014-09-08,Fluminense,1,1,Coritiba,E,1,1,80
+Série A,2014,2014-09-08,Criciúma,0,0,Cruzeiro,E,1,1,81
+Série A,2014,2014-09-08,Bahia,1,0,Goiás,VC,3,0,82
+Série A,2014,2014-09-10,Fluminense,0,0,Atlético-MG,E,1,1,83
+Série A,2014,2014-09-10,Santos,1,0,Bahia,VC,3,0,84
+Série A,2014,2014-09-10,Chapecoense,5,0,Internacional,VC,3,0,85
+Série A,2014,2014-09-11,Vitória,1,2,São Paulo,VV,0,3,86
+Série A,2014,2014-09-11,Corinthians,1,0,Santos,VC,3,0,87
+Série A,2014,2014-09-11,Grêmio,4,1,Internacional,VC,3,0,88
+Série A,2014,2014-09-11,Sport,2,2,Flamengo,E,1,1,89
+Série A,2014,2014-09-11,Cruzeiro,3,1,Criciúma,VC,3,0,90
+Série A,2014,2014-09-11,Figueirense,1,0,Chapecoense,VC,3,0,91
+Série A,2014,2014-09-11,Goiás,3,0,Bahia,VC,3,0,92
+Série A,2014,2014-10-05,Internacional,2,1,Athletico-PR,VC,3,0,93
+Série A,2014,2014-10-05,Botafogo,6,0,Criciúma,VC,3,0,94
+Série A,2014,2014-10-05,Palmeiras,2,0,Goiás,VC,3,0,95
+Série A,2014,2014-10-08,Internacional,2,0,Grêmio,VC,3,0,96
+Série A,2014,2014-10-08,Athletico-PR,2,0,Botafogo,VC,3,0,97
+Série A,2014,2014-10-08,Santos,0,1,Corinthians,VV,0,3,98
+Série A,2014,2014-10-08,Chapecoense,0,1,Figueirense,VV,0,3,99
+Série A,2014,2014-10-08,Atlético-MG,2,1,Palmeiras,VC,3,0,100
+Série A,2014,2014-10-08,Flamengo,1,0,Sport,VC,3,0,101
+Série A,2014,2014-10-08,São Paulo,3,1,Vitória,VC,3,0,102
+Série A,2014,2014-10-09,Grêmio,1,0,Athletico-PR,VC,3,0,103
+Série A,2014,2014-10-09,Sport,3,1,Santos,VC,3,0,104
+Série A,2014,2014-10-09,Palmeiras,1,0,Criciúma,VC,3,0,105
+Série A,2014,2014-10-09,Goiás,1,0,Flamengo,VC,3,0,106
+Série A,2014,2014-10-09,Figueirense,1,1,Fluminense,E,1,1,107
+Série A,2014,2014-10-09,Vitória,2,0,Internacional,VC,3,0,108
+Série A,2014,2014-10-09,Botafogo,2,4,São Paulo,VV,0,3,109
+Série A,2014,2014-10-09,Coritiba,3,0,Chapecoense,VC,3,0,110
+Série A,2014,2014-11-05,São Paulo,1,1,Corinthians,E,1,1,111
+Série A,2014,2014-11-05,Atlético-MG,2,1,Cruzeiro,VC,3,0,112
+Série A,2014,2014-11-05,Fluminense,2,0,Flamengo,VC,3,0,113
+Série A,2014,2014-11-05,Chapecoense,1,2,Grêmio,VV,0,3,114
+Série A,2014,2014-11-05,Coritiba,0,1,Sport,VV,0,3,115
+Série A,2014,2014-11-05,Bahia,1,1,Vitória,E,1,1,116
+Série A,2014,2014-11-05,Figueirense,0,2,Santos,VV,0,3,117
+Série A,2014,2014-11-09,Corinthians,1,0,Atlético-MG,VC,3,0,118
+Série A,2014,2014-11-09,Cruzeiro,2,1,Bahia,VC,3,0,119
+Série A,2014,2014-11-10,Palmeiras,2,1,Grêmio,VC,3,0,120
+Série A,2014,2014-11-10,Botafogo,1,0,Corinthians,VC,3,0,121
+Série A,2014,2014-11-10,Goiás,3,0,Coritiba,VC,3,0,122
+Série A,2014,2014-12-10,Atlético-MG,1,0,São Paulo,VC,3,0,123
+Série A,2014,2014-12-10,Sport,1,2,Vitória,VV,0,3,124
+Série A,2014,2014-12-10,Criciúma,3,0,Santos,VC,3,0,125
+Série A,2014,2014-12-10,Internacional,2,1,Fluminense,VC,3,0,126
+Série A,2014,2014-12-10,Athletico-PR,3,0,Figueirense,VC,3,0,127
+Série A,2014,2014-12-10,Flamengo,3,0,Cruzeiro,VC,3,0,128
+Série A,2014,2014-12-10,Bahia,0,1,Chapecoense,VV,0,3,129
+Série A,2014,2014-12-11,São Paulo,1,1,Internacional,E,1,1,130
+Série A,2015,2015-01-07,Joinville,0,1,Flamengo,VV,0,3,1
+Série A,2015,2015-01-07,Athletico-PR,2,1,São Paulo,VC,3,0,2
+Série A,2015,2015-01-07,Sport,3,0,Internacional,VC,3,0,3
+Série A,2015,2015-01-07,Palmeiras,2,0,Chapecoense,VC,3,0,4
+Série A,2015,2015-01-07,Vasco,1,0,Avaí,VC,3,0,5
+Série A,2015,2015-01-07,Grêmio,1,0,Cruzeiro,VC,3,0,6
+Série A,2015,2015-01-07,Atlético-MG,2,0,Coritiba,VC,3,0,7
+Série A,2015,2015-01-08,Fluminense,1,0,Grêmio,VC,3,0,8
+Série A,2015,2015-01-11,Vasco,0,1,Fluminense,VV,0,3,9
+Série A,2015,2015-01-11,Grêmio,2,0,Flamengo,VC,3,0,10
+Série A,2015,2015-01-11,Goiás,2,1,Internacional,VC,3,0,11
+Série A,2015,2015-01-11,Santos,2,1,Palmeiras,VC,3,0,12
+Série A,2015,2015-01-11,Chapecoense,0,0,Athletico-PR,E,1,1,13
+Série A,2015,2015-01-11,Atlético-MG,0,3,Corinthians,VV,0,3,14
+Série A,2015,2015-02-07,Figueirense,3,1,Goiás,VC,3,0,15
+Série A,2015,2015-02-07,Fluminense,2,1,Santos,VC,3,0,16
+Série A,2015,2015-02-07,Corinthians,2,0,Ponte Preta,VC,3,0,17
+Série A,2015,2015-02-08,Joinville,2,0,Avaí,VC,3,0,18
+Série A,2015,2015-02-08,Sport,0,0,Cruzeiro,E,1,1,19
+Série A,2015,2015-02-08,Coritiba,1,1,Goiás,E,1,1,20
+Série A,2015,2015-02-08,Figueirense,3,1,Ponte Preta,VC,3,0,21
+Série A,2015,2015-02-08,Internacional,0,0,Chapecoense,E,1,1,22
+Série A,2015,2015-02-08,Flamengo,2,2,Santos,E,1,1,23
+Série A,2015,2015-02-08,Palmeiras,0,1,Athletico-PR,VV,0,3,24
+Série A,2015,2015-02-09,Corinthians,2,0,Fluminense,VC,3,0,25
+Série A,2015,2015-02-09,Flamengo,3,0,Avaí,VC,3,0,26
+Série A,2015,2015-02-09,Goiás,1,0,Palmeiras,VC,3,0,27
+Série A,2015,2015-02-09,Atlético-MG,0,1,Athletico-PR,VV,0,3,28
+Série A,2015,2015-02-09,Coritiba,0,0,Sport,E,1,1,29
+Série A,2015,2015-02-09,Joinville,0,0,São Paulo,E,1,1,30
+Série A,2015,2015-02-09,Ponte Preta,1,2,Cruzeiro,VV,0,3,31
+Série A,2015,2015-02-09,Internacional,6,0,Vasco,VC,3,0,32
+Série A,2015,2015-03-06,São Paulo,3,2,Santos,VC,3,0,33
+Série A,2015,2015-03-06,Grêmio,3,1,Corinthians,VC,3,0,34
+Série A,2015,2015-03-06,Cruzeiro,1,0,Flamengo,VC,3,0,35
+Série A,2015,2015-03-06,Avaí,1,4,Atlético-MG,VV,0,3,36
+Série A,2015,2015-03-06,Vasco,0,3,Ponte Preta,VV,0,3,37
+Série A,2015,2015-03-06,Chapecoense,2,0,Joinville,VC,3,0,38
+Série A,2015,2015-03-06,Athletico-PR,1,0,Figueirense,VC,3,0,39
+Série A,2015,2015-03-09,Santos,3,1,Chapecoense,VC,3,0,40
+Série A,2015,2015-03-09,Figueirense,0,2,Grêmio,VV,0,3,41
+Série A,2015,2015-03-10,São Paulo,1,0,Athletico-PR,VC,3,0,42
+Série A,2015,2015-03-10,Internacional,2,1,Sport,VC,3,0,43
+Série A,2015,2015-03-10,Coritiba,0,3,Atlético-MG,VV,0,3,44
+Série A,2015,2015-04-06,Fluminense,2,0,Coritiba,VC,3,0,45
+Série A,2015,2015-04-06,Palmeiras,1,1,Internacional,E,1,1,46
+Série A,2015,2015-04-06,Sport,1,0,Goiás,VC,3,0,47
+Série A,2015,2015-04-07,Cruzeiro,2,0,Athletico-PR,VC,3,0,48
+Série A,2015,2015-04-07,Coritiba,0,0,Joinville,E,1,1,49
+Série A,2015,2015-04-07,Chapecoense,1,0,Vasco,VC,3,0,50
+Série A,2015,2015-04-10,Chapecoense,5,1,Palmeiras,VC,3,0,51
+Série A,2015,2015-04-10,Goiás,2,3,Figueirense,VV,0,3,52
+Série A,2015,2015-04-10,Avaí,1,1,Vasco,E,1,1,53
+Série A,2015,2015-04-10,Cruzeiro,0,0,Grêmio,E,1,1,54
+Série A,2015,2015-04-10,Santos,3,1,Fluminense,VC,3,0,55
+Série A,2015,2015-04-10,Flamengo,2,0,Joinville,VC,3,0,56
+Série A,2015,2015-04-10,Ponte Preta,2,2,Corinthians,E,1,1,57
+Série A,2015,2015-05-07,Ponte Preta,0,2,Palmeiras,VV,0,3,58
+Série A,2015,2015-05-07,São Paulo,0,0,Fluminense,E,1,1,59
+Série A,2015,2015-05-07,Flamengo,1,2,Figueirense,VV,0,3,60
+Série A,2015,2015-05-07,Internacional,1,3,Atlético-MG,VV,0,3,61
+Série A,2015,2015-05-07,Avaí,2,2,Sport,E,1,1,62
+Série A,2015,2015-05-07,Goiás,0,0,Corinthians,E,1,1,63
+Série A,2015,2015-05-07,Santos,1,3,Grêmio,VV,0,3,64
+Série A,2015,2015-05-09,São Paulo,2,0,Internacional,VC,3,0,65
+Série A,2015,2015-05-09,Athletico-PR,0,0,Joinville,E,1,1,66
+Série A,2015,2015-05-09,Vasco,1,2,Atlético-MG,VV,0,3,67
+Série A,2015,2015-06-06,São Paulo,2,0,Grêmio,VC,3,0,68
+Série A,2015,2015-06-06,Joinville,0,1,Corinthians,VV,0,3,69
+Série A,2015,2015-06-06,Athletico-PR,2,0,Vasco,VC,3,0,70
+Série A,2015,2015-06-06,Atlético-MG,1,3,Cruzeiro,VV,0,3,71
+Série A,2015,2015-06-06,Santos,2,2,Ponte Preta,E,1,1,72
+Série A,2015,2015-06-06,Flamengo,1,0,Chapecoense,VC,3,0,73
+Série A,2015,2015-06-09,Grêmio,2,1,Goiás,VC,3,0,74
+Série A,2015,2015-06-09,Fluminense,1,3,Flamengo,VV,0,3,75
+Série A,2015,2015-06-09,Palmeiras,3,3,Corinthians,E,1,1,76
+Série A,2015,2015-06-09,Avaí,0,2,Coritiba,VV,0,3,77
+Série A,2015,2015-06-09,Sport,1,1,Santos,E,1,1,78
+Série A,2015,2015-06-09,Chapecoense,0,0,Ponte Preta,E,1,1,79
+Série A,2015,2015-06-09,Cruzeiro,5,1,Figueirense,VC,3,0,80
+Série A,2015,2015-06-12,Joinville,0,2,Grêmio,VV,0,3,81
+Série A,2015,2015-06-12,Atlético-MG,3,0,Chapecoense,VC,3,0,82
+Série A,2015,2015-06-12,Coritiba,0,0,Vasco,E,1,1,83
+Série A,2015,2015-06-12,Internacional,2,0,Cruzeiro,VC,3,0,84
+Série A,2015,2015-06-12,Flamengo,1,2,Palmeiras,VV,0,3,85
+Série A,2015,2015-06-12,Goiás,0,1,São Paulo,VV,0,3,86
+Série A,2015,2015-06-12,Ponte Preta,0,1,Sport,VV,0,3,87
+Série A,2015,2015-06-12,Figueirense,1,0,Fluminense,VC,3,0,88
+Série A,2015,2015-06-12,Corinthians,1,1,Avaí,E,1,1,89
+Série A,2015,2015-06-12,Santos,5,1,Athletico-PR,VC,3,0,90
+Série A,2015,2015-07-06,Goiás,0,1,Avaí,VV,0,3,91
+Série A,2015,2015-07-06,Figueirense,2,1,Palmeiras,VC,3,0,92
+Série A,2015,2015-07-06,Internacional,2,0,Coritiba,VC,3,0,93
+Série A,2015,2015-07-06,Fluminense,0,0,Sport,E,1,1,94
+Série A,2015,2015-07-11,Fluminense,2,3,Chapecoense,VV,0,3,95
+Série A,2015,2015-07-11,Corinthians,2,1,Coritiba,VC,3,0,96
+Série A,2015,2015-07-11,Athletico-PR,2,1,Avaí,VC,3,0,97
+Série A,2015,2015-07-11,Internacional,1,0,Ponte Preta,VC,3,0,98
+Série A,2015,2015-08-07,Atlético-MG,2,1,Sport,VC,3,0,99
+Série A,2015,2015-08-07,Internacional,1,2,Flamengo,VV,0,3,100
+Série A,2015,2015-08-07,Vasco,0,4,São Paulo,VV,0,3,101
+Série A,2015,2015-08-07,Palmeiras,3,0,Avaí,VC,3,0,102
+Série A,2015,2015-08-07,Coritiba,0,0,Ponte Preta,E,1,1,103
+Série A,2015,2015-08-07,Figueirense,0,2,Joinville,VV,0,3,104
+Série A,2015,2015-08-07,Chapecoense,1,0,Grêmio,VC,3,0,105
+Série A,2015,2015-08-07,Goiás,4,1,Santos,VC,3,0,106
+Série A,2015,2015-08-08,Santos,3,0,Coritiba,VC,3,0,107
+Série A,2015,2015-08-08,Avaí,1,0,Fluminense,VC,3,0,108
+Série A,2015,2015-08-11,Sport,1,0,Grêmio,VC,3,0,109
+Série A,2015,2015-08-11,Joinville,0,0,Santos,E,1,1,110
+Série A,2015,2015-08-11,Figueirense,0,1,Atlético-MG,VV,0,3,111
+Série A,2015,2015-08-11,Cruzeiro,2,1,São Paulo,VC,3,0,112
+Série A,2015,2015-08-11,Palmeiras,0,2,Vasco,VV,0,3,113
+Série A,2015,2015-08-11,Flamengo,4,1,Goiás,VC,3,0,114
+Série A,2015,2015-09-05,Palmeiras,2,2,Atlético-MG,E,1,1,115
+Série A,2015,2015-09-05,Fluminense,1,0,Joinville,VC,3,0,116
+Série A,2015,2015-09-05,Chapecoense,2,1,Coritiba,VC,3,0,117
+Série A,2015,2015-09-07,Corinthians,2,0,Athletico-PR,VC,3,0,118
+Série A,2015,2015-09-07,Fluminense,1,0,Cruzeiro,VC,3,0,119
+Série A,2015,2015-09-08,Goiás,0,0,Atlético-MG,E,1,1,120
+Série A,2015,2015-09-08,Athletico-PR,1,1,Sport,E,1,1,121
+Série A,2015,2015-09-08,Cruzeiro,2,1,Palmeiras,VC,3,0,122
+Série A,2015,2015-09-08,Grêmio,5,0,Internacional,VC,3,0,123
+Série A,2015,2015-09-08,Vasco,0,0,Joinville,E,1,1,124
+Série A,2015,2015-09-08,Ponte Preta,1,0,Flamengo,VC,3,0,125
+Série A,2015,2015-09-08,São Paulo,1,1,Corinthians,E,1,1,126
+Série A,2015,2015-09-08,Chapecoense,2,2,Figueirense,E,1,1,127
+Série A,2015,2015-09-09,Coritiba,1,1,Fluminense,E,1,1,128
+Série A,2015,2015-09-09,Figueirense,1,1,Athletico-PR,E,1,1,129
+Série A,2015,2015-09-09,Atlético-MG,2,0,Avaí,VC,3,0,130
+Série A,2015,2015-09-09,Internacional,1,0,Palmeiras,VC,3,0,131
+Série A,2015,2015-09-09,Santos,3,0,São Paulo,VC,3,0,132
+Série A,2015,2015-09-09,Corinthians,1,1,Grêmio,E,1,1,133
+Série A,2015,2015-09-09,Ponte Preta,0,1,Vasco,VV,0,3,134
+Série A,2015,2015-10-05,Cruzeiro,0,1,Corinthians,VV,0,3,135
+Série A,2015,2015-10-05,Grêmio,3,3,Ponte Preta,E,1,1,136
+Série A,2015,2015-10-05,Avaí,1,1,Santos,E,1,1,137
+Série A,2015,2015-10-05,Athletico-PR,3,0,Internacional,VC,3,0,138
+Série A,2015,2015-10-05,Sport,4,1,Figueirense,VC,3,0,139
+Série A,2015,2015-10-05,Vasco,0,0,Goiás,E,1,1,140
+Série A,2015,2015-10-05,São Paulo,2,1,Flamengo,VC,3,0,141
+Série A,2015,2015-10-06,Atlético-MG,2,2,Santos,E,1,1,142
+Série A,2015,2015-10-09,Goiás,1,0,Sport,VC,3,0,143
+Série A,2015,2015-10-09,Flamengo,2,0,Cruzeiro,VC,3,0,144
+Série A,2015,2015-10-09,Joinville,0,0,Chapecoense,E,1,1,145
+Série A,2015,2015-11-07,Santos,3,0,Figueirense,VC,3,0,146
+Série A,2015,2015-11-07,Ponte Preta,0,2,Atlético-MG,VV,0,3,147
+Série A,2015,2015-11-07,Grêmio,2,0,Vasco,VC,3,0,148
+Série A,2015,2015-12-07,São Paulo,3,1,Coritiba,VC,3,0,149
+Série A,2015,2015-12-07,Flamengo,0,3,Corinthians,VV,0,3,150
+Série A,2015,2015-12-07,Cruzeiro,1,0,Goiás,VC,3,0,151
+Série A,2015,2015-12-07,Sport,2,2,Palmeiras,E,1,1,152
+Série A,2015,2015-12-07,Joinville,0,2,Internacional,VV,0,3,153
+Série A,2015,2015-12-07,Avaí,2,1,Chapecoense,VC,3,0,154
+Série A,2015,2015-12-07,Athletico-PR,1,2,Fluminense,VV,0,3,155
+Série A,2015,2015-12-08,Corinthians,4,3,Sport,VC,3,0,156
+Série A,2015,2015-12-08,Santos,1,0,Vasco,VC,3,0,157
+Série A,2015,2015-12-08,Flamengo,3,2,Athletico-PR,VC,3,0,158
+Série A,2015,2015-12-08,Internacional,1,0,Fluminense,VC,3,0,159
+Série A,2015,2015-12-08,Figueirense,0,2,São Paulo,VV,0,3,160
+Série A,2015,2015-12-08,Coritiba,2,1,Palmeiras,VC,3,0,161
+Série A,2015,2015-12-08,Goiás,0,0,Chapecoense,E,1,1,162
+Série A,2015,2015-12-09,Palmeiras,2,0,Figueirense,VC,3,0,163
+Série A,2015,2015-12-09,Coritiba,0,1,Internacional,VV,0,3,164
+Série A,2016,2016-01-06,Figueirense,1,0,São Paulo,VC,3,0,1
+Série A,2016,2016-01-06,Santa Cruz,0,1,Sport,VV,0,3,2
+Série A,2016,2016-01-06,Coritiba,3,4,Chapecoense,VV,0,3,3
+Série A,2016,2016-01-06,Botafogo,0,1,Cruzeiro,VV,0,3,4
+Série A,2016,2016-01-06,Atlético-MG,1,1,Fluminense,E,1,1,5
+Série A,2016,2016-01-06,Corinthians,1,0,Santos,VC,3,0,6
+Série A,2016,2016-01-06,Internacional,1,0,Athletico-PR,VC,3,0,7
+Série A,2016,2016-01-10,Chapecoense,1,4,Vitória,VV,0,3,8
+Série A,2016,2016-01-10,Botafogo,2,0,Corinthians,VC,3,0,9
+Série A,2016,2016-01-10,Ponte Preta,1,2,Atlético-MG,VV,0,3,10
+Série A,2016,2016-01-10,Cruzeiro,1,0,Grêmio,VC,3,0,11
+Série A,2016,2016-01-10,Santos,2,0,Athletico-PR,VC,3,0,12
+Série A,2016,2016-01-10,São Paulo,0,0,Flamengo,E,1,1,13
+Série A,2016,2016-01-10,Fluminense,3,1,Sport,VC,3,0,14
+Série A,2016,2016-01-10,Internacional,1,0,Figueirense,VC,3,0,15
+Série A,2016,2016-02-06,América-MG,1,2,Ponte Preta,VV,0,3,16
+Série A,2016,2016-02-06,Palmeiras,4,3,Grêmio,VC,3,0,17
+Série A,2016,2016-02-06,Flamengo,1,0,Vitória,VC,3,0,18
+Série A,2016,2016-02-07,Fluminense,0,0,Coritiba,E,1,1,19
+Série A,2016,2016-02-07,Athletico-PR,1,0,América-MG,VC,3,0,20
+Série A,2016,2016-03-07,Figueirense,1,1,Atlético-MG,E,1,1,21
+Série A,2016,2016-03-07,Internacional,0,1,Grêmio,VV,0,3,22
+Série A,2016,2016-03-07,Cruzeiro,2,2,Vitória,E,1,1,23
+Série A,2016,2016-03-07,Santos,3,0,Chapecoense,VC,3,0,24
+Série A,2016,2016-03-07,Corinthians,4,0,Flamengo,VC,3,0,25
+Série A,2016,2016-03-07,Botafogo,2,1,Santa Cruz,VC,3,0,26
+Série A,2016,2016-03-07,Ponte Preta,1,0,São Paulo,VC,3,0,27
+Série A,2016,2016-03-08,Athletico-PR,2,0,Corinthians,VC,3,0,28
+Série A,2016,2016-03-08,Santos,0,0,Flamengo,E,1,1,29
+Série A,2016,2016-03-08,Sport,1,1,América-MG,E,1,1,30
+Série A,2016,2016-03-08,Vitória,3,1,Coritiba,VC,3,0,31
+Série A,2016,2016-03-09,Fluminense,3,2,Figueirense,VC,3,0,32
+Série A,2016,2016-03-10,Coritiba,3,0,América-MG,VC,3,0,33
+Série A,2016,2016-03-10,Santa Cruz,2,3,Palmeiras,VV,0,3,34
+Série A,2016,2016-04-06,Corinthians,2,1,Coritiba,VC,3,0,35
+Série A,2016,2016-04-06,Chapecoense,0,0,Fluminense,E,1,1,36
+Série A,2016,2016-04-06,Athletico-PR,1,0,Santa Cruz,VC,3,0,37
+Série A,2016,2016-04-07,Sport,1,3,Palmeiras,VV,0,3,38
+Série A,2016,2016-04-08,São Paulo,1,2,Atlético-MG,VV,0,3,39
+Série A,2016,2016-04-08,Chapecoense,1,1,Palmeiras,E,1,1,40
+Série A,2016,2016-04-08,Ponte Preta,2,0,Botafogo,VC,3,0,41
+Série A,2016,2016-04-08,Cruzeiro,4,2,Internacional,VC,3,0,42
+Série A,2016,2016-04-08,Grêmio,0,0,Santa Cruz,E,1,1,43
+Série A,2016,2016-04-09,Botafogo,2,1,Grêmio,VC,3,0,44
+Série A,2016,2016-05-06,Cruzeiro,0,1,São Paulo,VV,0,3,45
+Série A,2016,2016-05-06,Vitória,1,0,Internacional,VC,3,0,46
+Série A,2016,2016-05-06,Flamengo,1,2,Palmeiras,VV,0,3,47
+Série A,2016,2016-05-06,Grêmio,1,0,Ponte Preta,VC,3,0,48
+Série A,2016,2016-05-06,Santos,3,0,Botafogo,VC,3,0,49
+Série A,2016,2016-05-06,América-MG,1,0,Figueirense,VC,3,0,50
+Série A,2016,2016-05-06,Sport,4,4,Atlético-MG,E,1,1,51
+Série A,2016,2016-05-10,Sport,1,1,São Paulo,E,1,1,52
+Série A,2016,2016-05-10,Corinthians,0,0,Atlético-MG,E,1,1,53
+Série A,2016,2016-05-10,Athletico-PR,3,1,Chapecoense,VC,3,0,54
+Série A,2016,2016-05-10,Vitória,0,1,Grêmio,VV,0,3,55
+Série A,2016,2016-05-10,Santos,2,1,Fluminense,VC,3,0,56
+Série A,2016,2016-05-11,São Paulo,4,0,Corinthians,VC,3,0,57
+Série A,2016,2016-05-11,Flamengo,0,0,Botafogo,E,1,1,58
+Série A,2016,2016-06-08,Flamengo,1,0,Athletico-PR,VC,3,0,59
+Série A,2016,2016-06-10,Internacional,1,0,Coritiba,VC,3,0,60
+Série A,2016,2016-06-11,Santa Cruz,1,0,América-MG,VC,3,0,61
+Série A,2016,2016-06-11,Ponte Preta,1,2,Santos,VV,0,3,62
+Série A,2016,2016-06-11,Chapecoense,1,0,Figueirense,VC,3,0,63
+Série A,2016,2016-06-11,Vitória,3,2,Athletico-PR,VC,3,0,64
+Série A,2016,2016-06-11,Cruzeiro,4,2,Fluminense,VC,3,0,65
+Série A,2016,2016-06-11,Coritiba,2,0,Atlético-MG,VC,3,0,66
+Série A,2016,2016-06-11,Palmeiras,1,0,Internacional,VC,3,0,67
+Série A,2016,2016-07-08,Santa Cruz,1,2,São Paulo,VV,0,3,68
+Série A,2016,2016-07-08,América-MG,1,0,Santos,VC,3,0,69
+Série A,2016,2016-07-08,Figueirense,1,1,Sport,E,1,1,70
+Série A,2016,2016-07-08,Coritiba,3,1,Ponte Preta,VC,3,0,71
+Série A,2016,2016-07-08,Internacional,2,2,Fluminense,E,1,1,72
+Série A,2016,2016-07-08,Palmeiras,2,1,Vitória,VC,3,0,73
+Série A,2016,2016-07-09,Flamengo,2,1,Ponte Preta,VC,3,0,74
+Série A,2016,2016-07-09,Santa Cruz,2,2,Chapecoense,E,1,1,75
+Série A,2016,2016-07-09,Palmeiras,2,1,São Paulo,VC,3,0,76
+Série A,2016,2016-07-09,Coritiba,4,1,Grêmio,VC,3,0,77
+Série A,2016,2016-07-09,Atlético-MG,2,1,Vitória,VC,3,0,78
+Série A,2016,2016-07-09,Botafogo,1,0,Fluminense,VC,3,0,79
+Série A,2016,2016-07-09,Figueirense,1,0,Athletico-PR,VC,3,0,80
+Série A,2016,2016-07-11,Grêmio,0,3,Sport,VV,0,3,81
+Série A,2016,2016-08-08,Atlético-MG,3,1,Chapecoense,VC,3,0,82
+Série A,2016,2016-08-08,Corinthians,1,1,Cruzeiro,E,1,1,83
+Série A,2016,2016-08-09,América-MG,0,2,Cruzeiro,VV,0,3,84
+Série A,2016,2016-08-09,Internacional,2,1,Santos,VC,3,0,85
+Série A,2016,2016-08-09,Corinthians,3,0,Sport,VC,3,0,86
+Série A,2016,2016-08-10,Cruzeiro,2,0,Ponte Preta,VC,3,0,87
+Série A,2016,2016-09-07,Chapecoense,0,2,Corinthians,VV,0,3,88
+Série A,2016,2016-09-07,Ponte Preta,2,1,Sport,VC,3,0,89
+Série A,2016,2016-09-07,Coritiba,0,0,Botafogo,E,1,1,90
+Série A,2016,2016-09-10,Flamengo,3,0,Santa Cruz,VC,3,0,91
+Série A,2016,2016-09-10,América-MG,0,2,Palmeiras,VV,0,3,92
+Série A,2016,2016-09-10,Figueirense,0,1,Botafogo,VV,0,3,93
+Série A,2016,2016-10-07,São Paulo,3,0,América-MG,VC,3,0,94
+Série A,2016,2016-10-07,Flamengo,2,0,Atlético-MG,VC,3,0,95
+Série A,2016,2016-10-07,Vitória,0,0,Fluminense,E,1,1,96
+Série A,2016,2016-10-07,Grêmio,2,1,Figueirense,VC,3,0,97
+Série A,2016,2016-10-07,Santa Cruz,1,0,Internacional,VC,3,0,98
+Série A,2016,2016-10-09,Vitória,1,2,Flamengo,VV,0,3,99
+Série A,2016,2016-11-06,São Paulo,1,2,Athletico-PR,VV,0,3,100
+Série A,2016,2016-11-06,Fluminense,1,1,Grêmio,E,1,1,101
+Série A,2016,2016-11-06,Ponte Preta,2,1,Chapecoense,VC,3,0,102
+Série A,2016,2016-11-06,Internacional,3,1,América-MG,VC,3,0,103
+Série A,2016,2016-11-07,Cruzeiro,0,3,Athletico-PR,VV,0,3,104
+Série A,2016,2016-11-09,Ponte Preta,1,1,América-MG,E,1,1,105
+Série A,2016,2016-11-09,Sport,5,3,Santa Cruz,VC,3,0,106
+Série A,2016,2016-11-09,Athletico-PR,2,1,Internacional,VC,3,0,107
+Série A,2016,2016-11-09,Grêmio,0,0,Palmeiras,E,1,1,108
+Série A,2016,2016-11-09,Santos,2,1,Corinthians,VC,3,0,109
+Série A,2016,2016-11-09,Cruzeiro,0,2,Botafogo,VV,0,3,110
+Série A,2016,2016-11-09,São Paulo,3,1,Figueirense,VC,3,0,111
+Série A,2016,2016-11-09,Chapecoense,1,0,Coritiba,VC,3,0,112
+Série A,2016,2016-11-12,Grêmio,0,1,Botafogo,VV,0,3,113
+Série A,2016,2016-11-12,Athletico-PR,0,0,Flamengo,E,1,1,114
+Série A,2016,2016-11-12,Cruzeiro,3,2,Corinthians,VC,3,0,115
+Série A,2016,2016-11-12,Fluminense,1,1,Internacional,E,1,1,116
+Série A,2016,2016-11-12,Sport,2,0,Figueirense,VC,3,0,117
+Série A,2016,2016-11-12,Santos,1,0,América-MG,VC,3,0,118
+Série A,2016,2016-11-12,São Paulo,5,0,Santa Cruz,VC,3,0,119
+Série A,2016,2016-11-12,Vitória,1,2,Palmeiras,VV,0,3,120
+Série A,2016,2016-11-12,Ponte Preta,2,0,Coritiba,VC,3,0,121
+Série A,2016,2016-12-06,Santa Cruz,0,2,Santos,VV,0,3,122
+Série A,2016,2016-12-06,Botafogo,1,1,Vitória,E,1,1,123
+Série A,2016,2016-12-06,Palmeiras,1,0,Corinthians,VC,3,0,124
+Série A,2016,2016-12-06,Atlético-MG,2,3,Cruzeiro,VV,0,3,125
+Série A,2016,2016-12-06,Coritiba,3,2,Sport,VC,3,0,126
+Série A,2016,2016-12-06,Figueirense,1,0,Flamengo,VC,3,0,127
+Série A,2016,2016-12-07,Palmeiras,1,1,Santos,E,1,1,128
+Série A,2016,2016-12-09,Fluminense,4,2,Atlético-MG,VC,3,0,129
+Série A,2016,2016-12-09,Fluminense,4,2,Atlético-MG,VC,3,0,130
+Série A,2016,2016-12-10,Santa Cruz,2,4,Corinthians,VV,0,3,131
+Série A,2016,2016-12-10,Coritiba,0,0,Figueirense,E,1,1,132
+Série A,2016,2016-12-10,Botafogo,1,0,Internacional,VC,3,0,133
+Série A,2016,2016-12-10,Chapecoense,3,0,Sport,VC,3,0,134
+Série A,2017,2017-01-07,Atlético-GO,1,1,Santos,E,1,1,1
+Série A,2017,2017-01-07,Palmeiras,1,0,Grêmio,VC,3,0,2
+Série A,2017,2017-01-10,Cruzeiro,1,1,Corinthians,E,1,1,3
+Série A,2017,2017-01-10,São Paulo,1,0,Sport,VC,3,0,4
+Série A,2017,2017-01-10,Botafogo,2,3,Vitória,VV,0,3,5
+Série A,2017,2017-01-10,Grêmio,1,0,Fluminense,VC,3,0,6
+Série A,2017,2017-01-10,Avaí,0,2,Atlético-GO,VV,0,3,7
+Série A,2017,2017-01-10,Athletico-PR,0,2,Atlético-MG,VV,0,3,8
+Série A,2017,2017-02-07,Flamengo,2,0,São Paulo,VC,3,0,9
+Série A,2017,2017-02-07,Corinthians,1,0,Botafogo,VC,3,0,10
+Série A,2017,2017-02-07,Atlético-MG,3,1,Cruzeiro,VC,3,0,11
+Série A,2017,2017-02-07,Coritiba,2,2,Vasco,E,1,1,12
+Série A,2017,2017-02-07,Avaí,0,0,Ponte Preta,E,1,1,13
+Série A,2017,2017-02-07,Vitória,0,0,Bahia,E,1,1,14
+Série A,2017,2017-02-07,Sport,1,0,Athletico-PR,VC,3,0,15
+Série A,2017,2017-02-08,Botafogo,1,2,Palmeiras,VV,0,3,16
+Série A,2017,2017-02-08,Atlético-GO,0,1,Grêmio,VV,0,3,17
+Série A,2017,2017-02-08,Chapecoense,1,1,Bahia,E,1,1,18
+Série A,2017,2017-02-08,Santos,3,2,Flamengo,VC,3,0,19
+Série A,2017,2017-02-08,Sport,2,2,Fluminense,E,1,1,20
+Série A,2017,2017-02-08,Vitória,3,1,Ponte Preta,VC,3,0,21
+Série A,2017,2017-02-08,Atlético-MG,0,2,Corinthians,VV,0,3,22
+Série A,2017,2017-02-09,Grêmio,5,0,Sport,VC,3,0,23
+Série A,2017,2017-02-10,Ponte Preta,1,0,Flamengo,VC,3,0,24
+Série A,2017,2017-03-06,Coritiba,1,0,Athletico-PR,VC,3,0,25
+Série A,2017,2017-03-06,Corinthians,2,0,Santos,VC,3,0,26
+Série A,2017,2017-03-06,Fluminense,2,1,Vitória,VC,3,0,27
+Série A,2017,2017-03-07,Fluminense,3,3,Chapecoense,E,1,1,28
+Série A,2017,2017-03-08,Athletico-PR,5,0,Avaí,VC,3,0,29
+Série A,2017,2017-03-08,Vasco,0,3,Cruzeiro,VV,0,3,30
+Série A,2017,2017-03-08,São Paulo,1,2,Coritiba,VV,0,3,31
+Série A,2017,2017-03-12,Sport,1,0,Corinthians,VC,3,0,32
+Série A,2017,2017-03-12,Athletico-PR,3,0,Palmeiras,VC,3,0,33
+Série A,2017,2017-03-12,São Paulo,1,1,Bahia,E,1,1,34
+Série A,2017,2017-03-12,Atlético-MG,4,3,Grêmio,VC,3,0,35
+Série A,2017,2017-03-12,Botafogo,2,2,Cruzeiro,E,1,1,36
+Série A,2017,2017-03-12,Santos,1,1,Avaí,E,1,1,37
+Série A,2017,2017-03-12,Chapecoense,2,1,Coritiba,VC,3,0,38
+Série A,2017,2017-03-12,Vasco,2,1,Ponte Preta,VC,3,0,39
+Série A,2017,2017-03-12,Vitória,1,2,Flamengo,VV,0,3,40
+Série A,2017,2017-03-12,Atlético-GO,1,1,Fluminense,E,1,1,41
+Série A,2017,2017-04-06,Palmeiras,0,0,Atlético-MG,E,1,1,42
+Série A,2017,2017-04-06,Cruzeiro,0,2,Chapecoense,VV,0,3,43
+Série A,2017,2017-04-06,Ponte Preta,1,0,São Paulo,VC,3,0,44
+Série A,2017,2017-04-06,Avaí,1,0,Sport,VC,3,0,45
+Série A,2017,2017-04-06,Grêmio,2,0,Vasco,VC,3,0,46
+Série A,2017,2017-04-06,Flamengo,0,0,Botafogo,E,1,1,47
+Série A,2017,2017-04-11,Botafogo,1,2,Fluminense,VV,0,3,48
+Série A,2017,2017-04-11,Santos,3,1,Atlético-MG,VC,3,0,49
+Série A,2017,2017-04-11,Atlético-GO,0,1,São Paulo,VV,0,3,50
+Série A,2017,2017-04-11,Coritiba,4,0,Avaí,VC,3,0,51
+Série A,2017,2017-05-06,Bahia,3,0,Atlético-GO,VC,3,0,52
+Série A,2017,2017-05-08,Corinthians,3,1,Sport,VC,3,0,53
+Série A,2017,2017-05-08,Fluminense,3,1,Atlético-GO,VC,3,0,54
+Série A,2017,2017-05-11,Grêmio,3,1,Flamengo,VC,3,0,55
+Série A,2017,2017-05-11,Cruzeiro,1,0,Athletico-PR,VC,3,0,56
+Série A,2017,2017-05-11,Corinthians,3,2,Palmeiras,VC,3,0,57
+Série A,2017,2017-05-11,Bahia,2,0,Ponte Preta,VC,3,0,58
+Série A,2017,2017-05-11,Vasco,1,1,Vitória,E,1,1,59
+Série A,2017,2017-05-11,Chapecoense,1,1,Sport,E,1,1,60
+Série A,2017,2017-06-06,Fluminense,1,1,Athletico-PR,E,1,1,61
+Série A,2017,2017-06-08,Ponte Preta,0,0,Vasco,E,1,1,62
+Série A,2017,2017-06-08,Bahia,2,1,São Paulo,VC,3,0,63
+Série A,2017,2017-06-08,Grêmio,2,0,Atlético-MG,VC,3,0,64
+Série A,2017,2017-06-08,Coritiba,2,0,Chapecoense,VC,3,0,65
+Série A,2017,2017-06-08,Palmeiras,0,1,Athletico-PR,VV,0,3,66
+Série A,2017,2017-06-08,Avaí,0,0,Santos,E,1,1,67
+Série A,2017,2017-06-08,Flamengo,0,2,Vitória,VV,0,3,68
+Série A,2017,2017-06-08,Cruzeiro,0,0,Botafogo,E,1,1,69
+Série A,2017,2017-07-06,Atlético-MG,1,0,Avaí,VC,3,0,70
+Série A,2017,2017-07-06,Coritiba,1,0,Palmeiras,VC,3,0,71
+Série A,2017,2017-07-06,Santos,1,0,Botafogo,VC,3,0,72
+Série A,2017,2017-07-06,Vasco,2,5,Corinthians,VV,0,3,73
+Série A,2017,2017-07-06,Sport,2,0,Flamengo,VC,3,0,74
+Série A,2017,2017-07-10,Cruzeiro,2,1,Ponte Preta,VC,3,0,75
+Série A,2017,2017-08-06,Atlético-GO,3,0,Ponte Preta,VC,3,0,76
+Série A,2017,2017-08-06,Bahia,1,0,Cruzeiro,VC,3,0,77
+Série A,2017,2017-08-06,São Paulo,2,0,Vitória,VC,3,0,78
+Série A,2017,2017-08-06,Chapecoense,3,6,Grêmio,VV,0,3,79
+Série A,2017,2017-08-07,Vasco,0,1,Flamengo,VV,0,3,80
+Série A,2017,2017-08-07,Corinthians,2,0,Ponte Preta,VC,3,0,81
+Série A,2017,2017-08-07,Atlético-GO,1,2,Vitória,VV,0,3,82
+Série A,2017,2017-08-11,Sport,1,2,Botafogo,VV,0,3,83
+Série A,2017,2017-08-11,Flamengo,2,0,Cruzeiro,VC,3,0,84
+Série A,2017,2017-08-11,Athletico-PR,0,1,Corinthians,VV,0,3,85
+Série A,2017,2017-08-11,Avaí,1,2,Bahia,VV,0,3,86
+Série A,2017,2017-08-11,Ponte Preta,0,1,Grêmio,VV,0,3,87
+Série A,2017,2017-08-11,Vitória,3,1,Palmeiras,VC,3,0,88
+Série A,2017,2017-08-11,Santos,1,2,Vasco,VV,0,3,89
+Série A,2017,2017-09-07,Botafogo,1,1,Atlético-MG,E,1,1,90
+Série A,2017,2017-09-07,Santos,3,2,São Paulo,VC,3,0,91
+Série A,2017,2017-09-07,Cruzeiro,3,1,Palmeiras,VC,3,0,92
+Série A,2017,2017-09-07,Grêmio,0,2,Avaí,VV,0,3,93
+Série A,2017,2017-09-07,Bahia,1,1,Fluminense,E,1,1,94
+Série A,2017,2017-09-07,Chapecoense,1,1,Athletico-PR,E,1,1,95
+Série A,2017,2017-09-08,Ponte Preta,0,0,Fluminense,E,1,1,96
+Série A,2017,2017-09-09,Atlético-MG,1,1,Palmeiras,E,1,1,97
+Série A,2017,2017-09-09,São Paulo,2,2,Ponte Preta,E,1,1,98
+Série A,2017,2017-09-09,Vasco,1,0,Grêmio,VC,3,0,99
+Série A,2017,2017-09-11,Fluminense,2,2,Coritiba,E,1,1,100
+Série A,2017,2017-09-11,Atlético-MG,3,2,Atlético-GO,VC,3,0,101
+Série A,2017,2017-09-11,São Paulo,2,2,Chapecoense,E,1,1,102
+Série A,2017,2017-10-06,Vasco,2,1,Sport,VC,3,0,103
+Série A,2017,2017-10-06,Palmeiras,3,1,Fluminense,VC,3,0,104
+Série A,2017,2017-10-07,Coritiba,0,3,Sport,VV,0,3,105
+Série A,2017,2017-10-09,Botafogo,2,0,Flamengo,VC,3,0,106
+Série A,2017,2017-10-09,Santos,2,0,Corinthians,VC,3,0,107
+Série A,2017,2017-10-09,Athletico-PR,1,1,Coritiba,E,1,1,108
+Série A,2017,2017-10-09,Sport,0,1,Avaí,VV,0,3,109
+Série A,2017,2017-10-09,Vitória,2,2,Fluminense,E,1,1,110
+Série A,2017,2017-10-09,Chapecoense,1,2,Cruzeiro,VV,0,3,111
+Série A,2017,2017-11-06,Cruzeiro,2,0,Atlético-GO,VC,3,0,112
+Série A,2017,2017-11-06,Corinthians,3,2,São Paulo,VC,3,0,113
+Série A,2017,2017-11-06,Athletico-PR,0,2,Santos,VV,0,3,114
+Série A,2017,2017-11-06,Botafogo,2,2,Coritiba,E,1,1,115
+Série A,2017,2017-11-06,Ponte Preta,3,2,Chapecoense,VC,3,0,116
+Série A,2017,2017-11-06,Avaí,1,1,Flamengo,E,1,1,117
+Série A,2017,2017-11-06,Vitória,2,0,Atlético-MG,VC,3,0,118
+Série A,2017,2017-11-09,Atlético-GO,1,1,Bahia,E,1,1,119
+Série A,2017,2017-11-10,Corinthians,3,1,Coritiba,VC,3,0,120
+Série A,2017,2017-11-10,Botafogo,2,1,Chapecoense,VC,3,0,121
+Série A,2017,2017-11-10,Avaí,1,2,Vasco,VV,0,3,122
+Série A,2017,2017-11-10,Grêmio,0,1,Cruzeiro,VV,0,3,123
+Série A,2017,2017-11-10,Athletico-PR,2,2,Atlético-GO,E,1,1,124
+Série A,2017,2017-11-10,Atlético-MG,1,0,São Paulo,VC,3,0,125
+Série A,2017,2017-11-11,Corinthians,1,0,Avaí,VC,3,0,126
+Série A,2017,2017-11-11,Botafogo,0,1,Athletico-PR,VV,0,3,127
+Série A,2017,2017-12-06,Grêmio,1,0,Bahia,VC,3,0,128
+Série A,2017,2017-12-07,Palmeiras,0,2,Corinthians,VV,0,3,129
+Série A,2017,2017-12-07,Ponte Preta,0,3,Bahia,VV,0,3,130
+Série A,2017,2017-12-07,Vitória,1,4,Vasco,VV,0,3,131
+Série A,2017,2017-12-07,Fluminense,0,1,Botafogo,VV,0,3,132
+Série A,2017,2017-12-07,Atlético-MG,0,1,Santos,VV,0,3,133
+Série A,2017,2017-12-07,Athletico-PR,0,2,Cruzeiro,VV,0,3,134
+Série A,2017,2017-12-08,Vitória,0,1,Avaí,VV,0,3,135
+Série A,2017,2017-12-08,Atlético-GO,1,0,Coritiba,VC,3,0,136
+Série A,2017,2017-12-10,Flamengo,1,1,Fluminense,E,1,1,137
+Série A,2017,2017-12-10,Palmeiras,2,2,Bahia,E,1,1,138
+Série A,2017,2017-12-10,Ponte Preta,1,1,Santos,E,1,1,139
+Série A,2017,2017-12-10,Vitória,1,2,Sport,VV,0,3,140
+Série A,2017,2017-12-11,Grêmio,1,1,Vitória,E,1,1,141
+Série A,2017,2017-12-11,Atlético-GO,2,0,Sport,VC,3,0,142
+Série A,2017,2017-12-11,Bahia,2,2,Atlético-MG,E,1,1,143
+Série A,2017,2017-12-11,Coritiba,1,1,Ponte Preta,E,1,1,144
+Série A,2017,2017-12-11,Cruzeiro,3,1,Fluminense,VC,3,0,145
+Série A,2017,2017-12-11,Palmeiras,2,0,Flamengo,VC,3,0,146
+Série A,2017,2017-12-11,Vasco,1,1,São Paulo,E,1,1,147
+Série A,2018,2018-01-09,Vitória,1,0,América-MG,VC,3,0,1
+Série A,2018,2018-01-09,Vasco,0,3,Santos,VV,0,3,2
+Série A,2018,2018-01-09,Grêmio,4,0,Botafogo,VC,3,0,3
+Série A,2018,2018-01-09,Corinthians,1,1,Atlético-MG,E,1,1,4
+Série A,2018,2018-01-10,Paraná,1,1,Vasco,E,1,1,5
+Série A,2018,2018-01-12,Flamengo,1,2,Athletico-PR,VV,0,3,6
+Série A,2018,2018-01-12,Atlético-MG,1,0,Botafogo,VC,3,0,7
+Série A,2018,2018-02-06,Palmeiras,3,1,São Paulo,VC,3,0,8
+Série A,2018,2018-02-06,Atlético-MG,3,3,Chapecoense,E,1,1,9
+Série A,2018,2018-02-06,Internacional,0,0,Sport,E,1,1,10
+Série A,2018,2018-02-06,Vasco,1,2,Botafogo,VV,0,3,11
+Série A,2018,2018-02-09,Sport,1,0,Paraná,VC,3,0,12
+Série A,2018,2018-02-09,São Paulo,1,1,Fluminense,E,1,1,13
+Série A,2018,2018-02-09,Flamengo,0,1,Ceará,VV,0,3,14
+Série A,2018,2018-02-09,Cruzeiro,0,0,Internacional,E,1,1,15
+Série A,2018,2018-02-09,Chapecoense,1,2,Palmeiras,VV,0,3,16
+Série A,2018,2018-02-09,Athletico-PR,2,0,Bahia,VC,3,0,17
+Série A,2018,2018-02-12,Grêmio,1,0,Corinthians,VC,3,0,18
+Série A,2018,2018-02-12,Sport,2,1,Santos,VC,3,0,19
+Série A,2018,2018-02-12,Bahia,0,0,Cruzeiro,E,1,1,20
+Série A,2018,2018-02-12,Ceará,0,0,Vasco,E,1,1,21
+Série A,2018,2018-02-12,Chapecoense,1,0,São Paulo,VC,3,0,22
+Série A,2018,2018-02-12,Fluminense,1,0,América-MG,VC,3,0,23
+Série A,2018,2018-02-12,Paraná,1,0,Internacional,VC,3,0,24
+Série A,2018,2018-02-12,Palmeiras,3,2,Vitória,VC,3,0,25
+Série A,2018,2018-03-06,América-MG,3,1,Athletico-PR,VC,3,0,26
+Série A,2018,2018-03-06,Bahia,0,2,Grêmio,VV,0,3,27
+Série A,2018,2018-03-06,Flamengo,1,0,Corinthians,VC,3,0,28
+Série A,2018,2018-03-06,Santos,5,2,Vitória,VC,3,0,29
+Série A,2018,2018-03-06,Ceará,0,1,Cruzeiro,VV,0,3,30
+Série A,2018,2018-03-11,Palmeiras,3,2,Santos,VC,3,0,31
+Série A,2018,2018-03-11,Fluminense,0,1,Vasco,VV,0,3,32
+Série A,2018,2018-03-11,Atlético-MG,0,1,Grêmio,VV,0,3,33
+Série A,2018,2018-04-06,Paraná,2,1,Fluminense,VC,3,0,34
+Série A,2018,2018-04-08,Corinthians,0,0,Athletico-PR,E,1,1,35
+Série A,2018,2018-04-08,Grêmio,2,0,Flamengo,VC,3,0,36
+Série A,2018,2018-04-08,Botafogo,0,0,Santos,E,1,1,37
+Série A,2018,2018-04-11,Paraná,1,1,Vitória,E,1,1,38
+Série A,2018,2018-04-11,Bahia,1,0,Chapecoense,VC,3,0,39
+Série A,2018,2018-04-11,América-MG,1,2,Cruzeiro,VV,0,3,40
+Série A,2018,2018-04-11,São Paulo,2,2,Flamengo,E,1,1,41
+Série A,2018,2018-04-11,Botafogo,1,0,Corinthians,VC,3,0,42
+Série A,2018,2018-04-11,Internacional,2,1,Athletico-PR,VC,3,0,43
+Série A,2018,2018-05-05,Vasco,4,1,América-MG,VC,3,0,44
+Série A,2018,2018-05-05,São Paulo,2,2,Atlético-MG,E,1,1,45
+Série A,2018,2018-05-06,São Paulo,0,0,Internacional,E,1,1,46
+Série A,2018,2018-05-08,Vitória,1,1,Cruzeiro,E,1,1,47
+Série A,2018,2018-05-08,América-MG,0,0,Palmeiras,E,1,1,48
+Série A,2018,2018-05-08,Fluminense,1,1,Bahia,E,1,1,49
+Série A,2018,2018-05-08,Paraná,0,1,Ceará,VV,0,3,50
+Série A,2018,2018-05-08,São Paulo,2,1,Vasco,VC,3,0,51
+Série A,2018,2018-05-08,Sport,1,1,Chapecoense,E,1,1,52
+Série A,2018,2018-05-09,Bahia,2,0,Sport,VC,3,0,53
+Série A,2018,2018-05-09,Botafogo,1,1,Cruzeiro,E,1,1,54
+Série A,2018,2018-05-09,Palmeiras,2,0,Athletico-PR,VC,3,0,55
+Série A,2018,2018-05-09,Internacional,2,1,Flamengo,VC,3,0,56
+Série A,2018,2018-05-09,Ceará,2,1,Corinthians,VC,3,0,57
+Série A,2018,2018-05-09,Atlético-MG,1,0,São Paulo,VC,3,0,58
+Série A,2018,2018-05-09,Paraná,1,1,Chapecoense,E,1,1,59
+Série A,2018,2018-05-10,Vitória,0,1,Santos,VV,0,3,60
+Série A,2018,2018-05-10,Sport,2,1,Internacional,VC,3,0,61
+Série A,2018,2018-05-10,Corinthians,0,3,Flamengo,VV,0,3,62
+Série A,2018,2018-05-11,Sport,1,0,Ceará,VC,3,0,63
+Série A,2018,2018-06-05,Sport,2,0,Bahia,VC,3,0,64
+Série A,2018,2018-06-05,Corinthians,1,1,Ceará,E,1,1,65
+Série A,2018,2018-06-05,Athletico-PR,1,3,Palmeiras,VV,0,3,66
+Série A,2018,2018-06-05,Cruzeiro,1,0,Botafogo,VC,3,0,67
+Série A,2018,2018-06-05,Flamengo,2,0,Internacional,VC,3,0,68
+Série A,2018,2018-06-05,Vitória,1,2,Fluminense,VV,0,3,69
+Série A,2018,2018-06-05,Grêmio,5,1,Santos,VC,3,0,70
+Série A,2018,2018-06-06,Vitória,1,0,Chapecoense,VC,3,0,71
+Série A,2018,2018-06-06,Grêmio,0,2,Palmeiras,VV,0,3,72
+Série A,2018,2018-06-06,Cruzeiro,1,1,Vasco,E,1,1,73
+Série A,2018,2018-06-06,Sport,1,0,Athletico-PR,VC,3,0,74
+Série A,2018,2018-06-06,Botafogo,0,0,Ceará,E,1,1,75
+Série A,2018,2018-06-06,Corinthians,1,1,Santos,E,1,1,76
+Série A,2018,2018-06-08,Atlético-MG,0,1,Internacional,VV,0,3,77
+Série A,2018,2018-06-09,Santos,0,0,Grêmio,E,1,1,78
+Série A,2018,2018-06-09,Fluminense,0,0,Vitória,E,1,1,79
+Série A,2018,2018-06-09,América-MG,2,1,Vasco,VC,3,0,80
+Série A,2018,2018-06-10,Grêmio,2,2,Bahia,E,1,1,81
+Série A,2018,2018-06-10,Chapecoense,1,0,Atlético-MG,VC,3,0,82
+Série A,2018,2018-06-10,São Paulo,0,2,Palmeiras,VV,0,3,83
+Série A,2018,2018-06-10,Athletico-PR,4,0,América-MG,VC,3,0,84
+Série A,2018,2018-07-05,Chapecoense,1,1,Paraná,E,1,1,85
+Série A,2018,2018-07-06,Fluminense,0,2,Flamengo,VV,0,3,86
+Série A,2018,2018-07-06,Paraná,1,0,Bahia,VC,3,0,87
+Série A,2018,2018-07-06,América-MG,1,3,Atlético-MG,VV,0,3,88
+Série A,2018,2018-08-08,Ceará,1,1,Santos,E,1,1,89
+Série A,2018,2018-08-09,Sport,0,0,Cruzeiro,E,1,1,90
+Série A,2018,2018-08-09,Flamengo,2,0,Chapecoense,VC,3,0,91
+Série A,2018,2018-08-09,São Paulo,1,0,Bahia,VC,3,0,92
+Série A,2018,2018-08-10,Fluminense,4,0,Paraná,VC,3,0,93
+Série A,2018,2018-09-06,Athletico-PR,0,1,São Paulo,VV,0,3,94
+Série A,2018,2018-09-06,Chapecoense,2,0,Cruzeiro,VC,3,0,95
+Série A,2018,2018-09-06,Corinthians,0,0,Vitória,E,1,1,96
+Série A,2018,2018-09-06,Vasco,3,2,Sport,VC,3,0,97
+Série A,2018,2018-09-09,Fluminense,1,0,Botafogo,VC,3,0,98
+Série A,2018,2018-09-09,Internacional,1,0,Grêmio,VC,3,0,99
+Série A,2018,2018-09-09,Palmeiras,1,0,Corinthians,VC,3,0,100
+Série A,2018,2018-09-09,Paraná,0,2,Santos,VV,0,3,101
+Série A,2018,2018-09-09,América-MG,0,0,Ceará,E,1,1,102
+Série A,2018,2018-09-09,Vitória,1,0,Vasco,VC,3,0,103
+Série A,2018,2018-09-10,Botafogo,1,1,Vasco,E,1,1,104
+Série A,2018,2018-10-06,Bahia,3,3,Botafogo,E,1,1,105
+Série A,2018,2018-10-06,Atlético-MG,5,2,Fluminense,VC,3,0,106
+Série A,2018,2018-10-06,Ceará,2,2,Palmeiras,E,1,1,107
+Série A,2018,2018-10-06,Grêmio,1,0,América-MG,VC,3,0,108
+Série A,2018,2018-10-06,Flamengo,2,0,Paraná,VC,3,0,109
+Série A,2018,2018-10-06,Santos,1,2,Internacional,VV,0,3,110
+Série A,2018,2018-10-09,Atlético-MG,3,1,Athletico-PR,VC,3,0,111
+Série A,2018,2018-10-11,Corinthians,1,1,São Paulo,E,1,1,112
+Série A,2018,2018-10-11,Botafogo,2,1,Flamengo,VC,3,0,113
+Série A,2018,2018-10-11,América-MG,0,1,Paraná,VV,0,3,114
+Série A,2018,2018-10-11,Athletico-PR,2,0,Cruzeiro,VC,3,0,115
+Série A,2018,2018-11-08,Bahia,1,0,América-MG,VC,3,0,116
+Série A,2018,2018-11-08,Ceará,0,0,Athletico-PR,E,1,1,117
+Série A,2018,2018-11-11,Atlético-MG,1,1,Palmeiras,E,1,1,118
+Série A,2018,2018-11-11,Ceará,1,1,Internacional,E,1,1,119
+Série A,2018,2018-11-11,Fluminense,0,0,Sport,E,1,1,120
+Série A,2018,2018-11-11,Grêmio,2,1,Vasco,VC,3,0,121
+Série A,2018,2018-11-11,Vitória,2,2,Bahia,E,1,1,122
+Série A,2018,2018-12-05,Grêmio,0,0,Internacional,E,1,1,123
+Série A,2018,2018-12-06,São Paulo,3,0,Vitória,VC,3,0,124
+Série A,2018,2018-12-08,Paraná,1,1,Botafogo,E,1,1,125
+Série A,2018,2018-12-08,Sport,1,3,São Paulo,VV,0,3,126
+Série A,2018,2018-12-08,Atlético-MG,3,1,Santos,VC,3,0,127
+Série A,2018,2018-12-08,Chapecoense,2,1,Corinthians,VC,3,0,128
+Série A,2018,2018-12-08,Flamengo,1,0,Cruzeiro,VC,3,0,129
+Série A,2018,2018-12-08,Grêmio,4,0,Vitória,VC,3,0,130
+Série A,2018,2018-12-08,Palmeiras,1,0,Vasco,VC,3,0,131
+Série A,2018,2018-12-11,Santos,0,1,Chapecoense,VV,0,3,132
+Série A,2019,2019-01-05,CSA,1,1,Palmeiras,E,1,1,1
+Série A,2019,2019-01-05,Goiás,1,2,São Paulo,VV,0,3,2
+Série A,2019,2019-01-05,Vasco,1,2,Atlético-MG,VV,0,3,3
+Série A,2019,2019-01-05,Avaí,1,1,Grêmio,E,1,1,4
+Série A,2019,2019-01-05,Fortaleza,2,1,Athletico-PR,VC,3,0,5
+Série A,2019,2019-01-05,Cruzeiro,1,0,Ceará,VC,3,0,6
+Série A,2019,2019-01-05,Internacional,2,1,Flamengo,VC,3,0,7
+Série A,2019,2019-01-05,Corinthians,1,0,Chapecoense,VC,3,0,8
+Série A,2019,2019-01-06,Bahia,1,0,Grêmio,VC,3,0,9
+Série A,2019,2019-01-06,Flamengo,2,0,Fortaleza,VC,3,0,10
+Série A,2019,2019-01-09,Cruzeiro,1,0,Vasco,VC,3,0,11
+Série A,2019,2019-01-09,Corinthians,1,0,Atlético-MG,VC,3,0,12
+Série A,2019,2019-01-09,Flamengo,3,0,Palmeiras,VC,3,0,13
+Série A,2019,2019-01-09,Fortaleza,2,0,Goiás,VC,3,0,14
+Série A,2019,2019-01-11,Fortaleza,2,2,Atlético-MG,E,1,1,15
+Série A,2019,2019-01-11,Palmeiras,1,0,Ceará,VC,3,0,16
+Série A,2019,2019-01-11,Chapecoense,0,3,São Paulo,VV,0,3,17
+Série A,2019,2019-01-11,Fluminense,0,0,Vasco,E,1,1,18
+Série A,2019,2019-01-12,Grêmio,3,0,São Paulo,VC,3,0,19
+Série A,2019,2019-01-12,Atlético-MG,2,1,Corinthians,VC,3,0,20
+Série A,2019,2019-01-12,Palmeiras,1,3,Flamengo,VV,0,3,21
+Série A,2019,2019-01-12,Avaí,1,1,Fluminense,E,1,1,22
+Série A,2019,2019-01-12,Goiás,1,2,Fortaleza,VV,0,3,23
+Série A,2019,2019-01-12,CSA,1,2,Bahia,VV,0,3,24
+Série A,2019,2019-01-12,Santos,2,0,Chapecoense,VC,3,0,25
+Série A,2019,2019-02-05,Santos,2,1,Fluminense,VC,3,0,26
+Série A,2019,2019-02-05,Botafogo,3,2,Bahia,VC,3,0,27
+Série A,2019,2019-02-06,Ceará,0,1,Santos,VV,0,3,28
+Série A,2019,2019-02-06,Athletico-PR,3,0,Fluminense,VC,3,0,29
+Série A,2019,2019-02-06,Chapecoense,1,2,Palmeiras,VV,0,3,30
+Série A,2019,2019-02-06,Botafogo,1,0,Vasco,VC,3,0,31
+Série A,2019,2019-02-06,Internacional,2,0,Avaí,VC,3,0,32
+Série A,2019,2019-02-06,Atlético-MG,4,0,CSA,VC,3,0,33
+Série A,2019,2019-02-06,São Paulo,1,1,Cruzeiro,E,1,1,34
+Série A,2019,2019-02-09,Fluminense,0,1,Avaí,VV,0,3,35
+Série A,2019,2019-02-10,Atlético-MG,1,2,Vasco,VV,0,3,36
+Série A,2019,2019-02-10,Chapecoense,0,1,Corinthians,VV,0,3,37
+Série A,2019,2019-02-11,Grêmio,2,0,Internacional,VC,3,0,38
+Série A,2019,2019-02-11,Cruzeiro,1,1,Bahia,E,1,1,39
+Série A,2019,2019-02-11,Santos,4,1,Botafogo,VC,3,0,40
+Série A,2019,2019-02-11,Flamengo,4,1,Corinthians,VC,3,0,41
+Série A,2019,2019-02-11,Goiás,2,0,Avaí,VC,3,0,42
+Série A,2019,2019-02-11,Athletico-PR,1,0,CSA,VC,3,0,43
+Série A,2019,2019-02-12,Vasco,1,0,Cruzeiro,VC,3,0,44
+Série A,2019,2019-03-08,Ceará,2,1,Fortaleza,VC,3,0,45
+Série A,2019,2019-03-08,Fluminense,2,1,Internacional,VC,3,0,46
+Série A,2019,2019-04-05,Vasco,1,1,Corinthians,E,1,1,47
+Série A,2019,2019-04-05,Ceará,1,2,Atlético-MG,VV,0,3,48
+Série A,2019,2019-04-05,Palmeiras,1,0,Internacional,VC,3,0,49
+Série A,2019,2019-04-08,Atlético-MG,2,0,Cruzeiro,VC,3,0,50
+Série A,2019,2019-04-08,Santos,6,1,Goiás,VC,3,0,51
+Série A,2019,2019-04-08,Vasco,0,0,CSA,E,1,1,52
+Série A,2019,2019-04-08,Avaí,0,3,Botafogo,VV,0,3,53
+Série A,2019,2019-04-08,Bahia,3,0,Flamengo,VC,3,0,54
+Série A,2019,2019-04-08,Corinthians,1,1,Palmeiras,E,1,1,55
+Série A,2019,2019-04-12,Fluminense,0,0,Fortaleza,E,1,1,56
+Série A,2019,2019-04-12,São Paulo,2,1,Internacional,VC,3,0,57
+Série A,2019,2019-04-12,Ceará,0,1,Corinthians,VV,0,3,58
+Série A,2019,2019-04-12,Atlético-MG,2,0,Botafogo,VC,3,0,59
+Série A,2019,2019-04-12,Athletico-PR,1,0,Santos,VC,3,0,60
+Série A,2019,2019-04-12,Chapecoense,3,0,CSA,VC,3,0,61
+Série A,2019,2019-05-05,Cruzeiro,2,1,Goiás,VC,3,0,62
+Série A,2019,2019-05-05,Grêmio,4,5,Fluminense,VV,0,3,63
+Série A,2019,2019-05-05,São Paulo,1,1,Flamengo,E,1,1,64
+Série A,2019,2019-05-05,Botafogo,1,0,Fortaleza,VC,3,0,65
+Série A,2019,2019-05-05,Chapecoense,1,1,Athletico-PR,E,1,1,66
+Série A,2019,2019-05-05,CSA,0,0,Santos,E,1,1,67
+Série A,2019,2019-05-05,Bahia,1,0,Avaí,VC,3,0,68
+Série A,2019,2019-05-08,Grêmio,3,3,Chapecoense,E,1,1,69
+Série A,2019,2019-05-10,São Paulo,2,1,Fortaleza,VC,3,0,70
+Série A,2019,2019-05-10,Grêmio,0,0,Corinthians,E,1,1,71
+Série A,2019,2019-05-10,Bahia,1,2,Athletico-PR,VV,0,3,72
+Série A,2019,2019-05-10,Vasco,0,1,Santos,VV,0,3,73
+Série A,2019,2019-05-10,Cruzeiro,1,1,Internacional,E,1,1,74
+Série A,2019,2019-05-12,Flamengo,6,1,Avaí,VC,3,0,75
+Série A,2019,2019-05-12,Bahia,1,1,Vasco,E,1,1,76
+Série A,2019,2019-05-12,Palmeiras,5,1,Goiás,VC,3,0,77
+Série A,2019,2019-05-12,Grêmio,2,0,Cruzeiro,VC,3,0,78
+Série A,2019,2019-06-10,Ceará,0,1,Goiás,VV,0,3,79
+Série A,2019,2019-06-10,Chapecoense,0,1,Flamengo,VV,0,3,80
+Série A,2019,2019-06-10,CSA,3,1,Avaí,VC,3,0,81
+Série A,2019,2019-06-10,Palmeiras,1,1,Atlético-MG,E,1,1,82
+Série A,2019,2019-06-10,Botafogo,0,1,Fluminense,VV,0,3,83
+Série A,2019,2019-06-11,Atlético-MG,2,0,Goiás,VC,3,0,84
+Série A,2019,2019-06-11,Corinthians,3,2,Fortaleza,VC,3,0,85
+Série A,2019,2019-06-11,Vasco,1,2,Palmeiras,VV,0,3,86
+Série A,2019,2019-06-11,Avaí,1,2,Santos,VV,0,3,87
+Série A,2019,2019-06-11,Bahia,1,1,Chapecoense,E,1,1,88
+Série A,2019,2019-06-11,Athletico-PR,0,0,Cruzeiro,E,1,1,89
+Série A,2019,2019-07-06,Vasco,2,1,Internacional,VC,3,0,90
+Série A,2019,2019-07-08,Corinthians,2,0,Goiás,VC,3,0,91
+Série A,2019,2019-07-09,Avaí,0,3,Flamengo,VV,0,3,92
+Série A,2019,2019-07-09,Vasco,0,2,Bahia,VV,0,3,93
+Série A,2019,2019-07-09,Goiás,1,2,Palmeiras,VV,0,3,94
+Série A,2019,2019-07-09,Internacional,1,0,São Paulo,VC,3,0,95
+Série A,2019,2019-07-09,Fortaleza,0,1,Fluminense,VV,0,3,96
+Série A,2019,2019-07-09,Corinthians,2,2,Ceará,E,1,1,97
+Série A,2019,2019-07-11,Grêmio,2,1,CSA,VC,3,0,98
+Série A,2019,2019-07-11,Ceará,2,0,Internacional,VC,3,0,99
+Série A,2019,2019-07-11,Botafogo,0,1,Flamengo,VV,0,3,100
+Série A,2019,2019-07-11,São Paulo,0,2,Fluminense,VV,0,3,101
+Série A,2019,2019-08-06,Grêmio,1,0,Fortaleza,VC,3,0,102
+Série A,2019,2019-08-06,Ceará,0,0,Bahia,E,1,1,103
+Série A,2019,2019-08-06,Palmeiras,1,0,Athletico-PR,VC,3,0,104
+Série A,2019,2019-08-06,Cruzeiro,0,0,Corinthians,E,1,1,105
+Série A,2019,2019-08-06,Avaí,0,0,São Paulo,E,1,1,106
+Série A,2019,2019-08-09,CSA,2,0,Chapecoense,VC,3,0,107
+Série A,2019,2019-08-09,Botafogo,2,1,Atlético-MG,VC,3,0,108
+Série A,2019,2019-08-09,Santos,1,1,Athletico-PR,E,1,1,109
+Série A,2019,2019-08-09,Cruzeiro,1,4,Grêmio,VV,0,3,110
+Série A,2019,2019-08-12,CSA,1,2,São Paulo,VV,0,3,111
+Série A,2019,2019-08-12,Goiás,3,2,Grêmio,VC,3,0,112
+Série A,2019,2019-08-12,Internacional,2,1,Atlético-MG,VC,3,0,113
+Série A,2019,2019-08-12,Cruzeiro,0,2,Palmeiras,VV,0,3,114
+Série A,2019,2019-08-12,Fortaleza,2,1,Bahia,VC,3,0,115
+Série A,2019,2019-08-12,Corinthians,1,2,Fluminense,VV,0,3,116
+Série A,2019,2019-08-12,Santos,4,0,Flamengo,VC,3,0,117
+Série A,2019,2019-08-12,Vasco,1,1,Chapecoense,E,1,1,118
+Série A,2019,2019-08-12,Botafogo,1,1,Ceará,E,1,1,119
+Série A,2019,2019-08-12,Avaí,0,0,Athletico-PR,E,1,1,120
+Série A,2019,2019-09-06,Fluminense,0,0,Flamengo,E,1,1,121
+Série A,2019,2019-09-06,CSA,1,2,Botafogo,VV,0,3,122
+Série A,2019,2019-09-06,Santos,3,1,Atlético-MG,VC,3,0,123
+Série A,2019,2019-09-10,Cruzeiro,0,0,Fluminense,E,1,1,124
+Série A,2019,2019-09-10,Fortaleza,2,0,Chapecoense,VC,3,0,125
+Série A,2019,2019-09-10,Santos,2,0,Palmeiras,VC,3,0,126
+Série A,2019,2019-09-10,Botafogo,3,1,Goiás,VC,3,0,127
+Série A,2019,2019-09-10,Bahia,0,0,São Paulo,E,1,1,128
+Série A,2019,2019-09-10,CSA,1,0,Internacional,VC,3,0,129
+Série A,2019,2019-09-10,Grêmio,2,1,Ceará,VC,3,0,130
+Série A,2019,2019-09-11,Goiás,0,3,Santos,VV,0,3,131
+Série A,2019,2019-09-11,Palmeiras,1,1,Corinthians,E,1,1,132
+Série A,2019,2019-10-06,Goiás,3,1,Chapecoense,VC,3,0,133
+Série A,2019,2019-10-08,Flamengo,3,1,Grêmio,VC,3,0,134
+Série A,2019,2019-10-08,São Paulo,3,2,Santos,VC,3,0,135
+Série A,2019,2019-10-08,Ceará,4,1,Chapecoense,VC,3,0,136
+Série A,2019,2019-10-08,Atlético-MG,2,1,Fluminense,VC,3,0,137
+Série A,2019,2019-10-09,Palmeiras,3,0,Fluminense,VC,3,0,138
+Série A,2019,2019-10-10,Flamengo,3,1,Atlético-MG,VC,3,0,139
+Série A,2019,2019-10-10,Corinthians,2,2,Athletico-PR,E,1,1,140
+Série A,2019,2019-10-10,Avaí,0,0,Vasco,E,1,1,141
+Série A,2019,2019-10-11,Chapecoense,0,1,Grêmio,VV,0,3,142
+Série A,2019,2019-10-11,CSA,0,3,Vasco,VV,0,3,143
+Série A,2019,2019-10-11,São Paulo,0,1,Athletico-PR,VV,0,3,144
+Série A,2019,2019-10-11,Fortaleza,1,0,Ceará,VC,3,0,145
+Série A,2019,2019-10-11,Flamengo,3,1,Bahia,VC,3,0,146
+Série A,2019,2019-10-11,Cruzeiro,0,0,Atlético-MG,E,1,1,147
+Série A,2019,2019-10-11,Internacional,2,1,Fluminense,VC,3,0,148
+Série A,2019,2019-11-05,Corinthians,0,0,Grêmio,E,1,1,149
+Série A,2019,2019-11-05,Fluminense,0,1,Botafogo,VV,0,3,150
+Série A,2019,2019-11-05,Goiás,2,1,Ceará,VC,3,0,151
+Série A,2019,2019-11-08,Avaí,2,2,Cruzeiro,E,1,1,152
+Série A,2019,2019-11-08,Botafogo,2,1,Athletico-PR,VC,3,0,153
+Série A,2019,2019-11-08,Palmeiras,2,2,Bahia,E,1,1,154
+Série A,2019,2019-11-08,Internacional,0,0,Corinthians,E,1,1,155
+Série A,2019,2019-11-08,Goiás,0,1,Vasco,VV,0,3,156
+Série A,2019,2019-11-11,Botafogo,2,0,Avaí,VC,3,0,157
+Série A,2019,2019-12-05,Athletico-PR,1,0,Bahia,VC,3,0,158
+Série A,2019,2019-12-05,Flamengo,2,1,Chapecoense,VC,3,0,159
+Série A,2019,2019-12-05,Santos,3,0,Vasco,VC,3,0,160
+Série A,2019,2019-12-05,Fortaleza,0,1,São Paulo,VV,0,3,161
+Série A,2019,2019-12-05,Atlético-MG,0,2,Palmeiras,VV,0,3,162
+Série A,2019,2019-12-05,Internacional,3,1,Cruzeiro,VC,3,0,163
+Série A,2019,2019-12-05,Avaí,0,0,CSA,E,1,1,164
+Série A,2019,2019-12-06,Internacional,3,1,Bahia,VC,3,0,165
+Série A,2019,2019-12-06,CSA,0,2,Flamengo,VV,0,3,166
+Série A,2019,2019-12-06,Botafogo,0,1,Grêmio,VV,0,3,167
+Série A,2019,2019-12-06,Santos,1,0,Corinthians,VC,3,0,168
+Série A,2019,2019-12-06,Fortaleza,2,1,Cruzeiro,VC,3,0,169
+Série A,2019,2019-12-08,CSA,0,2,Fortaleza,VV,0,3,170
+Série A,2019,2019-12-10,Palmeiras,1,0,Botafogo,VC,3,0,171
+Série A,2019,2019-12-10,Fluminense,2,0,Bahia,VC,3,0,172
+Série A,2019,2019-12-10,Goiás,1,0,CSA,VC,3,0,173
+Série A,2020,2020-01-11,Goiás,1,1,Vasco,E,1,1,1
+Série A,2020,2020-01-11,Santos,3,1,Bahia,VC,3,0,2
+Série A,2020,2020-01-11,Flamengo,1,4,São Paulo,VV,0,3,3
+Série A,2020,2020-01-11,Sport,1,0,Athletico-PR,VC,3,0,4
+Série A,2020,2020-02-09,Athletico-PR,1,1,Red Bull Bragantino,E,1,1,5
+Série A,2020,2020-02-09,Botafogo,0,0,Coritiba,E,1,1,6
+Série A,2020,2020-02-09,Fluminense,1,1,Atlético-GO,E,1,1,7
+Série A,2020,2020-02-09,Goiás,1,2,Corinthians,VV,0,3,8
+Série A,2020,2020-02-09,Bahia,3,5,Flamengo,VV,0,3,9
+Série A,2020,2020-02-09,Palmeiras,1,1,Internacional,E,1,1,10
+Série A,2020,2020-02-09,Santos,2,2,Vasco,E,1,1,11
+Série A,2020,2020-02-09,Ceará,1,0,Fortaleza,VC,3,0,12
+Série A,2020,2020-02-11,Grêmio,2,1,Red Bull Bragantino,VC,3,0,13
+Série A,2020,2020-02-11,Palmeiras,3,0,Atlético-MG,VC,3,0,14
+Série A,2020,2020-02-12,Fortaleza,0,0,Corinthians,E,1,1,15
+Série A,2020,2020-03-09,Grêmio,1,2,Sport,VV,0,3,16
+Série A,2020,2020-03-09,Atlético-MG,3,0,São Paulo,VC,3,0,17
+Série A,2020,2020-03-10,Palmeiras,2,1,Ceará,VC,3,0,18
+Série A,2020,2020-03-10,Red Bull Bragantino,0,0,Corinthians,E,1,1,19
+Série A,2020,2020-03-10,Grêmio,1,1,Internacional,E,1,1,20
+Série A,2020,2020-03-12,Goiás,0,3,São Paulo,VV,0,3,21
+Série A,2020,2020-04-10,Bahia,1,2,Sport,VV,0,3,22
+Série A,2020,2020-04-10,Flamengo,3,1,Athletico-PR,VC,3,0,23
+Série A,2020,2020-04-10,Botafogo,1,1,Fluminense,E,1,1,24
+Série A,2020,2020-04-10,Atlético-MG,4,1,Vasco,VC,3,0,25
+Série A,2020,2020-04-10,Coritiba,1,1,São Paulo,E,1,1,26
+Série A,2020,2020-04-10,Goiás,2,3,Santos,VV,0,3,27
+Série A,2020,2020-04-10,Fortaleza,0,0,Atlético-GO,E,1,1,28
+Série A,2020,2020-05-09,Flamengo,2,1,Fortaleza,VC,3,0,29
+Série A,2020,2020-05-09,Ceará,0,1,Santos,VV,0,3,30
+Série A,2020,2020-05-09,Corinthians,2,2,Botafogo,E,1,1,31
+Série A,2020,2020-05-12,Santos,2,2,Palmeiras,E,1,1,32
+Série A,2020,2020-05-12,Coritiba,0,0,Red Bull Bragantino,E,1,1,33
+Série A,2020,2020-05-12,Botafogo,0,1,Flamengo,VV,0,3,34
+Série A,2020,2020-05-12,Fluminense,3,1,Athletico-PR,VC,3,0,35
+Série A,2020,2020-05-12,Bahia,0,2,Ceará,VV,0,3,36
+Série A,2020,2020-06-09,São Paulo,3,1,Fluminense,VC,3,0,37
+Série A,2020,2020-06-09,Vasco,1,0,Athletico-PR,VC,3,0,38
+Série A,2020,2020-06-09,Red Bull Bragantino,1,2,Palmeiras,VV,0,3,39
+Série A,2020,2020-06-09,Internacional,2,2,Bahia,E,1,1,40
+Série A,2020,2020-06-09,Atlético-GO,1,1,Grêmio,E,1,1,41
+Série A,2020,2020-06-09,Sport,2,1,Goiás,VC,3,0,42
+Série A,2020,2020-06-09,Coritiba,0,1,Atlético-MG,VV,0,3,43
+Série A,2020,2020-06-12,Atlético-MG,2,2,Internacional,E,1,1,44
+Série A,2020,2020-06-12,São Paulo,1,0,Sport,VC,3,0,45
+Série A,2020,2020-06-12,Grêmio,4,0,Vasco,VC,3,0,46
+Série A,2020,2020-07-10,Botafogo,2,1,Palmeiras,VC,3,0,47
+Série A,2020,2020-07-10,Goiás,2,4,Fluminense,VV,0,3,48
+Série A,2020,2020-07-10,Bahia,3,0,Vasco,VC,3,0,49
+Série A,2020,2020-07-10,Grêmio,2,1,Coritiba,VC,3,0,50
+Série A,2020,2020-07-10,Corinthians,1,1,Santos,E,1,1,51
+Série A,2020,2020-07-10,São Paulo,3,0,Atlético-GO,VC,3,0,52
+Série A,2020,2020-07-10,Flamengo,3,0,Sport,VC,3,0,53
+Série A,2020,2020-07-10,Fortaleza,2,1,Atlético-MG,VC,3,0,54
+Série A,2020,2020-07-11,Atlético-GO,1,1,Corinthians,E,1,1,55
+Série A,2020,2020-07-11,Athletico-PR,2,1,Fortaleza,VC,3,0,56
+Série A,2020,2020-07-11,São Paulo,2,1,Goiás,VC,3,0,57
+Série A,2020,2020-07-12,Atlético-GO,0,1,Goiás,VV,0,3,58
+Série A,2020,2020-08-08,Sport,3,2,Ceará,VC,3,0,59
+Série A,2020,2020-08-08,Fortaleza,0,2,Athletico-PR,VV,0,3,60
+Série A,2020,2020-08-08,Coritiba,0,1,Internacional,VV,0,3,61
+Série A,2020,2020-08-10,Red Bull Bragantino,0,2,Internacional,VV,0,3,62
+Série A,2020,2020-08-10,Athletico-PR,0,0,Ceará,E,1,1,63
+Série A,2020,2020-08-11,Red Bull Bragantino,1,1,Santos,E,1,1,64
+Série A,2020,2020-08-11,Internacional,2,2,Coritiba,E,1,1,65
+Série A,2020,2020-08-11,Ceará,0,0,Sport,E,1,1,66
+Série A,2020,2020-08-11,Bahia,1,0,Botafogo,VC,3,0,67
+Série A,2020,2020-08-11,Atlético-MG,4,0,Flamengo,VC,3,0,68
+Série A,2020,2020-08-11,Vasco,0,1,Palmeiras,VV,0,3,69
+Série A,2020,2020-08-11,Fluminense,0,1,Grêmio,VV,0,3,70
+Série A,2020,2020-09-08,Flamengo,0,1,Atlético-MG,VV,0,3,71
+Série A,2020,2020-09-08,Santos,1,1,Red Bull Bragantino,E,1,1,72
+Série A,2020,2020-09-08,Grêmio,1,0,Fluminense,VC,3,0,73
+Série A,2020,2020-09-09,Fluminense,1,2,Flamengo,VV,0,3,74
+Série A,2020,2020-09-09,Santos,3,1,Atlético-MG,VC,3,0,75
+Série A,2020,2020-09-09,Fortaleza,1,0,Sport,VC,3,0,76
+Série A,2020,2020-09-09,Goiás,3,3,Coritiba,E,1,1,77
+Série A,2020,2020-09-09,São Paulo,1,1,Red Bull Bragantino,E,1,1,78
+Série A,2020,2020-09-09,Athletico-PR,1,1,Botafogo,E,1,1,79
+Série A,2020,2020-09-12,São Paulo,4,0,Botafogo,VC,3,0,80
+Série A,2020,2020-10-09,Vasco,1,2,Atlético-GO,VV,0,3,81
+Série A,2020,2020-10-09,Bahia,0,2,Grêmio,VV,0,3,82
+Série A,2020,2020-10-09,Corinthians,0,2,Palmeiras,VV,0,3,83
+Série A,2020,2020-10-09,Internacional,2,0,Ceará,VC,3,0,84
+Série A,2020,2020-10-10,Vasco,1,2,Flamengo,VV,0,3,85
+Série A,2020,2020-10-10,Palmeiras,0,2,São Paulo,VV,0,3,86
+Série A,2020,2020-10-10,Coritiba,0,0,Fortaleza,E,1,1,87
+Série A,2020,2020-10-10,Atlético-MG,3,0,Goiás,VC,3,0,88
+Série A,2020,2020-11-10,Atlético-GO,2,1,Red Bull Bragantino,VC,3,0,89
+Série A,2020,2020-11-10,Santos,2,1,Grêmio,VC,3,0,90
+Série A,2020,2020-11-10,Fluminense,1,0,Bahia,VC,3,0,91
+Série A,2020,2020-11-10,Internacional,2,1,Athletico-PR,VC,3,0,92
+Série A,2020,2020-11-10,Sport,1,2,Botafogo,VV,0,3,93
+Série A,2020,2020-11-10,Ceará,2,1,Corinthians,VC,3,0,94
+Série A,2020,2020-11-11,Bahia,2,1,Fortaleza,VC,3,0,95
+Série A,2020,2020-12-08,Ceará,1,1,Grêmio,E,1,1,96
+Série A,2020,2020-12-08,Atlético-MG,3,2,Corinthians,VC,3,0,97
+Série A,2020,2020-12-08,Athletico-PR,2,1,Goiás,VC,3,0,98
+Série A,2020,2020-12-08,Fluminense,1,1,Palmeiras,E,1,1,99
+Série A,2020,2020-12-08,Atlético-GO,3,0,Flamengo,VC,3,0,100
+Série A,2020,2020-12-08,Bahia,1,0,Coritiba,VC,3,0,101
+Série A,2020,2020-12-08,Red Bull Bragantino,1,1,Botafogo,E,1,1,102
+Série A,2020,2020-12-09,Athletico-PR,1,0,Coritiba,VC,3,0,103
+Série A,2020,2020-12-09,Santos,2,2,São Paulo,E,1,1,104
+Série A,2020,2020-12-12,Palmeiras,3,0,Bahia,VC,3,0,105
+Série A,2020,2020-12-12,Red Bull Bragantino,2,1,Fortaleza,VC,3,0,106
+Série A,2020,2020-12-12,Internacional,2,1,Botafogo,VC,3,0,107
+Série A,2020,2020-12-12,Athletico-PR,0,1,Atlético-MG,VV,0,3,108
+Série A,2020,2020-12-12,Ceará,1,2,Atlético-GO,VV,0,3,109
+Série A,2020,2020-12-12,Goiás,0,0,Grêmio,E,1,1,110
+Série A,2021,2021-01-02,Sport,0,3,Flamengo,VV,0,3,1
+Série A,2021,2021-01-07,Atlético-MG,4,1,Atlético-GO,VC,3,0,2
+Série A,2021,2021-01-07,Cuiabá,0,2,Flamengo,VV,0,3,3
+Série A,2021,2021-01-07,Red Bull Bragantino,0,0,Ceará,E,1,1,4
+Série A,2021,2021-01-08,Corinthians,1,3,Flamengo,VV,0,3,5
+Série A,2021,2021-01-08,Atlético-MG,2,0,Athletico-PR,VC,3,0,6
+Série A,2021,2021-01-08,Atlético-GO,1,1,América-MG,E,1,1,7
+Série A,2021,2021-01-08,Ceará,3,1,Fortaleza,VC,3,0,8
+Série A,2021,2021-01-08,Bahia,0,1,Sport,VV,0,3,9
+Série A,2021,2021-01-08,Chapecoense,0,1,Santos,VV,0,3,10
+Série A,2021,2021-01-11,Corinthians,1,0,Chapecoense,VC,3,0,11
+Série A,2021,2021-01-11,Cuiabá,1,0,Red Bull Bragantino,VC,3,0,12
+Série A,2021,2021-02-02,Palmeiras,1,1,Botafogo,E,1,1,13
+Série A,2021,2021-02-09,Fluminense,1,1,Juventude,E,1,1,14
+Série A,2021,2021-02-10,Cuiabá,0,2,América-MG,VV,0,3,15
+Série A,2021,2021-02-10,Red Bull Bragantino,2,2,Corinthians,E,1,1,16
+Série A,2021,2021-02-10,Fortaleza,0,3,Atlético-GO,VV,0,3,17
+Série A,2021,2021-02-10,Atlético-MG,1,0,Internacional,VC,3,0,18
+Série A,2021,2021-02-11,Athletico-PR,2,2,Flamengo,E,1,1,19
+Série A,2021,2021-02-12,Bahia,2,3,Atlético-MG,VV,0,3,20
+Série A,2021,2021-02-12,Grêmio,3,0,São Paulo,VC,3,0,21
+Série A,2021,2021-03-02,Goiás,1,0,Atlético-MG,VC,3,0,22
+Série A,2021,2021-03-02,Bahia,0,1,Fluminense,VV,0,3,23
+Série A,2021,2021-03-02,Corinthians,2,1,Ceará,VC,3,0,24
+Série A,2021,2021-03-02,Red Bull Bragantino,2,0,Atlético-GO,VC,3,0,25
+Série A,2021,2021-03-02,Grêmio,3,3,Santos,E,1,1,26
+Série A,2021,2021-03-07,Athletico-PR,2,1,Fortaleza,VC,3,0,27
+Série A,2021,2021-03-07,Corinthians,1,1,Internacional,E,1,1,28
+Série A,2021,2021-03-07,América-MG,2,0,Santos,VC,3,0,29
+Série A,2021,2021-03-10,Palmeiras,1,1,Juventude,E,1,1,30
+Série A,2021,2021-03-10,Grêmio,1,2,Sport,VV,0,3,31
+Série A,2021,2021-03-10,Flamengo,3,0,Athletico-PR,VC,3,0,32
+Série A,2021,2021-03-10,Chapecoense,1,1,São Paulo,E,1,1,33
+Série A,2021,2021-03-11,Atlético-MG,2,1,Grêmio,VC,3,0,34
+Série A,2021,2021-03-12,Athletico-PR,1,0,Cuiabá,VC,3,0,35
+Série A,2021,2021-03-12,Sport,1,1,Flamengo,E,1,1,36
+Série A,2021,2021-03-12,Chapecoense,0,1,Atlético-GO,VV,0,3,37
+Série A,2021,2021-03-12,Fortaleza,1,0,Juventude,VC,3,0,38
+Série A,2021,2021-04-02,Fortaleza,3,1,Coritiba,VC,3,0,39
+Série A,2021,2021-04-02,Athletico-PR,0,0,Internacional,E,1,1,40
+Série A,2021,2021-04-02,Flamengo,2,0,Vasco,VC,3,0,41
+Série A,2021,2021-04-07,Flamengo,0,1,Fluminense,VV,0,3,42
+Série A,2021,2021-04-07,Cuiabá,0,1,Atlético-MG,VV,0,3,43
+Série A,2021,2021-04-07,São Paulo,1,2,Red Bull Bragantino,VV,0,3,44
+Série A,2021,2021-04-07,Grêmio,0,1,Atlético-GO,VV,0,3,45
+Série A,2021,2021-04-07,Chapecoense,0,2,Bahia,VV,0,3,46
+Série A,2021,2021-04-07,Sport,0,1,Palmeiras,VV,0,3,47
+Série A,2021,2021-04-07,Ceará,2,0,Juventude,VC,3,0,48
+Série A,2021,2021-04-09,Bahia,4,2,Fortaleza,VC,3,0,49
+Série A,2021,2021-04-09,Cuiabá,2,1,Santos,VC,3,0,50
+Série A,2021,2021-04-11,Cuiabá,0,0,Chapecoense,E,1,1,51
+Série A,2021,2021-05-02,Botafogo,0,1,Sport,VV,0,3,52
+Série A,2021,2021-05-06,Atlético-GO,2,0,São Paulo,VC,3,0,53
+Série A,2021,2021-05-06,Red Bull Bragantino,3,3,Bahia,E,1,1,54
+Série A,2021,2021-05-06,Santos,3,1,Ceará,VC,3,0,55
+Série A,2021,2021-05-09,Athletico-PR,0,0,Sport,E,1,1,56
+Série A,2021,2021-05-10,Corinthians,3,1,Bahia,VC,3,0,57
+Série A,2021,2021-05-11,Flamengo,2,0,Atlético-GO,VC,3,0,58
+Série A,2021,2021-05-12,Ceará,0,0,América-MG,E,1,1,59
+Série A,2021,2021-05-12,Bahia,2,0,Fluminense,VC,3,0,60
+Série A,2021,2021-05-12,Atlético-MG,4,3,Red Bull Bragantino,VC,3,0,61
+Série A,2021,2021-05-12,Corinthians,1,1,Grêmio,E,1,1,62
+Série A,2021,2021-06-01,Grêmio,2,1,Bahia,VC,3,0,63
+Série A,2021,2021-06-01,Sport,1,0,Fortaleza,VC,3,0,64
+Série A,2021,2021-06-01,Botafogo,0,2,Athletico-PR,VV,0,3,65
+Série A,2021,2021-06-01,Flamengo,1,2,Fluminense,VV,0,3,66
+Série A,2021,2021-06-01,Red Bull Bragantino,4,2,São Paulo,VC,3,0,67
+Série A,2021,2021-06-01,Coritiba,1,2,Goiás,VV,0,3,68
+Série A,2021,2021-06-02,Atlético-GO,1,1,Santos,E,1,1,69
+Série A,2021,2021-06-02,Bahia,3,3,Goiás,E,1,1,70
+Série A,2021,2021-06-06,Palmeiras,3,1,Chapecoense,VC,3,0,71
+Série A,2021,2021-06-06,Fortaleza,5,1,Internacional,VC,3,0,72
+Série A,2021,2021-06-06,Sport,0,1,Atlético-MG,VV,0,3,73
+Série A,2021,2021-06-06,Juventude,0,3,Athletico-PR,VV,0,3,74
+Série A,2021,2021-06-06,Fluminense,1,0,Cuiabá,VC,3,0,75
+Série A,2021,2021-06-06,América-MG,0,1,Corinthians,VV,0,3,76
+Série A,2021,2021-06-07,Santos,2,1,Athletico-PR,VC,3,0,77
+Série A,2021,2021-06-08,Sport,0,0,Red Bull Bragantino,E,1,1,78
+Série A,2021,2021-06-10,Ceará,0,0,Internacional,E,1,1,79
+Série A,2021,2021-06-10,Sport,3,1,Juventude,VC,3,0,80
+Série A,2021,2021-06-10,Red Bull Bragantino,1,1,Flamengo,E,1,1,81
+Série A,2021,2021-06-10,Fluminense,0,2,Fortaleza,VV,0,3,82
+Série A,2021,2021-06-10,Chapecoense,2,2,Atlético-MG,E,1,1,83
+Série A,2021,2021-06-10,Atlético-GO,0,2,Athletico-PR,VV,0,3,84
+Série A,2021,2021-06-10,Grêmio,2,2,Cuiabá,E,1,1,85
+Série A,2021,2021-06-10,América-MG,2,1,Palmeiras,VC,3,0,86
+Série A,2021,2021-06-11,Corinthians,1,0,Fortaleza,VC,3,0,87
+Série A,2021,2021-06-11,Internacional,1,0,Grêmio,VC,3,0,88
+Série A,2021,2021-06-11,Fluminense,1,0,Sport,VC,3,0,89
+Série A,2021,2021-06-12,Athletico-PR,0,0,Palmeiras,E,1,1,90
+Série A,2021,2021-06-12,Flamengo,0,1,Santos,VV,0,3,91
+Série A,2021,2021-06-12,São Paulo,3,1,Juventude,VC,3,0,92
+Série A,2021,2021-06-12,Cuiabá,1,0,Fortaleza,VC,3,0,93
+Série A,2021,2021-06-12,Internacional,1,2,Atlético-GO,VV,0,3,94
+Série A,2021,2021-06-12,Chapecoense,0,1,Sport,VV,0,3,95
+Série A,2021,2021-07-01,Atlético-GO,0,0,Vasco,E,1,1,96
+Série A,2021,2021-07-01,Ceará,0,2,Internacional,VV,0,3,97
+Série A,2021,2021-07-02,Red Bull Bragantino,1,1,Flamengo,E,1,1,98
+Série A,2021,2021-07-07,Fluminense,0,0,Ceará,E,1,1,99
+Série A,2021,2021-07-07,Palmeiras,2,0,Grêmio,VC,3,0,100
+Série A,2021,2021-07-07,Atlético-GO,1,1,Sport,E,1,1,101
+Série A,2021,2021-07-07,Atlético-MG,2,1,Flamengo,VC,3,0,102
+Série A,2021,2021-07-07,Bahia,1,0,Juventude,VC,3,0,103
+Série A,2021,2021-07-07,Red Bull Bragantino,1,1,Cuiabá,E,1,1,104
+Série A,2021,2021-07-07,Fortaleza,4,0,América-MG,VC,3,0,105
+Série A,2021,2021-07-07,Internacional,0,2,São Paulo,VV,0,3,106
+Série A,2021,2021-07-08,Cuiabá,1,1,Bahia,E,1,1,107
+Série A,2021,2021-07-08,Palmeiras,2,3,Fortaleza,VV,0,3,108
+Série A,2021,2021-07-08,Athletico-PR,1,2,São Paulo,VV,0,3,109
+Série A,2021,2021-07-09,Chapecoense,1,2,Fluminense,VV,0,3,110
+Série A,2021,2021-07-09,Corinthians,1,1,Juventude,E,1,1,111
+Série A,2021,2021-07-10,São Paulo,1,1,Santos,E,1,1,112
+Série A,2021,2021-07-11,Ceará,1,0,Cuiabá,VC,3,0,113
+Série A,2021,2021-07-11,Santos,0,2,Palmeiras,VV,0,3,114
+Série A,2021,2021-07-11,Atlético-MG,1,0,América-MG,VC,3,0,115
+Série A,2021,2021-07-11,Bahia,1,0,São Paulo,VC,3,0,116
+Série A,2021,2021-07-11,Red Bull Bragantino,0,2,Athletico-PR,VV,0,3,117
+Série A,2021,2021-08-02,Botafogo,2,5,Grêmio,VV,0,3,118
+Série A,2021,2021-08-07,Chapecoense,0,1,Corinthians,VV,0,3,119
+Série A,2021,2021-08-08,Flamengo,0,4,Internacional,VV,0,3,120
+Série A,2021,2021-08-08,Santos,0,0,Corinthians,E,1,1,121
+Série A,2021,2021-08-08,Ceará,0,0,Atlético-GO,E,1,1,122
+Série A,2021,2021-08-08,América-MG,1,0,Fluminense,VC,3,0,123
+Série A,2021,2021-08-08,Juventude,1,2,Atlético-MG,VV,0,3,124
+Série A,2021,2021-08-11,Chapecoense,2,2,Flamengo,E,1,1,125
+Série A,2021,2021-09-01,Coritiba,0,0,Athletico-PR,E,1,1,126
+Série A,2021,2021-09-01,Sport,0,1,Palmeiras,VV,0,3,127
+Série A,2021,2021-09-01,Fortaleza,0,0,Grêmio,E,1,1,128
+Série A,2021,2021-09-08,Grêmio,2,1,Chapecoense,VC,3,0,129
+Série A,2021,2021-09-10,Palmeiras,2,4,Red Bull Bragantino,VV,0,3,130
+Série A,2021,2021-09-10,Fortaleza,0,3,Flamengo,VV,0,3,131
+Série A,2021,2021-09-10,Athletico-PR,0,2,Bahia,VV,0,3,132
+Série A,2021,2021-09-10,Atlético-MG,3,1,Ceará,VC,3,0,133
+Série A,2021,2021-09-10,Sport,1,0,Corinthians,VC,3,0,134
+Série A,2021,2021-09-10,Juventude,1,1,América-MG,E,1,1,135
+Série A,2021,2021-09-10,Fluminense,0,0,Atlético-GO,E,1,1,136
+Série A,2021,2021-09-11,Grêmio,1,0,Fluminense,VC,3,0,137
+Série A,2021,2021-09-12,Sport,1,1,Athletico-PR,E,1,1,138
+Série A,2021,2021-09-12,Fluminense,3,0,Chapecoense,VC,3,0,139
+Série A,2021,2021-09-12,Palmeiras,1,0,Ceará,VC,3,0,140
+Série A,2021,2021-09-12,Atlético-GO,2,0,Flamengo,VC,3,0,141
+Série A,2021,2021-09-12,Santos,1,1,Cuiabá,E,1,1,142
+Série A,2021,2021-09-12,América-MG,2,0,São Paulo,VC,3,0,143
+Série A,2021,2021-09-12,Fortaleza,2,1,Bahia,VC,3,0,144
+Série A,2021,2021-09-12,Grêmio,4,3,Atlético-MG,VC,3,0,145
+Série A,2021,2021-09-12,Red Bull Bragantino,1,0,Internacional,VC,3,0,146
+Série A,2021,2021-09-12,Juventude,1,0,Corinthians,VC,3,0,147
+Série A,2021,2021-10-01,Atlético-GO,1,1,Bahia,E,1,1,148
+Série A,2021,2021-10-01,Internacional,1,0,Goiás,VC,3,0,149
+Série A,2021,2021-10-01,São Paulo,0,1,Santos,VV,0,3,150
+Série A,2021,2021-10-01,Vasco,3,0,Botafogo,VC,3,0,151
+Série A,2021,2021-10-01,Flamengo,0,2,Ceará,VV,0,3,152
+Série A,2021,2021-10-02,Fortaleza,3,0,Vasco,VC,3,0,153
+Série A,2021,2021-10-02,Internacional,1,2,Sport,VV,0,3,154
+Série A,2021,2021-10-02,São Paulo,1,1,Ceará,E,1,1,155
+Série A,2021,2021-10-02,Corinthians,3,3,Athletico-PR,E,1,1,156
+Série A,2021,2021-10-02,Fluminense,0,0,Atlético-MG,E,1,1,157
+Série A,2021,2021-10-07,América-MG,0,1,Atlético-MG,VV,0,3,158
+Série A,2021,2021-10-07,Athletico-PR,2,2,Red Bull Bragantino,E,1,1,159
+Série A,2021,2021-10-07,Palmeiras,3,2,Santos,VC,3,0,160
+Série A,2021,2021-10-07,São Paulo,1,0,Bahia,VC,3,0,161
+Série A,2021,2021-10-07,Sport,1,2,Fluminense,VV,0,3,162
+Série A,2021,2021-10-07,Grêmio,0,0,Internacional,E,1,1,163
+Série A,2021,2021-10-10,Santos,1,0,Grêmio,VC,3,0,164
+Série A,2021,2021-10-10,Internacional,5,2,Chapecoense,VC,3,0,165
+Série A,2021,2021-10-11,Sport,2,3,América-MG,VV,0,3,166
+Série A,2021,2021-10-11,Fortaleza,1,1,São Paulo,E,1,1,167
+Série A,2021,2021-10-11,Atlético-MG,3,0,Corinthians,VC,3,0,168
+Série A,2021,2021-10-11,Santos,2,0,Red Bull Bragantino,VC,3,0,169
+Série A,2021,2021-10-11,Palmeiras,4,0,Atlético-GO,VC,3,0,170
+Série A,2021,2021-10-11,Athletico-PR,2,1,Ceará,VC,3,0,171
+Série A,2021,2021-10-11,Juventude,2,1,Internacional,VC,3,0,172
+Série A,2021,2021-11-01,Red Bull Bragantino,2,2,Atlético-MG,E,1,1,173
+Série A,2021,2021-11-07,Fortaleza,1,0,Corinthians,VC,3,0,174
+Série A,2021,2021-11-07,Cuiabá,2,2,Ceará,E,1,1,175
+Série A,2021,2021-11-07,Juventude,1,1,Atlético-GO,E,1,1,176
+Série A,2021,2021-11-07,Flamengo,2,1,Chapecoense,VC,3,0,177
+Série A,2021,2021-11-09,Juventude,1,2,Cuiabá,VV,0,3,178
+Série A,2021,2021-11-09,Red Bull Bragantino,1,2,Chapecoense,VV,0,3,179
+Série A,2021,2021-11-09,América-MG,2,0,Athletico-PR,VC,3,0,180
+Série A,2021,2021-11-09,Santos,0,0,Bahia,E,1,1,181
+Série A,2021,2021-11-10,Cuiabá,0,0,São Paulo,E,1,1,182
+Série A,2021,2021-11-11,Flamengo,3,0,Bahia,VC,3,0,183
+Série A,2021,2021-12-06,Palmeiras,1,1,Corinthians,E,1,1,184
+Série A,2021,2021-12-06,Santos,0,0,Juventude,E,1,1,185
+Série A,2021,2021-12-09,Atlético-GO,1,1,Corinthians,E,1,1,186
+Série A,2021,2021-12-09,Fortaleza,0,2,Atlético-MG,VV,0,3,187
+Série A,2021,2021-12-09,Grêmio,2,0,Ceará,VC,3,0,188
+Série A,2021,2021-12-09,Fluminense,2,1,São Paulo,VC,3,0,189
+Série A,2021,2021-12-09,Palmeiras,1,3,Flamengo,VV,0,3,190
+Série A,2021,2021-12-10,Red Bull Bragantino,1,0,Atlético-GO,VC,3,0,191
+Série A,2021,2021-12-10,Bahia,0,0,Palmeiras,E,1,1,192
+Série A,2022,2022-01-05,Internacional,0,0,Avaí,E,1,1,1
+Série A,2022,2022-01-05,Coritiba,3,2,Fluminense,VC,3,0,2
+Série A,2022,2022-01-05,Botafogo,1,1,Juventude,E,1,1,3
+Série A,2022,2022-01-05,Corinthians,1,0,Fortaleza,VC,3,0,4
+Série A,2022,2022-01-06,Fortaleza,0,1,Ceará,VV,0,3,5
+Série A,2022,2022-01-08,Santos,2,2,Fluminense,E,1,1,6
+Série A,2022,2022-01-10,Flamengo,4,1,Red Bull Bragantino,VC,3,0,7
+Série A,2022,2022-01-10,Atlético-MG,2,0,Fluminense,VC,3,0,8
+Série A,2022,2022-01-10,Internacional,1,0,Santos,VC,3,0,9
+Série A,2022,2022-01-10,Ceará,1,2,América-MG,VV,0,3,10
+Série A,2022,2022-01-10,Avaí,1,2,Atlético-GO,VV,0,3,11
+Série A,2022,2022-01-10,Athletico-PR,2,0,Juventude,VC,3,0,12
+Série A,2022,2022-01-10,Corinthians,2,0,Cuiabá,VC,3,0,13
+Série A,2022,2022-01-10,Goiás,0,1,Fortaleza,VV,0,3,14
+Série A,2022,2022-01-11,São Paulo,2,2,Atlético-MG,E,1,1,15
+Série A,2022,2022-01-11,Botafogo,0,2,Cuiabá,VV,0,3,16
+Série A,2022,2022-02-05,São Paulo,2,1,Santos,VC,3,0,17
+Série A,2022,2022-02-07,Fluminense,4,0,Corinthians,VC,3,0,18
+Série A,2022,2022-02-07,Ceará,1,1,Internacional,E,1,1,19
+Série A,2022,2022-02-07,Juventude,1,2,Atlético-MG,VV,0,3,20
+Série A,2022,2022-02-07,Santos,1,2,Flamengo,VV,0,3,21
+Série A,2022,2022-02-07,Palmeiras,0,2,Athletico-PR,VV,0,3,22
+Série A,2022,2022-02-11,Flamengo,1,2,Corinthians,VV,0,3,23
+Série A,2022,2022-02-11,Athletico-PR,3,2,Goiás,VC,3,0,24
+Série A,2022,2022-02-11,Avaí,1,2,Red Bull Bragantino,VV,0,3,25
+Série A,2022,2022-02-11,Atlético-GO,2,3,Santos,VV,0,3,26
+Série A,2022,2022-02-11,Juventude,0,1,Coritiba,VV,0,3,27
+Série A,2022,2022-02-11,Palmeiras,4,0,Fortaleza,VC,3,0,28
+Série A,2022,2022-02-11,América-MG,1,0,Internacional,VC,3,0,29
+Série A,2022,2022-03-07,Coritiba,2,1,Fortaleza,VC,3,0,30
+Série A,2022,2022-03-07,Avaí,1,2,Cuiabá,VV,0,3,31
+Série A,2022,2022-03-07,Atlético-GO,1,2,São Paulo,VV,0,3,32
+Série A,2022,2022-03-07,América-MG,1,0,Goiás,VC,3,0,33
+Série A,2022,2022-03-09,Red Bull Bragantino,2,2,Palmeiras,E,1,1,34
+Série A,2022,2022-03-09,Athletico-PR,1,0,Fluminense,VC,3,0,35
+Série A,2022,2022-03-09,Juventude,1,1,Avaí,E,1,1,36
+Série A,2022,2022-03-09,América-MG,2,0,Coritiba,VC,3,0,37
+Série A,2022,2022-03-10,Botafogo,1,3,Palmeiras,VV,0,3,38
+Série A,2022,2022-04-06,América-MG,2,1,Cuiabá,VC,3,0,39
+Série A,2022,2022-04-06,Ceará,1,1,Coritiba,E,1,1,40
+Série A,2022,2022-04-06,Atlético-GO,0,1,Corinthians,VV,0,3,41
+Série A,2022,2022-04-06,Avaí,1,1,São Paulo,E,1,1,42
+Série A,2022,2022-04-06,Athletico-PR,2,2,Santos,E,1,1,43
+Série A,2022,2022-04-07,Red Bull Bragantino,0,1,Botafogo,VV,0,3,44
+Série A,2022,2022-04-09,Atlético-GO,0,2,Atlético-MG,VV,0,3,45
+Série A,2022,2022-04-09,Cuiabá,1,1,São Paulo,E,1,1,46
+Série A,2022,2022-04-09,Fortaleza,1,3,Botafogo,VV,0,3,47
+Série A,2022,2022-04-09,Corinthians,2,2,Internacional,E,1,1,48
+Série A,2022,2022-04-09,Flamengo,1,1,Ceará,E,1,1,49
+Série A,2022,2022-04-10,Juventude,2,2,Corinthians,E,1,1,50
+Série A,2022,2022-05-06,Flamengo,1,2,Fortaleza,VV,0,3,51
+Série A,2022,2022-05-06,Palmeiras,0,0,Atlético-MG,E,1,1,52
+Série A,2022,2022-05-06,Juventude,1,0,Fluminense,VC,3,0,53
+Série A,2022,2022-05-06,Red Bull Bragantino,0,2,Internacional,VV,0,3,54
+Série A,2022,2022-05-09,Santos,1,2,Goiás,VV,0,3,55
+Série A,2022,2022-05-10,Flamengo,0,0,Internacional,E,1,1,56
+Série A,2022,2022-05-10,Red Bull Bragantino,2,1,Cuiabá,VC,3,0,57
+Série A,2022,2022-05-10,Santos,1,2,Atlético-MG,VV,0,3,58
+Série A,2022,2022-05-10,Ceará,1,1,Goiás,E,1,1,59
+Série A,2022,2022-05-10,Atlético-GO,3,2,Fluminense,VC,3,0,60
+Série A,2022,2022-05-10,Athletico-PR,1,1,Fortaleza,E,1,1,61
+Série A,2022,2022-05-11,Goiás,1,0,Juventude,VC,3,0,62
+Série A,2022,2022-05-11,Santos,1,1,Avaí,E,1,1,63
+Série A,2022,2022-05-11,Corinthians,1,0,Ceará,VC,3,0,64
+Série A,2022,2022-05-11,Red Bull Bragantino,1,4,América-MG,VV,0,3,65
+Série A,2022,2022-05-11,Fluminense,3,1,São Paulo,VC,3,0,66
+Série A,2022,2022-05-11,Internacional,2,0,Athletico-PR,VC,3,0,67
+Série A,2022,2022-06-06,Botafogo,1,2,Goiás,VV,0,3,68
+Série A,2022,2022-06-08,São Paulo,0,2,Flamengo,VV,0,3,69
+Série A,2022,2022-06-08,Botafogo,1,1,Ceará,E,1,1,70
+Série A,2022,2022-06-08,Avaí,1,1,Corinthians,E,1,1,71
+Série A,2022,2022-06-08,Atlético-GO,2,1,Red Bull Bragantino,VC,3,0,72
+Série A,2022,2022-06-08,Juventude,0,1,América-MG,VV,0,3,73
+Série A,2022,2022-06-10,América-MG,1,2,São Paulo,VV,0,3,74
+Série A,2022,2022-06-10,Palmeiras,4,0,Coritiba,VC,3,0,75
+Série A,2022,2022-06-10,Avaí,1,2,Botafogo,VV,0,3,76
+Série A,2022,2022-06-11,Fortaleza,1,1,Atlético-GO,E,1,1,77
+Série A,2022,2022-06-11,Coritiba,1,0,Flamengo,VC,3,0,78
+Série A,2022,2022-06-11,Cuiabá,1,1,Palmeiras,E,1,1,79
+Série A,2022,2022-07-05,Atlético-MG,1,2,América-MG,VV,0,3,80
+Série A,2022,2022-07-05,Athletico-PR,1,0,Ceará,VC,3,0,81
+Série A,2022,2022-07-06,Cuiabá,1,0,Corinthians,VC,3,0,82
+Série A,2022,2022-07-08,Fluminense,1,0,Cuiabá,VC,3,0,83
+Série A,2022,2022-07-08,Palmeiras,3,0,Goiás,VC,3,0,84
+Série A,2022,2022-07-08,Atlético-MG,2,3,Athletico-PR,VV,0,3,85
+Série A,2022,2022-07-08,Fortaleza,3,0,Internacional,VC,3,0,86
+Série A,2022,2022-07-09,Atlético-MG,1,1,Red Bull Bragantino,E,1,1,87
+Série A,2022,2022-07-11,Atlético-MG,0,2,Botafogo,VV,0,3,88
+Série A,2022,2022-08-05,Fortaleza,1,1,São Paulo,E,1,1,89
+Série A,2022,2022-08-05,Juventude,1,1,Internacional,E,1,1,90
+Série A,2022,2022-08-05,Red Bull Bragantino,0,1,Corinthians,VV,0,3,91
+Série A,2022,2022-08-05,Flamengo,0,1,Botafogo,VV,0,3,92
+Série A,2022,2022-08-05,Santos,4,1,Cuiabá,VC,3,0,93
+Série A,2022,2022-08-05,Palmeiras,1,1,Fluminense,E,1,1,94
+Série A,2022,2022-08-05,Atlético-GO,0,1,Goiás,VV,0,3,95
+Série A,2022,2022-08-06,América-MG,0,2,Ceará,VV,0,3,96
+Série A,2022,2022-08-06,Fluminense,5,3,Atlético-MG,VC,3,0,97
+Série A,2022,2022-08-06,Red Bull Bragantino,1,0,Flamengo,VC,3,0,98
+Série A,2022,2022-08-06,Santos,1,1,Internacional,E,1,1,99
+Série A,2022,2022-08-06,Juventude,1,3,Athletico-PR,VV,0,3,100
+Série A,2022,2022-08-06,Atlético-GO,2,1,Avaí,VC,3,0,101
+Série A,2022,2022-08-08,Coritiba,1,2,Santos,VV,0,3,102
+Série A,2022,2022-08-10,Corinthians,2,1,Athletico-PR,VC,3,0,103
+Série A,2022,2022-08-10,Cuiabá,1,2,Flamengo,VV,0,3,104
+Série A,2022,2022-08-11,São Paulo,0,1,Internacional,VV,0,3,105
+Série A,2022,2022-09-04,Palmeiras,2,3,Ceará,VV,0,3,106
+Série A,2022,2022-09-04,Fluminense,0,0,Santos,E,1,1,107
+Série A,2022,2022-09-04,Atlético-GO,1,1,Flamengo,E,1,1,108
+Série A,2022,2022-09-05,Avaí,2,1,Coritiba,VC,3,0,109
+Série A,2022,2022-09-06,Fortaleza,1,1,Goiás,E,1,1,110
+Série A,2022,2022-09-06,Palmeiras,4,0,Botafogo,VC,3,0,111
+Série A,2022,2022-09-06,Coritiba,1,1,São Paulo,E,1,1,112
+Série A,2022,2022-09-07,Goiás,2,1,Athletico-PR,VC,3,0,113
+Série A,2022,2022-09-07,Red Bull Bragantino,4,0,Avaí,VC,3,0,114
+Série A,2022,2022-09-07,Fluminense,2,1,Ceará,VC,3,0,115
+Série A,2022,2022-09-10,Coritiba,2,1,Red Bull Bragantino,VC,3,0,116
+Série A,2022,2022-09-10,São Paulo,0,1,Botafogo,VV,0,3,117
+Série A,2022,2022-09-10,Fluminense,0,2,América-MG,VV,0,3,118
+Série A,2022,2022-09-10,Atlético-MG,0,0,Ceará,E,1,1,119
+Série A,2022,2022-09-10,Internacional,4,2,Goiás,VC,3,0,120
+Série A,2022,2022-09-10,Fortaleza,2,0,Avaí,VC,3,0,121
+Série A,2022,2022-09-11,Avaí,2,0,Ceará,VC,3,0,122
+Série A,2022,2022-09-11,Atlético-GO,1,1,Athletico-PR,E,1,1,123
+Série A,2022,2022-09-11,Fluminense,3,0,Goiás,VC,3,0,124
+Série A,2022,2022-09-11,Palmeiras,2,1,América-MG,VC,3,0,125
+Série A,2022,2022-09-11,Juventude,2,2,Flamengo,E,1,1,126
+Série A,2022,2022-09-11,Fortaleza,6,0,Red Bull Bragantino,VC,3,0,127
+Série A,2022,2022-09-11,Coritiba,2,2,Corinthians,E,1,1,128
+Série A,2022,2022-10-04,Coritiba,3,0,Goiás,VC,3,0,129
+Série A,2022,2022-10-04,Avaí,1,0,América-MG,VC,3,0,130
+Série A,2022,2022-10-04,Atlético-MG,2,0,Internacional,VC,3,0,131
+Série A,2022,2022-10-04,São Paulo,4,0,Athletico-PR,VC,3,0,132
+Série A,2022,2022-10-04,Fortaleza,0,1,Cuiabá,VV,0,3,133
+Série A,2022,2022-10-04,Botafogo,1,3,Corinthians,VV,0,3,134
+Série A,2022,2022-10-07,Cuiabá,2,0,Botafogo,VC,3,0,135
+Série A,2022,2022-10-07,Atlético-MG,0,0,São Paulo,E,1,1,136
+Série A,2022,2022-10-07,Corinthians,1,0,Flamengo,VC,3,0,137
+Série A,2022,2022-10-07,Santos,1,0,Atlético-GO,VC,3,0,138
+Série A,2022,2022-10-07,Fortaleza,0,0,Palmeiras,E,1,1,139
+Série A,2022,2022-10-07,Coritiba,2,2,Juventude,E,1,1,140
+Série A,2022,2022-10-09,Ceará,2,1,Santos,VC,3,0,141
+Série A,2022,2022-10-09,Internacional,1,0,Cuiabá,VC,3,0,142
+Série A,2022,2022-10-09,Palmeiras,2,1,Juventude,VC,3,0,143
+Série A,2022,2022-10-09,Fluminense,2,1,Fortaleza,VC,3,0,144
+Série A,2022,2022-10-10,Atlético-GO,1,1,Palmeiras,E,1,1,145
+Série A,2022,2022-10-10,Santos,4,1,Juventude,VC,3,0,146
+Série A,2022,2022-10-11,Atlético-MG,3,0,Cuiabá,VC,3,0,147
+Série A,2022,2022-10-11,Botafogo,3,0,Santos,VC,3,0,148
+Série A,2022,2022-11-04,Juventude,2,2,Red Bull Bragantino,E,1,1,149
+Série A,2022,2022-11-05,Red Bull Bragantino,1,1,Atlético-MG,E,1,1,150
+Série A,2022,2022-11-06,Cuiabá,1,1,Red Bull Bragantino,E,1,1,151
+Série A,2022,2022-11-06,Atlético-MG,1,1,Santos,E,1,1,152
+Série A,2022,2022-11-06,Fluminense,0,2,Atlético-GO,VV,0,3,153
+Série A,2022,2022-11-06,Corinthians,2,0,Juventude,VC,3,0,154
+Série A,2022,2022-11-06,Internacional,3,1,Flamengo,VC,3,0,155
+Série A,2022,2022-11-07,Internacional,1,0,América-MG,VC,3,0,156
+Série A,2022,2022-11-09,São Paulo,1,1,Corinthians,E,1,1,157
+Série A,2022,2022-11-09,Coritiba,2,0,Atlético-GO,VC,3,0,158
+Série A,2022,2022-11-09,Avaí,1,1,Athletico-PR,E,1,1,159
+Série A,2022,2022-11-09,Goiás,1,1,Flamengo,E,1,1,160
+Série A,2022,2022-11-09,Botafogo,0,0,América-MG,E,1,1,161
+Série A,2022,2022-12-06,Fortaleza,0,0,Athletico-PR,E,1,1,162
+Série A,2022,2022-12-06,Goiás,1,1,Ceará,E,1,1,163
+Série A,2022,2022-12-06,Coritiba,0,2,Palmeiras,VV,0,3,164
+Série A,2022,2022-12-06,São Paulo,1,0,América-MG,VC,3,0,165
+Série A,2022,2022-12-11,Flamengo,1,2,Avaí,VV,0,3,166
