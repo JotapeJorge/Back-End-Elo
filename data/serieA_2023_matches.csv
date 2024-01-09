@@ -1,4 +1,5 @@
 Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Série A,2023,2023-04-15,Botafogo,2,1,São Paulo,VC,3,0,1
 Série A,2023,2023-04-15,Palmeiras,2,1,Cuiabá,VC,3,0,2
 Série A,2023,2023-04-15,Red Bull Bragantino,2,1,Bahia,VC,3,0,3
 Série A,2023,2023-04-15,Atlético-MG,1,2,Vasco,VV,0,3,4
@@ -88,133 +89,133 @@ Série A,2023,2023-06-04,Palmeiras,3,1,Coritiba,VC,3,0,87
 Série A,2023,2023-06-04,Goiás,0,1,Cuiabá,VV,0,3,88
 Série A,2023,2023-06-04,Grêmio,2,1,São Paulo,VC,3,0,89
 Série A,2023,2023-06-05,Vasco,1,4,Flamengo,VV,0,3,90
-Série A,2023,2023-06-10,Corinthians,1,1,Cuiabá,E,1,1,91
-Série A,2023,2023-06-10,Bahia,2,2,Cruzeiro,E,1,1,92
-Série A,2023,2023-06-10,Botafogo,2,0,Fortaleza,VC,3,0,93
-Série A,2023,2023-06-10,Atlético-MG,1,1,Red Bull Bragantino,E,1,1,94
-Série A,2023,2023-06-10,Coritiba,0,0,Santos,E,1,1,95
+Série A,2023,2023-06-10,Bahia,2,2,Cruzeiro,E,1,1,91
+Série A,2023,2023-06-10,Coritiba,0,0,Santos,E,1,1,92
+Série A,2023,2023-06-10,Corinthians,1,1,Cuiabá,E,1,1,93
+Série A,2023,2023-06-10,Botafogo,2,0,Fortaleza,VC,3,0,94
+Série A,2023,2023-06-10,Atlético-MG,1,1,Red Bull Bragantino,E,1,1,95
 Série A,2023,2023-06-11,Flamengo,3,0,Grêmio,VC,3,0,96
 Série A,2023,2023-06-11,Goiás,2,2,Fluminense,E,1,1,97
 Série A,2023,2023-06-11,Internacional,2,1,Vasco,VC,3,0,98
 Série A,2023,2023-06-11,América-MG,2,2,Athletico-PR,E,1,1,99
 Série A,2023,2023-06-11,São Paulo,0,2,Palmeiras,VV,0,3,100
-Série A,2023,2023-06-21,Fluminense,1,1,Atlético-MG,E,1,1,101
-Série A,2023,2023-06-21,São Paulo,2,1,Athletico-PR,VC,3,0,102
-Série A,2023,2023-06-21,Santos,0,2,Corinthians,VV,0,3,103
-Série A,2023,2023-06-21,Cruzeiro,0,1,Fortaleza,VV,0,3,104
-Série A,2023,2023-06-21,Bahia,1,0,Palmeiras,VC,3,0,105
-Série A,2023,2023-06-22,Cuiabá,0,1,Botafogo,VV,0,3,106
-Série A,2023,2023-06-22,Coritiba,0,1,Internacional,VV,0,3,107
-Série A,2023,2023-06-22,Vasco,0,1,Goiás,VV,0,3,108
-Série A,2023,2023-06-22,Red Bull Bragantino,4,0,Flamengo,VC,3,0,109
-Série A,2023,2023-06-22,Grêmio,3,1,América-MG,VC,3,0,110
+Série A,2023,2023-06-21,Cruzeiro,0,1,Fortaleza,VV,0,3,101
+Série A,2023,2023-06-21,Santos,0,2,Corinthians,VV,0,3,102
+Série A,2023,2023-06-21,Bahia,1,0,Palmeiras,VC,3,0,103
+Série A,2023,2023-06-21,Fluminense,1,1,Atlético-MG,E,1,1,104
+Série A,2023,2023-06-21,São Paulo,2,1,Athletico-PR,VC,3,0,105
+Série A,2023,2023-06-22,Vasco,0,1,Goiás,VV,0,3,106
+Série A,2023,2023-06-22,Red Bull Bragantino,4,0,Flamengo,VC,3,0,107
+Série A,2023,2023-06-22,Grêmio,3,1,América-MG,VC,3,0,108
+Série A,2023,2023-06-22,Coritiba,0,1,Internacional,VV,0,3,109
+Série A,2023,2023-06-22,Cuiabá,0,1,Botafogo,VV,0,3,110
 Série A,2023,2023-06-24,Fluminense,2,1,Bahia,VC,3,0,111
 Série A,2023,2023-06-24,Cruzeiro,1,0,São Paulo,VC,3,0,112
 Série A,2023,2023-06-24,Athletico-PR,1,0,Corinthians,VC,3,0,113
 Série A,2023,2023-06-24,Fortaleza,2,1,Atlético-MG,VC,3,0,114
-Série A,2023,2023-06-25,América-MG,1,2,Internacional,VV,0,3,115
-Série A,2023,2023-06-25,Grêmio,5,1,Coritiba,VC,3,0,116
-Série A,2023,2023-06-25,Santos,2,3,Flamengo,VV,0,3,117
+Série A,2023,2023-06-25,Grêmio,5,1,Coritiba,VC,3,0,115
+Série A,2023,2023-06-25,Red Bull Bragantino,2,0,Goiás,VC,3,0,116
+Série A,2023,2023-06-25,América-MG,1,2,Internacional,VV,0,3,117
 Série A,2023,2023-06-25,Palmeiras,0,1,Botafogo,VV,0,3,118
-Série A,2023,2023-06-25,Red Bull Bragantino,2,0,Goiás,VC,3,0,119
+Série A,2023,2023-06-25,Santos,2,3,Flamengo,VV,0,3,119
 Série A,2023,2023-06-26,Vasco,1,0,Cuiabá,VC,3,0,120
 Série A,2023,2023-07-01,Flamengo,2,0,Fortaleza,VC,3,0,121
 Série A,2023,2023-07-01,São Paulo,1,0,Fluminense,VC,3,0,122
 Série A,2023,2023-07-01,Internacional,0,0,Cruzeiro,E,1,1,123
 Série A,2023,2023-07-01,Bahia,1,2,Grêmio,VV,0,3,124
-Série A,2023,2023-07-02,Cuiabá,3,0,Santos,VC,3,0,125
-Série A,2023,2023-07-02,Athletico-PR,2,2,Palmeiras,E,1,1,126
+Série A,2023,2023-07-02,Botafogo,2,0,Vasco,VC,3,0,125
+Série A,2023,2023-07-02,Corinthians,0,1,Red Bull Bragantino,VV,0,3,126
 Série A,2023,2023-07-02,Atlético-MG,2,2,América-MG,E,1,1,127
-Série A,2023,2023-07-02,Botafogo,2,0,Vasco,VC,3,0,128
-Série A,2023,2023-07-02,Corinthians,0,1,Red Bull Bragantino,VV,0,3,129
+Série A,2023,2023-07-02,Athletico-PR,2,2,Palmeiras,E,1,1,128
+Série A,2023,2023-07-02,Cuiabá,3,0,Santos,VC,3,0,129
 Série A,2023,2023-07-03,Goiás,1,2,Coritiba,VV,0,3,130
-Série A,2023,2023-07-08,Vasco,0,1,Cruzeiro,VV,0,3,131
-Série A,2023,2023-07-08,Palmeiras,1,1,Flamengo,E,1,1,132
-Série A,2023,2023-07-08,Coritiba,3,1,América-MG,VC,3,0,133
-Série A,2023,2023-07-08,Atlético-MG,0,1,Corinthians,VV,0,3,134
-Série A,2023,2023-07-08,Cuiabá,1,1,Bahia,E,1,1,135
-Série A,2023,2023-07-09,Grêmio,0,2,Botafogo,VV,0,3,136
-Série A,2023,2023-07-09,Fortaleza,1,0,Athletico-PR,VC,3,0,137
-Série A,2023,2023-07-09,Santos,4,3,Goiás,VC,3,0,138
-Série A,2023,2023-07-09,Fluminense,2,0,Internacional,VC,3,0,139
-Série A,2023,2023-07-09,Red Bull Bragantino,0,0,São Paulo,E,1,1,140
+Série A,2023,2023-07-08,Cuiabá,1,1,Bahia,E,1,1,131
+Série A,2023,2023-07-08,Atlético-MG,0,1,Corinthians,VV,0,3,132
+Série A,2023,2023-07-08,Vasco,0,1,Cruzeiro,VV,0,3,133
+Série A,2023,2023-07-08,Palmeiras,1,1,Flamengo,E,1,1,134
+Série A,2023,2023-07-08,Coritiba,3,1,América-MG,VC,3,0,135
+Série A,2023,2023-07-09,Fluminense,2,0,Internacional,VC,3,0,136
+Série A,2023,2023-07-09,Santos,4,3,Goiás,VC,3,0,137
+Série A,2023,2023-07-09,Red Bull Bragantino,0,0,São Paulo,E,1,1,138
+Série A,2023,2023-07-09,Grêmio,0,2,Botafogo,VV,0,3,139
+Série A,2023,2023-07-09,Fortaleza,1,0,Athletico-PR,VC,3,0,140
 Série A,2023,2023-07-15,Botafogo,2,0,Red Bull Bragantino,VC,3,0,141
-Série A,2023,2023-07-16,Fluminense,0,0,Flamengo,E,1,1,142
-Série A,2023,2023-07-16,São Paulo,4,1,Santos,VC,3,0,143
-Série A,2023,2023-07-16,Cruzeiro,0,0,Coritiba,E,1,1,144
-Série A,2023,2023-07-16,Internacional,0,0,Palmeiras,E,1,1,145
-Série A,2023,2023-07-16,Athletico-PR,2,0,Bahia,VC,3,0,146
-Série A,2023,2023-07-16,Fortaleza,0,1,Cuiabá,VV,0,3,147
+Série A,2023,2023-07-16,Athletico-PR,2,0,Bahia,VC,3,0,142
+Série A,2023,2023-07-16,Fortaleza,0,1,Cuiabá,VV,0,3,143
+Série A,2023,2023-07-16,Internacional,0,0,Palmeiras,E,1,1,144
+Série A,2023,2023-07-16,Fluminense,0,0,Flamengo,E,1,1,145
+Série A,2023,2023-07-16,São Paulo,4,1,Santos,VC,3,0,146
+Série A,2023,2023-07-16,Cruzeiro,0,0,Coritiba,E,1,1,147
 Série A,2023,2023-07-17,Goiás,0,0,Atlético-MG,E,1,1,148
-Série A,2023,2023-07-22,Grêmio,1,0,Atlético-MG,VC,3,0,149
-Série A,2023,2023-07-22,Cuiabá,2,1,São Paulo,VC,3,0,150
-Série A,2023,2023-07-22,Palmeiras,3,1,Fortaleza,VC,3,0,151
-Série A,2023,2023-07-22,Flamengo,1,1,América-MG,E,1,1,152
-Série A,2023,2023-07-22,Bahia,0,0,Corinthians,E,1,1,153
-Série A,2023,2023-07-23,Santos,2,2,Botafogo,E,1,1,154
-Série A,2023,2023-07-23,Vasco,0,2,Athletico-PR,VV,0,3,155
-Série A,2023,2023-07-23,Red Bull Bragantino,0,0,Internacional,E,1,1,156
-Série A,2023,2023-07-23,Cruzeiro,0,1,Goiás,VV,0,3,157
+Série A,2023,2023-07-22,Flamengo,1,1,América-MG,E,1,1,149
+Série A,2023,2023-07-22,Palmeiras,3,1,Fortaleza,VC,3,0,150
+Série A,2023,2023-07-22,Bahia,0,0,Corinthians,E,1,1,151
+Série A,2023,2023-07-22,Cuiabá,2,1,São Paulo,VC,3,0,152
+Série A,2023,2023-07-22,Grêmio,1,0,Atlético-MG,VC,3,0,153
+Série A,2023,2023-07-23,Cruzeiro,0,1,Goiás,VV,0,3,154
+Série A,2023,2023-07-23,Red Bull Bragantino,0,0,Internacional,E,1,1,155
+Série A,2023,2023-07-23,Vasco,0,2,Athletico-PR,VV,0,3,156
+Série A,2023,2023-07-23,Santos,2,2,Botafogo,E,1,1,157
 Série A,2023,2023-07-24,Coritiba,2,0,Fluminense,VC,3,0,158
-Série A,2023,2023-07-29,Fortaleza,0,3,Red Bull Bragantino,VV,0,3,159
-Série A,2023,2023-07-29,Athletico-PR,3,3,Cruzeiro,E,1,1,160
-Série A,2023,2023-07-29,Internacional,1,2,Cuiabá,VV,0,3,161
-Série A,2023,2023-07-29,Corinthians,3,1,Vasco,VC,3,0,162
-Série A,2023,2023-07-29,Fluminense,1,0,Santos,VC,3,0,163
-Série A,2023,2023-07-29,Atlético-MG,1,2,Flamengo,VV,0,3,164
-Série A,2023,2023-07-30,Botafogo,4,1,Coritiba,VC,3,0,165
-Série A,2023,2023-07-30,São Paulo,0,0,Bahia,E,1,1,166
-Série A,2023,2023-07-30,América-MG,1,4,Palmeiras,VV,0,3,167
-Série A,2023,2023-07-30,Goiás,1,1,Grêmio,E,1,1,168
-Série A,2023,2023-08-05,Internacional,2,2,Corinthians,E,1,1,169
-Série A,2023,2023-08-05,Goiás,1,0,Fortaleza,VC,3,0,170
-Série A,2023,2023-08-05,Fluminense,2,1,Palmeiras,VC,3,0,171
-Série A,2023,2023-08-05,Santos,1,1,Athletico-PR,E,1,1,172
-Série A,2023,2023-08-06,Bahia,3,1,América-MG,VC,3,0,173
-Série A,2023,2023-08-06,Vasco,1,0,Grêmio,VC,3,0,174
-Série A,2023,2023-08-06,São Paulo,0,2,Atlético-MG,VV,0,3,175
-Série A,2023,2023-08-06,Cruzeiro,0,0,Botafogo,E,1,1,176
-Série A,2023,2023-08-06,Coritiba,0,1,Red Bull Bragantino,VV,0,3,177
-Série A,2023,2023-08-06,Cuiabá,3,0,Flamengo,VC,3,0,178
+Série A,2023,2023-07-29,Fluminense,1,0,Santos,VC,3,0,159
+Série A,2023,2023-07-29,Corinthians,3,1,Vasco,VC,3,0,160
+Série A,2023,2023-07-29,Atlético-MG,1,2,Flamengo,VV,0,3,161
+Série A,2023,2023-07-29,Internacional,1,2,Cuiabá,VV,0,3,162
+Série A,2023,2023-07-29,Athletico-PR,3,3,Cruzeiro,E,1,1,163
+Série A,2023,2023-07-29,Fortaleza,0,3,Red Bull Bragantino,VV,0,3,164
+Série A,2023,2023-07-30,América-MG,1,4,Palmeiras,VV,0,3,165
+Série A,2023,2023-07-30,Goiás,1,1,Grêmio,E,1,1,166
+Série A,2023,2023-07-30,Botafogo,4,1,Coritiba,VC,3,0,167
+Série A,2023,2023-07-30,São Paulo,0,0,Bahia,E,1,1,168
+Série A,2023,2023-08-05,Fluminense,2,1,Palmeiras,VC,3,0,169
+Série A,2023,2023-08-05,Santos,1,1,Athletico-PR,E,1,1,170
+Série A,2023,2023-08-05,Internacional,2,2,Corinthians,E,1,1,171
+Série A,2023,2023-08-05,Goiás,1,0,Fortaleza,VC,3,0,172
+Série A,2023,2023-08-06,Coritiba,0,1,Red Bull Bragantino,VV,0,3,173
+Série A,2023,2023-08-06,Cruzeiro,0,0,Botafogo,E,1,1,174
+Série A,2023,2023-08-06,Cuiabá,3,0,Flamengo,VC,3,0,175
+Série A,2023,2023-08-06,Vasco,1,0,Grêmio,VC,3,0,176
+Série A,2023,2023-08-06,Bahia,3,1,América-MG,VC,3,0,177
+Série A,2023,2023-08-06,São Paulo,0,2,Atlético-MG,VV,0,3,178
 Série A,2023,2023-08-12,Botafogo,3,1,Internacional,VC,3,0,179
-Série A,2023,2023-08-13,Fortaleza,4,0,Santos,VC,3,0,180
-Série A,2023,2023-08-13,Grêmio,2,1,Fluminense,VC,3,0,181
-Série A,2023,2023-08-13,América-MG,0,1,Goiás,VV,0,3,182
-Série A,2023,2023-08-13,Corinthians,3,1,Coritiba,VC,3,0,183
-Série A,2023,2023-08-13,Atlético-MG,1,0,Bahia,VC,3,0,184
-Série A,2023,2023-08-13,Flamengo,1,1,São Paulo,E,1,1,185
+Série A,2023,2023-08-13,Flamengo,1,1,São Paulo,E,1,1,180
+Série A,2023,2023-08-13,Corinthians,3,1,Coritiba,VC,3,0,181
+Série A,2023,2023-08-13,Atlético-MG,1,0,Bahia,VC,3,0,182
+Série A,2023,2023-08-13,Grêmio,2,1,Fluminense,VC,3,0,183
+Série A,2023,2023-08-13,Fortaleza,4,0,Santos,VC,3,0,184
+Série A,2023,2023-08-13,América-MG,0,1,Goiás,VV,0,3,185
 Série A,2023,2023-08-14,Palmeiras,1,0,Cruzeiro,VC,3,0,186
 Série A,2023,2023-08-14,Red Bull Bragantino,1,1,Vasco,E,1,1,187
 Série A,2023,2023-08-15,Athletico-PR,2,0,Cuiabá,VC,3,0,188
-Série A,2023,2023-08-19,Fluminense,3,1,América-MG,VC,3,0,189
-Série A,2023,2023-08-19,São Paulo,0,0,Botafogo,E,1,1,190
-Série A,2023,2023-08-19,Cruzeiro,1,1,Corinthians,E,1,1,191
-Série A,2023,2023-08-19,Cuiabá,0,2,Palmeiras,VV,0,3,192
-Série A,2023,2023-08-19,Internacional,0,1,Fortaleza,VV,0,3,193
-Série A,2023,2023-08-20,Bahia,4,0,Red Bull Bragantino,VC,3,0,194
-Série A,2023,2023-08-20,Coritiba,2,3,Flamengo,VV,0,3,195
-Série A,2023,2023-08-20,Vasco,1,0,Atlético-MG,VC,3,0,196
-Série A,2023,2023-08-20,Santos,2,1,Grêmio,VC,3,0,197
+Série A,2023,2023-08-19,Internacional,0,1,Fortaleza,VV,0,3,189
+Série A,2023,2023-08-19,Cuiabá,0,2,Palmeiras,VV,0,3,190
+Série A,2023,2023-08-19,São Paulo,0,0,Botafogo,E,1,1,191
+Série A,2023,2023-08-19,Cruzeiro,1,1,Corinthians,E,1,1,192
+Série A,2023,2023-08-19,Fluminense,3,1,América-MG,VC,3,0,193
+Série A,2023,2023-08-20,Vasco,1,0,Atlético-MG,VC,3,0,194
+Série A,2023,2023-08-20,Santos,2,1,Grêmio,VC,3,0,195
+Série A,2023,2023-08-20,Coritiba,2,3,Flamengo,VV,0,3,196
+Série A,2023,2023-08-20,Bahia,4,0,Red Bull Bragantino,VC,3,0,197
 Série A,2023,2023-08-21,Goiás,1,1,Athletico-PR,E,1,1,198
 Série A,2023,2023-08-26,Flamengo,0,0,Internacional,E,1,1,199
 Série A,2023,2023-08-26,Corinthians,1,1,Goiás,E,1,1,200
-Série A,2023,2023-08-27,Grêmio,3,0,Cruzeiro,VC,3,0,201
+Série A,2023,2023-08-27,América-MG,2,1,São Paulo,VC,3,0,201
 Série A,2023,2023-08-27,Fortaleza,3,1,Coritiba,VC,3,0,202
-Série A,2023,2023-08-27,Atlético-MG,2,0,Santos,VC,3,0,203
-Série A,2023,2023-08-27,América-MG,2,1,São Paulo,VC,3,0,204
+Série A,2023,2023-08-27,Grêmio,3,0,Cruzeiro,VC,3,0,203
+Série A,2023,2023-08-27,Red Bull Bragantino,2,0,Cuiabá,VC,3,0,204
 Série A,2023,2023-08-27,Botafogo,3,0,Bahia,VC,3,0,205
 Série A,2023,2023-08-27,Athletico-PR,2,2,Fluminense,E,1,1,206
-Série A,2023,2023-08-27,Red Bull Bragantino,2,0,Cuiabá,VC,3,0,207
+Série A,2023,2023-08-27,Atlético-MG,2,0,Santos,VC,3,0,207
 Série A,2023,2023-08-28,Palmeiras,1,0,Vasco,VC,3,0,208
 Série A,2023,2023-09-02,Botafogo,1,2,Flamengo,VV,0,3,209
 Série A,2023,2023-09-02,Goiás,0,0,Internacional,E,1,1,210
 Série A,2023,2023-09-02,Athletico-PR,1,1,Atlético-MG,E,1,1,211
 Série A,2023,2023-09-02,América-MG,2,0,Santos,VC,3,0,212
-Série A,2023,2023-09-03,Grêmio,2,0,Cuiabá,VC,3,0,213
-Série A,2023,2023-09-03,Cruzeiro,0,0,Red Bull Bragantino,E,1,1,214
-Série A,2023,2023-09-03,Bahia,1,1,Vasco,E,1,1,215
+Série A,2023,2023-09-03,Bahia,1,1,Vasco,E,1,1,213
+Série A,2023,2023-09-03,Grêmio,2,0,Cuiabá,VC,3,0,214
+Série A,2023,2023-09-03,Corinthians,0,0,Palmeiras,E,1,1,215
 Série A,2023,2023-09-03,Fluminense,1,0,Fortaleza,VC,3,0,216
-Série A,2023,2023-09-03,Corinthians,0,0,Palmeiras,E,1,1,217
+Série A,2023,2023-09-03,Cruzeiro,0,0,Red Bull Bragantino,E,1,1,217
 Série A,2023,2023-09-13,Flamengo,0,3,Athletico-PR,VV,0,3,218
 Série A,2023,2023-09-13,Internacional,2,1,São Paulo,VC,3,0,219
 Série A,2023,2023-09-14,Fortaleza,2,1,Corinthians,VC,3,0,220
@@ -223,148 +224,158 @@ Série A,2023,2023-09-14,Red Bull Bragantino,2,0,Grêmio,VC,3,0,222
 Série A,2023,2023-09-14,Coritiba,2,4,Bahia,VV,0,3,223
 Série A,2023,2023-09-15,Palmeiras,1,0,Goiás,VC,3,0,224
 Série A,2023,2023-09-15,Cuiabá,2,2,América-MG,E,1,1,225
-Série A,2023,2023-09-16,Vasco,4,2,Fluminense,VC,3,0,226
-Série A,2023,2023-09-16,Atlético-MG,1,0,Botafogo,VC,3,0,227
+Série A,2023,2023-09-16,Atlético-MG,1,0,Botafogo,VC,3,0,226
+Série A,2023,2023-09-16,Vasco,4,2,Fluminense,VC,3,0,227
 Série A,2023,2023-09-18,Corinthians,4,4,Grêmio,E,1,1,228
 Série A,2023,2023-09-18,Bahia,1,2,Santos,VV,0,3,229
 Série A,2023,2023-09-19,América-MG,0,2,Red Bull Bragantino,VV,0,3,230
 Série A,2023,2023-09-20,São Paulo,1,2,Fortaleza,VV,0,3,231
 Série A,2023,2023-09-20,Goiás,0,0,Flamengo,E,1,1,232
 Série A,2023,2023-09-20,Fluminense,1,0,Cruzeiro,VC,3,0,233
-Série A,2023,2023-09-21,Grêmio,1,0,Palmeiras,VC,3,0,234
-Série A,2023,2023-09-21,Vasco,5,1,Coritiba,VC,3,0,235
+Série A,2023,2023-09-21,Vasco,5,1,Coritiba,VC,3,0,234
+Série A,2023,2023-09-21,Grêmio,1,0,Palmeiras,VC,3,0,235
 Série A,2023,2023-09-21,Athletico-PR,2,1,Internacional,VC,3,0,236
 Série A,2023,2023-09-22,Corinthians,1,0,Botafogo,VC,3,0,237
 Série A,2023,2023-09-23,Atlético-MG,1,0,Cuiabá,VC,3,0,238
 Série A,2023,2023-09-25,América-MG,0,1,Vasco,VV,0,3,239
 Série A,2023,2023-09-27,São Paulo,2,1,Coritiba,VC,3,0,240
-Série A,2023,2023-09-30,Internacional,0,2,Atlético-MG,VV,0,3,241
-Série A,2023,2023-09-30,Cuiabá,3,0,Fluminense,VC,3,0,242
-Série A,2023,2023-09-30,Flamengo,1,0,Bahia,VC,3,0,243
-Série A,2023,2023-09-30,São Paulo,2,1,Corinthians,VC,3,0,244
-Série A,2023,2023-09-30,Fortaleza,1,1,Grêmio,E,1,1,245
-Série A,2023,2023-10-01,Coritiba,2,0,Athletico-PR,VC,3,0,246
-Série A,2023,2023-10-01,Santos,4,1,Vasco,VC,3,0,247
-Série A,2023,2023-10-01,Red Bull Bragantino,2,1,Palmeiras,VC,3,0,248
-Série A,2023,2023-10-01,Cruzeiro,1,1,América-MG,E,1,1,249
+Série A,2023,2023-09-30,Flamengo,1,0,Bahia,VC,3,0,241
+Série A,2023,2023-09-30,São Paulo,2,1,Corinthians,VC,3,0,242
+Série A,2023,2023-09-30,Fortaleza,1,1,Grêmio,E,1,1,243
+Série A,2023,2023-09-30,Cuiabá,3,0,Fluminense,VC,3,0,244
+Série A,2023,2023-09-30,Internacional,0,2,Atlético-MG,VV,0,3,245
+Série A,2023,2023-10-01,Cruzeiro,1,1,América-MG,E,1,1,246
+Série A,2023,2023-10-01,Red Bull Bragantino,2,1,Palmeiras,VC,3,0,247
+Série A,2023,2023-10-01,Coritiba,2,0,Athletico-PR,VC,3,0,248
+Série A,2023,2023-10-01,Santos,4,1,Vasco,VC,3,0,249
 Série A,2023,2023-10-02,Botafogo,1,1,Goiás,E,1,1,250
-Série A,2023,2023-10-07,Corinthians,1,1,Flamengo,E,1,1,251
-Série A,2023,2023-10-07,Goiás,4,6,Bahia,VV,0,3,252
-Série A,2023,2023-10-07,Vasco,0,0,São Paulo,E,1,1,253
-Série A,2023,2023-10-08,Fluminense,0,2,Botafogo,VV,0,3,254
-Série A,2023,2023-10-08,Palmeiras,1,2,Santos,VV,0,3,255
-Série A,2023,2023-10-08,Atlético-MG,1,2,Coritiba,VV,0,3,256
-Série A,2023,2023-10-08,Internacional,3,2,Grêmio,VC,3,0,257
-Série A,2023,2023-10-08,Athletico-PR,1,1,Red Bull Bragantino,E,1,1,258
-Série A,2023,2023-10-08,Fortaleza,3,2,América-MG,VC,3,0,259
+Série A,2023,2023-10-07,Vasco,0,0,São Paulo,E,1,1,251
+Série A,2023,2023-10-07,Corinthians,1,1,Flamengo,E,1,1,252
+Série A,2023,2023-10-07,Goiás,4,6,Bahia,VV,0,3,253
+Série A,2023,2023-10-08,Athletico-PR,1,1,Red Bull Bragantino,E,1,1,254
+Série A,2023,2023-10-08,Internacional,3,2,Grêmio,VC,3,0,255
+Série A,2023,2023-10-08,Fortaleza,3,2,América-MG,VC,3,0,256
+Série A,2023,2023-10-08,Palmeiras,1,2,Santos,VV,0,3,257
+Série A,2023,2023-10-08,Fluminense,0,2,Botafogo,VV,0,3,258
+Série A,2023,2023-10-08,Atlético-MG,1,2,Coritiba,VV,0,3,259
 Série A,2023,2023-10-14,Cuiabá,0,0,Cruzeiro,E,1,1,260
-Série A,2023,2023-10-18,Coritiba,0,3,Cuiabá,VV,0,3,261
-Série A,2023,2023-10-18,América-MG,1,2,Botafogo,VV,0,3,262
-Série A,2023,2023-10-18,Bahia,1,0,Internacional,VC,3,0,263
-Série A,2023,2023-10-18,Grêmio,1,2,Athletico-PR,VV,0,3,264
-Série A,2023,2023-10-18,Goiás,2,0,São Paulo,VC,3,0,265
-Série A,2023,2023-10-18,Vasco,1,0,Fortaleza,VC,3,0,266
-Série A,2023,2023-10-19,Fluminense,3,3,Corinthians,E,1,1,267
-Série A,2023,2023-10-19,Palmeiras,0,2,Atlético-MG,VV,0,3,268
-Série A,2023,2023-10-19,Santos,1,3,Red Bull Bragantino,VV,0,3,269
-Série A,2023,2023-10-19,Cruzeiro,0,2,Flamengo,VV,0,3,270
+Série A,2023,2023-10-18,Vasco,1,0,Fortaleza,VC,3,0,261
+Série A,2023,2023-10-18,Goiás,2,0,São Paulo,VC,3,0,262
+Série A,2023,2023-10-18,Grêmio,1,2,Athletico-PR,VV,0,3,263
+Série A,2023,2023-10-18,Coritiba,0,3,Cuiabá,VV,0,3,264
+Série A,2023,2023-10-18,Bahia,1,0,Internacional,VC,3,0,265
+Série A,2023,2023-10-18,América-MG,1,2,Botafogo,VV,0,3,266
+Série A,2023,2023-10-19,Cruzeiro,0,2,Flamengo,VV,0,3,267
+Série A,2023,2023-10-19,Santos,1,3,Red Bull Bragantino,VV,0,3,268
+Série A,2023,2023-10-19,Palmeiras,0,2,Atlético-MG,VV,0,3,269
+Série A,2023,2023-10-19,Fluminense,3,3,Corinthians,E,1,1,270
 Série A,2023,2023-10-21,Bahia,2,0,Fortaleza,VC,3,0,271
 Série A,2023,2023-10-21,Cuiabá,1,1,Goiás,E,1,1,272
 Série A,2023,2023-10-21,São Paulo,3,0,Grêmio,VC,3,0,273
-Série A,2023,2023-10-22,Atlético-MG,0,1,Cruzeiro,VV,0,3,274
-Série A,2023,2023-10-22,Internacional,7,1,Santos,VC,3,0,275
-Série A,2023,2023-10-22,Coritiba,0,2,Palmeiras,VV,0,3,276
+Série A,2023,2023-10-22,Internacional,7,1,Santos,VC,3,0,274
+Série A,2023,2023-10-22,Botafogo,1,1,Athletico-PR,E,1,1,275
+Série A,2023,2023-10-22,Corinthians,1,1,América-MG,E,1,1,276
 Série A,2023,2023-10-22,Flamengo,1,0,Vasco,VC,3,0,277
-Série A,2023,2023-10-22,Corinthians,1,1,América-MG,E,1,1,278
-Série A,2023,2023-10-22,Red Bull Bragantino,1,0,Fluminense,VC,3,0,279
-Série A,2023,2023-10-22,Botafogo,1,1,Athletico-PR,E,1,1,280
-Série A,2023,2023-10-25,Cuiabá,0,1,Corinthians,VV,0,3,281
-Série A,2023,2023-10-25,Palmeiras,5,0,São Paulo,VC,3,0,282
-Série A,2023,2023-10-25,Cruzeiro,3,0,Bahia,VC,3,0,283
-Série A,2023,2023-10-25,Grêmio,3,2,Flamengo,VC,3,0,284
-Série A,2023,2023-10-25,Athletico-PR,3,2,América-MG,VC,3,0,285
-Série A,2023,2023-10-25,Red Bull Bragantino,1,2,Atlético-MG,VV,0,3,286
-Série A,2023,2023-10-25,Fluminense,5,3,Goiás,VC,3,0,287
+Série A,2023,2023-10-22,Red Bull Bragantino,1,0,Fluminense,VC,3,0,278
+Série A,2023,2023-10-22,Atlético-MG,0,1,Cruzeiro,VV,0,3,279
+Série A,2023,2023-10-22,Coritiba,0,2,Palmeiras,VV,0,3,280
+Série A,2023,2023-10-25,Red Bull Bragantino,1,2,Atlético-MG,VV,0,3,281
+Série A,2023,2023-10-25,Fluminense,5,3,Goiás,VC,3,0,282
+Série A,2023,2023-10-25,Athletico-PR,3,2,América-MG,VC,3,0,283
+Série A,2023,2023-10-25,Cruzeiro,3,0,Bahia,VC,3,0,284
+Série A,2023,2023-10-25,Grêmio,3,2,Flamengo,VC,3,0,285
+Série A,2023,2023-10-25,Palmeiras,5,0,São Paulo,VC,3,0,286
+Série A,2023,2023-10-25,Cuiabá,0,1,Corinthians,VV,0,3,287
 Série A,2023,2023-10-26,Vasco,1,2,Internacional,VV,0,3,288
 Série A,2023,2023-10-26,Santos,2,1,Coritiba,VC,3,0,289
-Série A,2023,2023-10-28,América-MG,3,4,Grêmio,VV,0,3,290
-Série A,2023,2023-10-28,Palmeiras,1,0,Bahia,VC,3,0,291
-Série A,2023,2023-10-28,Atlético-MG,2,0,Fluminense,VC,3,0,292
-Série A,2023,2023-10-29,Botafogo,0,1,Cuiabá,VV,0,3,293
-Série A,2023,2023-10-29,Corinthians,1,1,Santos,E,1,1,294
-Série A,2023,2023-10-29,Goiás,1,1,Vasco,E,1,1,295
-Série A,2023,2023-10-29,Internacional,3,4,Coritiba,VV,0,3,296
-Série A,2023,2023-10-29,Athletico-PR,1,1,São Paulo,E,1,1,297
+Série A,2023,2023-10-28,Palmeiras,1,0,Bahia,VC,3,0,290
+Série A,2023,2023-10-28,Atlético-MG,2,0,Fluminense,VC,3,0,291
+Série A,2023,2023-10-28,América-MG,3,4,Grêmio,VV,0,3,292
+Série A,2023,2023-10-29,Athletico-PR,1,1,São Paulo,E,1,1,293
+Série A,2023,2023-10-29,Goiás,1,1,Vasco,E,1,1,294
+Série A,2023,2023-10-29,Internacional,3,4,Coritiba,VV,0,3,295
+Série A,2023,2023-10-29,Botafogo,0,1,Cuiabá,VV,0,3,296
+Série A,2023,2023-10-29,Corinthians,1,1,Santos,E,1,1,297
 Série A,2023,2023-10-31,Bahia,1,0,Fluminense,VC,3,0,298
-Série A,2023,2023-11-01,Internacional,1,1,América-MG,E,1,1,299
-Série A,2023,2023-11-01,Coritiba,1,2,Grêmio,VV,0,3,300
+Série A,2023,2023-11-01,Flamengo,1,2,Santos,VV,0,3,299
+Série A,2023,2023-11-01,Botafogo,3,4,Palmeiras,VV,0,3,300
 Série A,2023,2023-11-01,Corinthians,1,0,Athletico-PR,VC,3,0,301
-Série A,2023,2023-11-01,Botafogo,3,4,Palmeiras,VV,0,3,302
-Série A,2023,2023-11-01,Flamengo,1,2,Santos,VV,0,3,303
-Série A,2023,2023-11-01,Atlético-MG,3,1,Fortaleza,VC,3,0,304
-Série A,2023,2023-11-02,São Paulo,1,0,Cruzeiro,VC,3,0,305
+Série A,2023,2023-11-01,Atlético-MG,3,1,Fortaleza,VC,3,0,302
+Série A,2023,2023-11-01,Internacional,1,1,América-MG,E,1,1,303
+Série A,2023,2023-11-01,Coritiba,1,2,Grêmio,VV,0,3,304
+Série A,2023,2023-11-02,Cuiabá,0,2,Vasco,VV,0,3,305
 Série A,2023,2023-11-02,Goiás,0,2,Red Bull Bragantino,VV,0,3,306
-Série A,2023,2023-11-02,Cuiabá,0,2,Vasco,VV,0,3,307
-Série A,2023,2023-11-04,Palmeiras,1,0,Athletico-PR,VC,3,0,308
-Série A,2023,2023-11-04,Grêmio,1,0,Bahia,VC,3,0,309
-Série A,2023,2023-11-04,América-MG,1,1,Atlético-MG,E,1,1,310
-Série A,2023,2023-11-05,Cruzeiro,1,2,Internacional,VV,0,3,311
-Série A,2023,2023-11-05,Red Bull Bragantino,1,0,Corinthians,VC,3,0,312
+Série A,2023,2023-11-02,São Paulo,1,0,Cruzeiro,VC,3,0,307
+Série A,2023,2023-11-04,América-MG,1,1,Atlético-MG,E,1,1,308
+Série A,2023,2023-11-04,Palmeiras,1,0,Athletico-PR,VC,3,0,309
+Série A,2023,2023-11-04,Grêmio,1,0,Bahia,VC,3,0,310
+Série A,2023,2023-11-05,Red Bull Bragantino,1,0,Corinthians,VC,3,0,311
+Série A,2023,2023-11-05,Cruzeiro,1,2,Internacional,VV,0,3,312
 Série A,2023,2023-11-05,Coritiba,0,1,Goiás,VV,0,3,313
 Série A,2023,2023-11-05,Fortaleza,0,2,Flamengo,VV,0,3,314
 Série A,2023,2023-11-06,Vasco,1,0,Botafogo,VC,3,0,315
 Série A,2023,2023-11-06,Santos,0,0,Cuiabá,E,1,1,316
-Série A,2023,2023-11-08,Athletico-PR,1,1,Fortaleza,E,1,1,317
-Série A,2023,2023-11-08,Internacional,0,0,Fluminense,E,1,1,318
-Série A,2023,2023-11-08,América-MG,0,3,Coritiba,VV,0,3,319
-Série A,2023,2023-11-08,Flamengo,3,0,Palmeiras,VC,3,0,320
-Série A,2023,2023-11-08,São Paulo,1,0,Red Bull Bragantino,VC,3,0,321
-Série A,2023,2023-11-09,Bahia,0,3,Cuiabá,VV,0,3,322
-Série A,2023,2023-11-09,Goiás,0,1,Santos,VV,0,3,323
+Série A,2023,2023-11-08,São Paulo,1,0,Red Bull Bragantino,VC,3,0,317
+Série A,2023,2023-11-08,Flamengo,3,0,Palmeiras,VC,3,0,318
+Série A,2023,2023-11-08,Internacional,0,0,Fluminense,E,1,1,319
+Série A,2023,2023-11-08,Athletico-PR,1,1,Fortaleza,E,1,1,320
+Série A,2023,2023-11-08,América-MG,0,3,Coritiba,VV,0,3,321
+Série A,2023,2023-11-09,Goiás,0,1,Santos,VV,0,3,322
+Série A,2023,2023-11-09,Bahia,0,3,Cuiabá,VV,0,3,323
 Série A,2023,2023-11-09,Botafogo,3,4,Grêmio,VV,0,3,324
 Série A,2023,2023-11-09,Corinthians,1,1,Atlético-MG,E,1,1,325
-Série A,2023,2023-11-11,Flamengo,1,1,Fluminense,E,1,1,326
-Série A,2023,2023-11-11,Palmeiras,3,0,Internacional,VC,3,0,327
-Série A,2023,2023-11-11,Coritiba,1,0,Cruzeiro,VC,3,0,328
-Série A,2023,2023-11-12,Grêmio,0,1,Corinthians,VV,0,3,329
-Série A,2023,2023-11-12,Atlético-MG,2,1,Goiás,VC,3,0,330
-Série A,2023,2023-11-12,Cuiabá,2,1,Fortaleza,VC,3,0,331
-Série A,2023,2023-11-12,Santos,0,0,São Paulo,E,1,1,332
-Série A,2023,2023-11-12,Vasco,2,1,América-MG,VC,3,0,333
-Série A,2023,2023-11-12,Red Bull Bragantino,2,2,Botafogo,E,1,1,334
-Série A,2023,2023-11-12,Bahia,1,1,Athletico-PR,E,1,1,335
+Série A,2023,2023-11-11,Palmeiras,3,0,Internacional,VC,3,0,326
+Série A,2023,2023-11-11,Coritiba,1,0,Cruzeiro,VC,3,0,327
+Série A,2023,2023-11-11,Flamengo,1,1,Fluminense,E,1,1,328
+Série A,2023,2023-11-12,Cuiabá,2,1,Fortaleza,VC,3,0,329
+Série A,2023,2023-11-12,Bahia,1,1,Athletico-PR,E,1,1,330
+Série A,2023,2023-11-12,Grêmio,0,1,Corinthians,VV,0,3,331
+Série A,2023,2023-11-12,Vasco,2,1,América-MG,VC,3,0,332
+Série A,2023,2023-11-12,Red Bull Bragantino,2,2,Botafogo,E,1,1,333
+Série A,2023,2023-11-12,Santos,0,0,São Paulo,E,1,1,334
+Série A,2023,2023-11-12,Atlético-MG,2,1,Goiás,VC,3,0,335
 Série A,2023,2023-11-18,Fortaleza,0,1,Cruzeiro,VV,0,3,336
 Série A,2023,2023-11-22,Cruzeiro,2,2,Vasco,E,1,1,337
 Série A,2023,2023-11-22,Fluminense,1,0,São Paulo,VC,3,0,338
 Série A,2023,2023-11-23,Flamengo,1,0,Red Bull Bragantino,VC,3,0,339
 Série A,2023,2023-11-23,Fortaleza,2,2,Botafogo,E,1,1,340
 Série A,2023,2023-11-24,Corinthians,1,5,Bahia,VV,0,3,341
-Série A,2023,2023-11-25,Fluminense,2,1,Coritiba,VC,3,0,342
-Série A,2023,2023-11-25,Athletico-PR,0,0,Vasco,E,1,1,343
-Série A,2023,2023-11-26,Fortaleza,2,2,Palmeiras,E,1,1,344
-Série A,2023,2023-11-26,América-MG,0,3,Flamengo,VV,0,3,345
-Série A,2023,2023-11-26,Internacional,1,0,Red Bull Bragantino,VC,3,0,346
-Série A,2023,2023-11-26,São Paulo,0,0,Cuiabá,E,1,1,347
-Série A,2023,2023-11-26,Botafogo,1,1,Santos,E,1,1,348
-Série A,2023,2023-11-26,Atlético-MG,3,0,Grêmio,VC,3,0,349
+Série A,2023,2023-11-25,Athletico-PR,0,0,Vasco,E,1,1,342
+Série A,2023,2023-11-25,Fluminense,2,1,Coritiba,VC,3,0,343
+Série A,2023,2023-11-26,Botafogo,1,1,Santos,E,1,1,344
+Série A,2023,2023-11-26,São Paulo,0,0,Cuiabá,E,1,1,345
+Série A,2023,2023-11-26,Atlético-MG,3,0,Grêmio,VC,3,0,346
+Série A,2023,2023-11-26,Internacional,1,0,Red Bull Bragantino,VC,3,0,347
+Série A,2023,2023-11-26,Fortaleza,2,2,Palmeiras,E,1,1,348
+Série A,2023,2023-11-26,América-MG,0,3,Flamengo,VV,0,3,349
 Série A,2023,2023-11-27,Goiás,0,1,Cruzeiro,VV,0,3,350
 Série A,2023,2023-11-28,Vasco,2,4,Corinthians,VV,0,3,351
-Série A,2023,2023-11-29,Flamengo,0,3,Atlético-MG,VV,0,3,352
-Série A,2023,2023-11-29,Palmeiras,4,0,América-MG,VC,3,0,353
-Série A,2023,2023-11-29,Santos,0,3,Fluminense,VV,0,3,354
-Série A,2023,2023-11-29,Coritiba,1,1,Botafogo,E,1,1,355
-Série A,2023,2023-11-29,Bahia,0,1,São Paulo,VV,0,3,356
-Série A,2023,2023-11-29,Cuiabá,0,2,Internacional,VV,0,3,357
-Série A,2023,2023-11-30,Grêmio,2,1,Goiás,VC,3,0,358
-Série A,2023,2023-11-30,Red Bull Bragantino,1,2,Fortaleza,VV,0,3,359
-Série A,2023,2023-11-30,Cruzeiro,1,1,Athletico-PR,E,1,1,360
+Série A,2023,2023-11-29,Bahia,0,1,São Paulo,VV,0,3,352
+Série A,2023,2023-11-29,Cuiabá,0,2,Internacional,VV,0,3,353
+Série A,2023,2023-11-29,Coritiba,1,1,Botafogo,E,1,1,354
+Série A,2023,2023-11-29,Flamengo,0,3,Atlético-MG,VV,0,3,355
+Série A,2023,2023-11-29,Palmeiras,4,0,América-MG,VC,3,0,356
+Série A,2023,2023-11-29,Santos,0,3,Fluminense,VV,0,3,357
+Série A,2023,2023-11-30,Red Bull Bragantino,1,2,Fortaleza,VV,0,3,358
+Série A,2023,2023-11-30,Cruzeiro,1,1,Athletico-PR,E,1,1,359
+Série A,2023,2023-11-30,Grêmio,2,1,Goiás,VC,3,0,360
 Série A,2023,2023-12-02,Corinthians,1,2,Internacional,VV,0,3,361
 Série A,2023,2023-12-02,Atlético-MG,2,1,São Paulo,VC,3,0,362
-Série A,2023,2023-12-03,Fortaleza,1,0,Goiás,VC,3,0,363
+Série A,2023,2023-12-03,América-MG,3,2,Bahia,VC,3,0,363
 Série A,2023,2023-12-03,Flamengo,2,1,Cuiabá,VC,3,0,364
 Série A,2023,2023-12-03,Botafogo,0,0,Cruzeiro,E,1,1,365
 Série A,2023,2023-12-03,Palmeiras,1,0,Fluminense,VC,3,0,366
 Série A,2023,2023-12-03,Red Bull Bragantino,1,0,Coritiba,VC,3,0,367
 Série A,2023,2023-12-03,Grêmio,1,0,Vasco,VC,3,0,368
 Série A,2023,2023-12-03,Athletico-PR,3,0,Santos,VC,3,0,369
-Série A,2023,2023-12-03,América-MG,3,2,Bahia,VC,3,0,370
+Série A,2023,2023-12-03,Fortaleza,1,0,Goiás,VC,3,0,370
+Série A,2023,2023-12-06,Internacional,3,1,Botafogo,VC,3,0,371
+Série A,2023,2023-12-06,Cruzeiro,1,1,Palmeiras,E,1,1,372
+Série A,2023,2023-12-06,Coritiba,0,2,Corinthians,VV,0,3,373
+Série A,2023,2023-12-06,Goiás,1,0,América-MG,VC,3,0,374
+Série A,2023,2023-12-06,Bahia,4,1,Atlético-MG,VC,3,0,375
+Série A,2023,2023-12-06,São Paulo,1,0,Flamengo,VC,3,0,376
+Série A,2023,2023-12-06,Vasco,2,1,Red Bull Bragantino,VC,3,0,377
+Série A,2023,2023-12-06,Fluminense,2,3,Grêmio,VV,0,3,378
+Série A,2023,2023-12-06,Santos,1,2,Fortaleza,VV,0,3,379
+Série A,2023,2023-12-06,Cuiabá,3,0,Athletico-PR,VC,3,0,380
